@@ -1,0 +1,77 @@
+{
+  "kp": "Bình Chuẩn 1",
+  "phuong": "An Phú, TP.HCM",
+  "generatedAt": 1787400000000,
+  "stats": {
+    "total": 12,
+    "done": 5,
+    "overdue": 0,
+    "onTimePct": 92,
+    "reachPct": 64
+  },
+  "notices": [
+    {
+      "title": "Lịch thu gom rác điều chỉnh",
+      "body": "Xe thu gom đến sớm 1 giờ các ngày lễ. Đề nghị đưa rác ra trước 6h sáng.",
+      "group": "Toàn khu phố",
+      "createdAt": 1787227200000
+    },
+    {
+      "title": "Khảo sát nhà trọ lắp báo cháy miễn phí",
+      "body": "Tổ công nghệ số đi khảo sát các dãy trọ từ ngày 25/8. Chủ trọ chuẩn bị sẵn sơ đồ dãy nhà.",
+      "group": "Nhà trọ",
+      "createdAt": 1787313600000
+    },
+    {
+      "title": "Hướng dẫn định danh điện tử VNeID mức 2",
+      "body": "Chủ hộ chưa làm định danh mức 2 vui lòng liên hệ Tổ công nghệ số tại nhà văn hóa khu phố.",
+      "group": "Toàn khu phố",
+      "createdAt": 1787140800000
+    }
+  ],
+  "alerts": [
+    {
+      "type": "luadao",
+      "title": "Cảnh báo lừa đảo việc nhẹ lương cao",
+      "body": "Nhóm đối tượng tuyển việc yêu cầu đặt cọc trước. KHÔNG chuyển khoản, báo ngay tổ dân phòng.",
+      "until": 1788004800000
+    }
+  ],
+  "recent": [
+    {
+      "id": "BC1-2026-00001",
+      "cat": "rac",
+      "title": "Rác tồn đọng cuối hẻm 25",
+      "status": "dong",
+      "closedAt": 1787227200000
+    },
+    {
+      "id": "BC1-2026-00003",
+      "cat": "den",
+      "title": "Đèn đường hỏng trước cổng nhà văn hóa",
+      "status": "hoanthanh",
+      "closedAt": 1787054400000
+    },
+    {
+      "id": "BC1-2026-00005",
+      "cat": "ngap",
+      "title": "Điểm ngập cống bể cạnh chợ tạm",
+      "status": "hoanthanh",
+      "closedAt": 1786968000000
+    },
+    {
+      "id": "BC1-2026-00007",
+      "cat": "pccc",
+      "title": "Lối thoát hiểm dãy trọ 12 bị chắn",
+      "status": "hoanthanh",
+      "closedAt": 1786881600000
+    },
+    {
+      "id": "BC1-2026-00009",
+      "cat": "cayxanh",
+      "title": "Cây xanh nghiêng nguy hiểm sau mưa",
+      "status": "dong",
+      "closedAt": 1786795200000
+    }
+  ]
+}

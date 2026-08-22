@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KP-SỐ Bình Chuẩn 1 — Kênh cộng đồng khu phố số</title>
+<style>
+:root{--pri:#0f766e;--pri2:#14b8a6;--bg:#f0fdfa;--ink:#134e4a;--mut:#5f7470;--red:#dc2626;--amber:#d97706}
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',system-ui,Arial,sans-serif}
+body{background:var(--bg);color:var(--ink)}
+header{background:linear-gradient(120deg,#134e4a,#0f766e,#14b8a6);color:#fff;padding:22px 16px;text-align:center}
+header h1{font-size:21px}header p{font-size:13px;opacity:.9;margin-top:4px}
+main{max-width:720px;margin:0 auto;padding:16px}
+.hero{display:grid;gap:10px;margin:-26px 0 18px}
+.big{display:flex;align-items:center;gap:12px;background:#fff;border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 6px 20px rgba(15,118,110,.15);border:1px solid #ccfbf1}
+.big .ic{font-size:28px}.big b{font-size:16px;display:block}.big span{font-size:12.5px;color:var(--mut)}
+.big.main{background:linear-gradient(90deg,var(--pri),var(--pri2));color:#fff;border:none}
+.big.main span{color:#d1fae5}
+.card{background:#fff;border-radius:14px;padding:14px;margin-bottom:14px;border:1px solid #e2e8f0}
+.card h3{font-size:15px;margin-bottom:8px}
+.item{padding:10px 0;border-bottom:1px solid #f1f5f9}
+.item:last-child{border:none}
+.item b{font-size:14px}
+.item p{font-size:13px;color:#334155;margin-top:3px}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;background:#f0fdfa;color:var(--pri);margin-bottom:4px}
+.alert{border-left:4px solid var(--red);background:#fef2f2;border-radius:10px;padding:10px 12px;margin-bottom:8px}
+.alert b{color:#b91c1c;font-size:14px}.alert p{font-size:13px;margin-top:3px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center}
+.stats .n{font-size:19px;font-weight:800;color:var(--pri)}.stats .l{font-size:10.5px;color:var(--mut)}
+.up{font-size:11px;color:var(--mut);text-align:center;margin:6px 0 14px}
+footer{text-align:center;font-size:11.5px;color:var(--mut);padding:16px;line-height:1.7}
+.how{font-size:13px;line-height:1.8}
+.how li{margin-left:18px;margin-top:4px}
+@media(max-width:480px){.stats{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<header>
+  <h1>🏘 KP-SỐ · KHU PHỐ BÌNH CHUẨN 1</h1>
+  <p>Kênh cộng đồng số — Phường An Phú, TP.HCM</p>
+</header>
+<main>
+  <div class="hero">
+    <a class="big main" id="btnForm" href="#" target="_blank" rel="noopener"><span class="ic">📨</span><span><b>GỬI PHẢN ÁNH HIỆN TRƯỜNG</b><span>Rác · Ngập · Đèn đường · An ninh · PCCC nhà trọ… (30 giây, không cần đăng nhập)</span></span></a>
+    <a class="big" id="btnCall" href="#"><span class="ic">☎️</span><span><b>Gọi hotline khu phố</b><span>Việc khẩn cấp: cháy, ngập sâu, nguy hiểm tính mạng — gọi ngay</span></span></a>
+    <a class="big" id="btnZalo" href="#" target="_blank" rel="noopener"><span class="ic">💬</span><span><b>Nhóm Zalo / OA khu phố</b><span>Thông tin chính thống, cảnh báo, hỗ trợ kỹ năng số</span></span></a>
+  </div>
+
+  <div class="up" id="updated">Đang tải dữ liệu…</div>
+
+  <div class="card"><h3>📊 Số liệu khu phố</h3>
+    <div class="stats" id="stats"></div>
+  </div>
+
+  <div class="card"><h3>🚨 Cảnh báo đang hiệu lực</h3><div id="alerts"></div></div>
+
+  <div class="card"><h3>📢 Thông báo mới</h3><div id="notices"></div></div>
+
+  <div class="card"><h3>✅ Vừa xử lý xong</h3><div id="recent"></div></div>
+
+  <div class="card"><h3>🤝 Gửi phản ánh thế nào cho nhanh?</h3>
+    <ul class="how">
+      <li><b>Cách 1:</b> Bấm nút xanh "Gửi phản ánh hiện trường" ở trên → chọn lĩnh vực → ghi địa chỉ hẻm/số nhà trọ → gửi.</li>
+      <li><b>Cách 2:</b> Quét QR tại các biển dán trong hẻm (mỗi điểm có QR riêng).</li>
+      <li><b>Cách 3:</b> Gọi hotline hoặc nhắn Tổ công nghệ số nếu chưa quen dùng điện thoại.</li>
+      <li>Vụ việc của bạn sẽ có <b>mã riêng</b> để theo dõi kết quả — khu phố phản hồi trong ngày.</li>
+    </ul>
+    <p style="font-size:12px;color:var(--mut);margin-top:8px">🔒 Không cần cung cấp CCCD hay thông tin cá nhân nhạy cảm. Có thể gửi ẩn danh.</p>
+  </div>
+</main>
+<footer>
+  Mô hình thí điểm "Khu phố số" — khu phố Bình Chuẩn 1 (tách từ Bình Phước A), phường An Phú.<br>
+  SLA phản hồi là cam kết dịch vụ nội bộ của khu phố. Vụ khẩn cấp về PCCC/an ninh vui lòng gọi 114 trước.
+</footer>
+
+<script>
+'use strict';
+/* ====== CẤU HÌNH — thay link thật sau khi tạo Google Form / nhóm Zalo ====== */
+const CONFIG={
+  formUrl:'https://tinyurl.com/23dw72ku',
+  hotline:'tel:+84900000000',
+  zalo:'https://zalo.me/THAY-LINK-NHOM-ZALO'
+};
+document.getElementById('btnForm').href=CONFIG.formUrl;
+document.getElementById('btnCall').href=CONFIG.hotline;
+document.getElementById('btnZalo').href=CONFIG.zalo;
+
+const CATS={rac:'Rác thải',ngap:'Ngập nước',den:'Đèn đường',cayxanh:'Cây xanh',aninh:'An ninh trật tự',pccc:'PCCC nhà trọ',hatang:'Hạ tầng khác',tratut:'Trật tự đô thị',diennuoc:'Điện – nước'};
+const AT={luadao:'Lừa đảo',thoitiet:'Thời tiết',pccc:'PCCC',aninh:'An ninh',khac:'Khác'};
+
+/* Dữ liệu dự phòng khi chưa có file public.json */
+const FALLBACK={kp:'Bình Chuẩn 1',phuong:'An Phú',generatedAt:Date.now(),
+ stats:{total:12,done:5,onTimePct:92,reachPct:64},
+ notices:[{title:'Lịch thu gom rác điều chỉnh',body:'Xe thu gom đến sớm 1 giờ các ngày lễ. Đề nghị đưa rác ra trước 6h.',group:'Toàn khu phố',createdAt:Date.now()-3*864e5}],
+ alerts:[{type:'luadao',title:'Cảnh báo lừa đảo "việc nhẹ lương cao"',body:'Nhóm đối tượng tuyển việc yêu cầu đặt cọc trước. Không chuyển khoản!',until:Date.now()+7*864e5}],
+ recent:[{id:'BC1-2026-00001',cat:'rac',title:'Rác tồn đọng cuối hẻm 25',status:'dong',closedAt:Date.now()-2*864e5}]};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];});}
+function fd(ts){return new Date(ts).toLocaleDateString('vi-VN');}
+
+function render(D){
+ document.getElementById('updated').textContent='Cập nhật lúc: '+new Date(D.generatedAt).toLocaleString('vi-VN');
+ const st=document.getElementById('stats');
+ st.innerHTML='<div><div class="n">'+D.stats.total+'</div><div class="l">Phản ánh</div></div>'
+ +'<div><div class="n">'+D.stats.done+'</div><div class="l">Đã xử lý</div></div>'
+ +'<div><div class="n">'+D.stats.onTimePct+'%</div><div class="l">Đúng hạn</div></div>'
+ +'<div><div class="n">'+D.stats.reachPct+'%</div><div class="l">Tiếp cận tin</div></div>';
+ document.getElementById('alerts').innerHTML=(D.alerts&&D.alerts.length?D.alerts.map(function(a){
+   return '<div class="alert"><b>['+(AT[a.type]||'Khác')+'] '+esc(a.title)+'</b><p>'+esc(a.body)+'</p><p style="font-size:11px;color:var(--mut)">đến '+fd(a.until)+'</p></div>';}).join('')
+   :'<p style="font-size:13px;color:var(--mut)">Hiện không có cảnh báo nào. 🎉</p>');
+ document.getElementById('notices').innerHTML=(D.notices&&D.notices.length?D.notices.map(function(n){
+   return '<div class="item"><span class="tag">'+esc(n.group)+'</span><br><b>'+esc(n.title)+'</b><p>'+esc(n.body)+'</p><p style="font-size:11px;color:var(--mut)">'+fd(n.createdAt)+'</p></div>';}).join('')
+   :'<p style="font-size:13px;color:var(--mut)">Chưa có thông báo.</p>');
+ document.getElementById('recent').innerHTML=(D.recent&&D.recent.length?D.recent.map(function(r){
+   return '<div class="item"><span class="tag">'+(CATS[r.cat]||'')+'</span><br><b>'+esc(r.title)+'</b><p style="font-size:11.5px;color:var(--mut)">Mã '+esc(r.id)+' · đã xử lý xong '+fd(r.closedAt)+' ✓</p></div>';}).join('')
+   :'<p style="font-size:13px;color:var(--mut)">Chưa có dữ liệu.</p>');
+}
+fetch('public.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json();})
+ .then(render).catch(function(){render(FALLBACK);
+   const u=document.getElementById('updated');u.textContent='(Đang hiển thị dữ liệu mẫu — hãy xuất public.json từ app quản trị và đăng kèm trang này)';});
+</script>
+</body>
+</html>
