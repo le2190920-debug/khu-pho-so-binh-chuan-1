@@ -7,8 +7,58 @@
     "done": 5,
     "overdue": 0,
     "onTimePct": 92,
+    "avgDoneHrs": 18.5,
     "reachPct": 64
   },
+  "byCat": {
+    "rac": 3,
+    "ngap": 2,
+    "den": 2,
+    "cayxanh": 1,
+    "aninh": 1,
+    "pccc": 1,
+    "hatang": 1,
+    "tratut": 0,
+    "diennuoc": 1
+  },
+  "byDay": [
+    { "d": 1786752000000, "n": 1 },
+    { "d": 1786838400000, "n": 2 },
+    { "d": 1786924800000, "n": 1 },
+    { "d": 1787011200000, "n": 3 },
+    { "d": 1787097600000, "n": 1 },
+    { "d": 1787184000000, "n": 2 },
+    { "d": 1787270400000, "n": 2 }
+  ],
+  "active": [
+    {
+      "id": "BC1-2026-00010",
+      "cat": "pccc",
+      "pri": "cao",
+      "title": "Dãy trọ số 12 thiếu bình chữa cháy tầng 2",
+      "status": "xuly",
+      "createdAt": 1787389200000,
+      "area": "Hẻm 25"
+    },
+    {
+      "id": "BC1-2026-00011",
+      "cat": "den",
+      "pri": "binhthuong",
+      "title": "Đèn đường nhấp nháy trước cổng nhà văn hóa",
+      "status": "xacthuc",
+      "createdAt": 1787392800000,
+      "area": "Đường số 3"
+    },
+    {
+      "id": "BC1-2026-00012",
+      "cat": "ngap",
+      "pri": "khancap",
+      "title": "Ống cống nghẹt gây ngập cục bộ khi mưa lớn",
+      "status": "moi",
+      "createdAt": 1787396400000,
+      "area": "Cuối hẻm 41"
+    }
+  ],
   "notices": [
     {
       "title": "Lịch thu gom rác điều chỉnh",

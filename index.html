@@ -3,79 +3,127 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>KP-SỐ Bình Chuẩn 1 — Kênh cộng đồng khu phố số</title>
+<title>TRUNG TÂM ĐIỀU HÀNH KHU PHỐ SỐ — Bình Chuẩn 1</title>
 <style>
-:root{--pri:#0f766e;--pri2:#14b8a6;--bg:#f0fdfa;--ink:#134e4a;--mut:#5f7470;--red:#dc2626;--amber:#d97706}
+:root{--bg:#050d1f;--card:#0b1c3a;--line:#12305e;--cy:#22d3ee;--te:#2dd4bf;--am:#fbbf24;--rd:#fb7185;--tx:#dbeafe;--mut:#7ea4d9}
 *{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',system-ui,Arial,sans-serif}
-body{background:var(--bg);color:var(--ink)}
-header{background:linear-gradient(120deg,#134e4a,#0f766e,#14b8a6);color:#fff;padding:22px 16px;text-align:center}
-header h1{font-size:21px}header p{font-size:13px;opacity:.9;margin-top:4px}
-main{max-width:720px;margin:0 auto;padding:16px}
-.hero{display:grid;gap:10px;margin:-26px 0 18px}
-.big{display:flex;align-items:center;gap:12px;background:#fff;border-radius:16px;padding:16px;text-decoration:none;color:var(--ink);box-shadow:0 6px 20px rgba(15,118,110,.15);border:1px solid #ccfbf1}
-.big .ic{font-size:28px}.big b{font-size:16px;display:block}.big span{font-size:12.5px;color:var(--mut)}
-.big.main{background:linear-gradient(90deg,var(--pri),var(--pri2));color:#fff;border:none}
-.big.main span{color:#d1fae5}
-.card{background:#fff;border-radius:14px;padding:14px;margin-bottom:14px;border:1px solid #e2e8f0}
-.card h3{font-size:15px;margin-bottom:8px}
-.item{padding:10px 0;border-bottom:1px solid #f1f5f9}
-.item:last-child{border:none}
-.item b{font-size:14px}
-.item p{font-size:13px;color:#334155;margin-top:3px}
-.tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;background:#f0fdfa;color:var(--pri);margin-bottom:4px}
-.alert{border-left:4px solid var(--red);background:#fef2f2;border-radius:10px;padding:10px 12px;margin-bottom:8px}
-.alert b{color:#b91c1c;font-size:14px}.alert p{font-size:13px;margin-top:3px}
-.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center}
-.stats .n{font-size:19px;font-weight:800;color:var(--pri)}.stats .l{font-size:10.5px;color:var(--mut)}
-.up{font-size:11px;color:var(--mut);text-align:center;margin:6px 0 14px}
-footer{text-align:center;font-size:11.5px;color:var(--mut);padding:16px;line-height:1.7}
-.how{font-size:13px;line-height:1.8}
-.how li{margin-left:18px;margin-top:4px}
-@media(max-width:480px){.stats{grid-template-columns:repeat(2,1fr)}}
+body{background:radial-gradient(1200px 600px at 70% -10%,#123a6d 0%,var(--bg) 55%);color:var(--tx);min-height:100vh}
+header{padding:16px 20px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;border-bottom:1px solid var(--line);background:linear-gradient(90deg,#081531,#0d2550)}
+header .logo{font-size:26px}
+header h1{font-size:17px;color:#fff;letter-spacing:.5px}
+header .sub{font-size:11.5px;color:var(--cy);letter-spacing:2px}
+#clock{margin-left:auto;text-align:right}
+#clock b{font-size:19px;color:var(--te);display:block}
+#clock span{font-size:11px;color:var(--mut)}
+main{max-width:1180px;margin:0 auto;padding:14px 16px 30px}
+.cta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:14px}
+.cta a{display:flex;align-items:center;gap:10px;background:linear-gradient(120deg,#0e7490,#0891b2);color:#fff;text-decoration:none;padding:13px 14px;border-radius:14px;border:1px solid #155e75;font-weight:700;font-size:13.5px}
+.cta a.z{background:linear-gradient(120deg,#0369a1,#0284c7)}.cta a.h{background:linear-gradient(120deg,#b45309,#d97706)}
+.cta .ic{font-size:22px}.ctas small{display:block;font-weight:400;opacity:.85;font-size:11px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin-bottom:12px}
+.pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.pil{background:#0a1832;border:1px solid var(--line);border-radius:10px;padding:9px 10px}
+.pil b{font-size:12px;display:block}
+.pil .pp{font-size:16px;font-weight:800;color:var(--te)}
+.road{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.step{background:#0a1832;border:1px solid var(--line);border-radius:10px;padding:10px}
+.step b{color:var(--cy);font-size:12px;display:block;margin-bottom:3px}
+.step span{font-size:11.5px}
+.step.now{border-color:var(--te);box-shadow:0 0 12px rgba(45,212,191,.25)}
+#q{flex:1;min-width:170px;background:#08152e;border:1px solid var(--line);color:var(--tx);padding:10px 12px;border-radius:10px;font-size:14px}
+#q:focus{outline:1px solid var(--cy)}
+.qbtn{background:#0e7490;border:none;color:#fff;font-weight:700;padding:10px 18px;border-radius:10px;cursor:pointer}
+.kpi{background:linear-gradient(160deg,var(--card),#0a1730);border:1px solid var(--line);border-radius:14px;padding:13px 15px;position:relative;overflow:hidden}
+.kpi:before{content:'';position:absolute;top:0;left:0;width:100%;height:3px;background:var(--ac,var(--cy))}
+.kpi .n{font-size:29px;font-weight:800;color:var(--ac,var(--cy));text-shadow:0 0 18px var(--ac,var(--cy))}
+.kpi .l{font-size:11.5px;color:var(--mut);margin-top:2px}
+.grid{display:grid;grid-template-columns:1.1fr 1fr;gap:12px;margin-bottom:12px}
+.card{background:rgba(11,28,58,.82);border:1px solid var(--line);border-radius:14px;padding:14px}
+.card h3{font-size:13px;color:var(--cy);letter-spacing:1px;margin-bottom:10px;text-transform:uppercase}
+.brow{margin:7px 0}.blab{display:flex;justify-content:space-between;font-size:12px;color:var(--tx)}
+.bar{height:9px;background:#0a1832;border-radius:99px;margin-top:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--te),var(--cy));border-radius:99px;box-shadow:0 0 10px rgba(34,211,238,.6)}
+.feed{max-height:270px;overflow:auto}
+.it{display:flex;gap:10px;padding:8px 0;border-bottom:1px dashed #10305c;font-size:13px}
+.it:last-child{border:none}
+.dot{width:9px;height:9px;border-radius:50%;margin-top:5px;flex:none;background:var(--dc,var(--cy));box-shadow:0 0 8px var(--dc,var(--cy))}
+.it small{color:var(--mut);display:block;font-size:11px;margin-top:2px}
+.ok{color:var(--te)}
+.alert{border-left:3px solid var(--rd);background:rgba(251,113,133,.08);border-radius:10px;padding:9px 11px;margin-bottom:8px;font-size:13px}
+.alert b{color:var(--rd)}
+.notice{padding:8px 0;border-bottom:1px dashed #10305c;font-size:13px}
+.notice:last-child{border:none}
+.notice small{color:var(--mut)}
+footer{text-align:center;font-size:11px;color:var(--mut);padding:14px;line-height:1.8;border-top:1px solid var(--line)}
+@media(max-width:840px){.kpis{grid-template-columns:repeat(2,1fr)}.grid,.cta{grid-template-columns:1fr}.pillars{grid-template-columns:repeat(2,1fr)}.road{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.pillars{grid-template-columns:1fr}.road{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 <header>
-  <h1>🏘 KP-SỐ · KHU PHỐ BÌNH CHUẨN 1</h1>
-  <p>Kênh cộng đồng số — Phường An Phú, TP.HCM</p>
+  <div class="logo">🏘️</div>
+  <div><h1>TRUNG TÂM ĐIỀU HÀNH KHU PHỐ SỐ</h1><div class="sub">KHU PHỐ BÌNH CHUẨN 1 · PHƯỜNG AN PHÚ · TP.HCM</div></div>
+  <div id="clock"><b>--:--:--</b><span>đang tải…</span></div>
 </header>
 <main>
-  <div class="hero">
-    <a class="big main" id="btnForm" href="#" target="_blank" rel="noopener"><span class="ic">📨</span><span><b>GỬI PHẢN ÁNH HIỆN TRƯỜNG</b><span>Rác · Ngập · Đèn đường · An ninh · PCCC nhà trọ… (30 giây, không cần đăng nhập)</span></span></a>
-    <a class="big" id="btnCall" href="#"><span class="ic">☎️</span><span><b>Gọi hotline khu phố</b><span>Việc khẩn cấp: cháy, ngập sâu, nguy hiểm tính mạng — gọi ngay</span></span></a>
-    <a class="big" id="btnZalo" href="#" target="_blank" rel="noopener"><span class="ic">💬</span><span><b>Nhóm Zalo / OA khu phố</b><span>Thông tin chính thống, cảnh báo, hỗ trợ kỹ năng số</span></span></a>
+  <div class="cta ctas">
+    <a id="btnForm" href="#" target="_blank" rel="noopener"><span class="ic">📨</span><span>GỬI PHẢN ÁNH HIỆN TRƯỜNG<small>30 giây · không cần đăng nhập</small></span></a>
+    <a class="z" id="btnZalo" href="#" target="_blank" rel="noopener"><span class="ic">💬</span><span>ZALO KHU PHỐ<small>tư vấn · kỹ năng số · thông tin</small></span></a>
+    <a class="h" id="btnCall" href="#"><span class="ic">☎️</span><span>HOTLINE<small>khẩn cấp gọi ngay 114 trước</small></span></a>
   </div>
 
-  <div class="up" id="updated">Đang tải dữ liệu…</div>
-
-  <div class="card"><h3>📊 Số liệu khu phố</h3>
-    <div class="stats" id="stats"></div>
+  <div class="kpis">
+    <div class="kpi" style="--ac:#22d3ee"><div class="n" id="kTotal">–</div><div class="l">TỔNG PHẢN ÁNH TIẾP NHẬN</div></div>
+    <div class="kpi" style="--ac:#2dd4bf"><div class="n" id="kDone">–</div><div class="l">ĐÃ XỬ LÝ XONG ✓</div></div>
+    <div class="kpi" style="--ac:#fbbf24"><div class="n" id="kOn">–%</div><div class="l">ĐÚNG HẠN SLA NỘI BỘ</div></div>
+    <div class="kpi" style="--ac:#38bdf8"><div class="n" id="kReach">–%</div><div class="l">TIẾP CẬN THÔNG TIN DÂN</div></div>
+    <div class="kpi" style="--ac:#f472b6"><div class="n" id="kAvg">–</div><div class="l">THỜI GIAN XỬ LÝ TB (GIỜ)</div></div>
   </div>
 
-  <div class="card"><h3>🚨 Cảnh báo đang hiệu lực</h3><div id="alerts"></div></div>
+  <div class="card" style="margin-bottom:12px"><h3>🔎 Tra cứu mã vụ việc của bạn</h3>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <input id="q" placeholder="Gõ mã nhận được, VD: BC1-2026-00001" onkeydown="if(event.key==='Enter')lookUp()">
+      <button class="qbtn" onclick="lookUp()">Tra cứu</button>
+    </div>
+    <div id="qres" style="margin-top:9px"></div>
+  </div>
 
-  <div class="card"><h3>📢 Thông báo mới</h3><div id="notices"></div></div>
+  <div class="card" style="margin-bottom:12px"><h3>🏛️ 9 trụ cột khu phố số — khung thí điểm TP.HCM</h3>
+    <div class="pillars" id="pillars"></div>
+    <p style="font-size:11px;color:var(--mut);margin-top:8px">% hoàn thiện do khu phố tự chấm theo quý · cùng khung với mô hình thí điểm phường Tân Hưng để sẵn sàng kết nối dữ liệu cấp phường.</p>
+  </div>
 
-  <div class="card"><h3>✅ Vừa xử lý xong</h3><div id="recent"></div></div>
+  <div class="grid">
+    <div class="card"><h3>📊 Phản ánh theo lĩnh vực</h3><div id="byCat"></div></div>
+    <div class="card"><h3>📈 Xu hướng 7 ngày gần nhất</h3><svg id="trend" width="100%" height="150" viewBox="0 0 300 130" preserveAspectRatio="none"></svg><div style="font-size:10.5px;color:var(--mut);text-align:center" id="trendLab"></div></div>
+  </div>
 
-  <div class="card"><h3>🤝 Gửi phản ánh thế nào cho nhanh?</h3>
-    <ul class="how">
-      <li><b>Cách 1:</b> Bấm nút xanh "Gửi phản ánh hiện trường" ở trên → chọn lĩnh vực → ghi địa chỉ hẻm/số nhà trọ → gửi.</li>
-      <li><b>Cách 2:</b> Quét QR tại các biển dán trong hẻm (mỗi điểm có QR riêng).</li>
-      <li><b>Cách 3:</b> Gọi hotline hoặc nhắn Tổ công nghệ số nếu chưa quen dùng điện thoại.</li>
-      <li>Vụ việc của bạn sẽ có <b>mã riêng</b> để theo dõi kết quả — khu phố phản hồi trong ngày.</li>
-    </ul>
-    <p style="font-size:12px;color:var(--mut);margin-top:8px">🔒 Không cần cung cấp CCCD hay thông tin cá nhân nhạy cảm. Có thể gửi ẩn danh.</p>
+  <div class="grid">
+    <div class="card"><h3>⚙️ Đang trong quy trình xử lý</h3><div class="feed" id="feedActive"></div></div>
+    <div class="card"><h3>✅ Vừa hoàn tất</h3><div class="feed" id="feedDone"></div></div>
+  </div>
+
+  <div class="grid">
+    <div class="card"><h3>🚨 Cảnh báo đang hiệu lực</h3><div id="alerts"></div></div>
+    <div class="card"><h3>📢 Thông báo khu phố</h3><div id="notices"></div></div>
+  </div>
+  <div class="card" style="margin-bottom:12px"><h3>🧭 Lộ trình lên "Phường An Phú quản trị số"</h3>
+    <div class="road">
+      <div class="step now"><b>GĐ1 · 2026 — ĐANG LÀM</b><span>Thí điểm KP-SỐ tại khu phố Bình Chuẩn 1: web + app quản trị + QR hẻm</span></div>
+      <div class="step"><b>GĐ2 · 2027</b><span>Nhân rộng 14 khu phố phường An Phú, chuẩn hóa quy trình 5D</span></div>
+      <div class="step"><b>GĐ3 · 2027–28</b><span>Kết nối IOC mini cấp phường — dùng chung khung 9 tiêu chí & dữ liệu public.json</span></div>
+      <div class="step"><b>GĐ4 · ĐÍCH</b><span>"Phường An Phú quản trị số" — dân số thành dữ liệu sống, phường điều hành trên nền tảng</span></div>
+    </div>
   </div>
 </main>
 <footer>
-  Mô hình thí điểm "Khu phố số" — khu phố Bình Chuẩn 1 (tách từ Bình Phước A), phường An Phú.<br>
-  SLA phản hồi là cam kết dịch vụ nội bộ của khu phố. Vụ khẩn cấp về PCCC/an ninh vui lòng gọi 114 trước.
+  Cập nhật lúc: <span id="upd">…</span> · Người dân quét QR tại hẻm để gửi phản ánh · Việc khẩn cấp (cháy, ngập sâu, nguy hiểm tính mạng) gọi <b style="color:var(--am)">114</b> trước<br>
+  Mô hình thí điểm "Khu phố số" — SLA là cam kết dịch vụ nội bộ của khu phố, không thay thế thời hạn pháp lý.
 </footer>
 
 <script>
 'use strict';
-/* ====== CẤU HÌNH — thay link thật sau khi tạo Google Form / nhóm Zalo ====== */
+/* ====== CẤU HÌNH ====== */
 const CONFIG={
   formUrl:'https://tinyurl.com/23dw72ku',
   hotline:'tel:+84900000000',
@@ -85,39 +133,100 @@ document.getElementById('btnForm').href=CONFIG.formUrl;
 document.getElementById('btnCall').href=CONFIG.hotline;
 document.getElementById('btnZalo').href=CONFIG.zalo;
 
-const CATS={rac:'Rác thải',ngap:'Ngập nước',den:'Đèn đường',cayxanh:'Cây xanh',aninh:'An ninh trật tự',pccc:'PCCC nhà trọ',hatang:'Hạ tầng khác',tratut:'Trật tự đô thị',diennuoc:'Điện – nước'};
+const CATS={rac:['Rác thải','#22d3ee'],ngap:['Ngập nước','#38bdf8'],den:['Đèn đường','#fbbf24'],cayxanh:['Cây xanh','#4ade80'],aninh:['An ninh - TTTT','#fb7185'],pccc:['PCCC nhà trọ','#f97316'],hatang:['Hạ tầng khác','#a78bfa'],tratut:['Trật tự đô thị','#e879f9'],diennuoc:['Điện - nước','#2dd4bf']};
+const PRI={khancap:['Khẩn cấp','#fb7185'],cao:['Cao','#fbbf24'],binhthuong:['Bình thường','#22d3ee'],thongtin:['Thông tin','#7ea4d9']};
+const STT={moi:['Mới','#38bdf8'],xacthuc:['Xác thực','#a78bfa'],xuly:['Đang xử lý','#fbbf24']};
 const AT={luadao:'Lừa đảo',thoitiet:'Thời tiết',pccc:'PCCC',aninh:'An ninh',khac:'Khác'};
 
-/* Dữ liệu dự phòng khi chưa có file public.json */
 const FALLBACK={kp:'Bình Chuẩn 1',phuong:'An Phú',generatedAt:Date.now(),
  stats:{total:12,done:5,onTimePct:92,reachPct:64},
- notices:[{title:'Lịch thu gom rác điều chỉnh',body:'Xe thu gom đến sớm 1 giờ các ngày lễ. Đề nghị đưa rác ra trước 6h.',group:'Toàn khu phố',createdAt:Date.now()-3*864e5}],
- alerts:[{type:'luadao',title:'Cảnh báo lừa đảo "việc nhẹ lương cao"',body:'Nhóm đối tượng tuyển việc yêu cầu đặt cọc trước. Không chuyển khoản!',until:Date.now()+7*864e5}],
+ byCat:{rac:3,ngap:2,den:2,cayxanh:1,aninh:1,pccc:1,hatang:1,tratut:0,diennuoc:1},
+ byDay:[{d:0,n:1},{d:1,n:2},{d:2,n:1},{d:3,n:3},{d:4,n:1},{d:5,n:2},{d:6,n:2}],
+ active:[{id:'BC1-2026-00012',cat:'pccc',pri:'cao',title:'Dãy trọ 12 thiếu bình chữa cháy',status:'xuly',createdAt:Date.now()-36e5}],
+ notices:[{title:'Lịch thu gom rác điều chỉnh',body:'Xe đến sớm 1 giờ các ngày lễ.',group:'Toàn khu phố',createdAt:Date.now()-2*864e5}],
+ alerts:[{type:'luadao',title:'Lừa đảo việc nhẹ lương cao',body:'Không chuyển khoản đặt cọc!',until:Date.now()+7*864e5}],
  recent:[{id:'BC1-2026-00001',cat:'rac',title:'Rác tồn đọng cuối hẻm 25',status:'dong',closedAt:Date.now()-2*864e5}]};
+
+const PILLARS=[['Công dân số',60],['Giao tiếp số · QR một chạm',70],['Phản ánh - kiến nghị số',55],['An ninh số',50],['Môi trường số',45],['An sinh xã hội số',40],['Chi bộ - đoàn thể số',35],['Đô thị số',30],['Kinh tế số',25]];
+function renderPillars(){
+ document.getElementById('pillars').innerHTML=PILLARS.map(function(p){
+  return '<div class="pil"><b>'+p[0]+'</b><span class="pp">'+p[1]+'%</span>'
+   +'<div class="bar"><i style="width:'+p[1]+'%"></i></div></div>';}).join('');
+}
+renderPillars();
+let CUR=null;
+function lookUp(){
+ const v=(document.getElementById('q').value||'').trim().toUpperCase();
+ const r=document.getElementById('qres');
+ if(!v){r.innerHTML='';return;}
+ if(!CUR){r.innerHTML='<span style="color:var(--am)">Dữ liệu chưa tải xong, thử lại sau ít giây.</span>';return;}
+ let hit=(CUR.active||[]).concat(CUR.recent||[]).find(function(x){return String(x.id).toUpperCase().indexOf(v)>=0;});
+ if(!hit){r.innerHTML='<div class="alert" style="border-color:var(--am);background:rgba(251,191,36,.08)"><b>Không thấy mã "'+esc(v)+'"</b> trong dữ liệu công khai hiện tại.<br>Vụ việc có thể đã lưu trữ — gọi hotline hoặc Zalo khu phố để được tra cứu chi tiết.</div>';return;}
+ let color='#2dd4bf',txt='HOÀN TẤT ✓';
+ if(hit.status&&STT[hit.status]){color=STT[hit.status][1];txt=STT[hit.status][0]+' — đang xử lý';}
+ else if(hit.pri&&PRI[hit.pri]){color=PRI[hit.pri][1];}
+ r.innerHTML='<div class="it" style="border:none"><span class="dot" style="--dc:'+color+'"></span><div><b>'+esc(hit.title)+'</b>'
+  +'<small>'+esc(hit.id)+' · '+((CATS[hit.cat]||['Khác'])[0])+' · <b style="color:'+color+'">'+txt+'</b>'
+  +(hit.closedAt?(' · xong '+fd(hit.closedAt)):(hit.createdAt?(' · nhận '+ft(hit.createdAt)):''))+'</small></div></div>';
+}
 
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];});}
 function fd(ts){return new Date(ts).toLocaleDateString('vi-VN');}
+function ft(ts){return new Date(ts).toLocaleString('vi-VN',{hour:'2-digit',minute:'2-digit',day:'2-digit',month:'2-digit'});}
+
+function tick(){const n=new Date();
+ document.querySelector('#clock b').textContent=n.toLocaleTimeString('vi-VN');
+ document.querySelector('#clock span').textContent=n.toLocaleDateString('vi-VN',{weekday:'long',day:'2-digit',month:'2-digit',year:'numeric'});}
+tick();setInterval(tick,1000);
 
 function render(D){
- document.getElementById('updated').textContent='Cập nhật lúc: '+new Date(D.generatedAt).toLocaleString('vi-VN');
- const st=document.getElementById('stats');
- st.innerHTML='<div><div class="n">'+D.stats.total+'</div><div class="l">Phản ánh</div></div>'
- +'<div><div class="n">'+D.stats.done+'</div><div class="l">Đã xử lý</div></div>'
- +'<div><div class="n">'+D.stats.onTimePct+'%</div><div class="l">Đúng hạn</div></div>'
- +'<div><div class="n">'+D.stats.reachPct+'%</div><div class="l">Tiếp cận tin</div></div>';
- document.getElementById('alerts').innerHTML=(D.alerts&&D.alerts.length?D.alerts.map(function(a){
-   return '<div class="alert"><b>['+(AT[a.type]||'Khác')+'] '+esc(a.title)+'</b><p>'+esc(a.body)+'</p><p style="font-size:11px;color:var(--mut)">đến '+fd(a.until)+'</p></div>';}).join('')
-   :'<p style="font-size:13px;color:var(--mut)">Hiện không có cảnh báo nào. 🎉</p>');
- document.getElementById('notices').innerHTML=(D.notices&&D.notices.length?D.notices.map(function(n){
-   return '<div class="item"><span class="tag">'+esc(n.group)+'</span><br><b>'+esc(n.title)+'</b><p>'+esc(n.body)+'</p><p style="font-size:11px;color:var(--mut)">'+fd(n.createdAt)+'</p></div>';}).join('')
-   :'<p style="font-size:13px;color:var(--mut)">Chưa có thông báo.</p>');
- document.getElementById('recent').innerHTML=(D.recent&&D.recent.length?D.recent.map(function(r){
-   return '<div class="item"><span class="tag">'+(CATS[r.cat]||'')+'</span><br><b>'+esc(r.title)+'</b><p style="font-size:11.5px;color:var(--mut)">Mã '+esc(r.id)+' · đã xử lý xong '+fd(r.closedAt)+' ✓</p></div>';}).join('')
-   :'<p style="font-size:13px;color:var(--mut)">Chưa có dữ liệu.</p>');
+ CUR=D;
+ document.getElementById('kTotal').textContent=D.stats.total;
+ document.getElementById('kDone').textContent=D.stats.done;
+ document.getElementById('kOn').textContent=D.stats.onTimePct+'%';
+ document.getElementById('kReach').textContent=D.stats.reachPct+'%';
+ document.getElementById('kAvg').textContent=(D.stats.avgDoneHrs!=null?D.stats.avgDoneHrs:'–');
+ document.getElementById('upd').textContent=ft(D.generatedAt);
+
+ const bc=document.getElementById('byCat');const mx=Math.max.apply(null,[1].concat(Object.values(D.byCat||{})));
+ let html='';Object.keys(CATS).forEach(function(c){if(!D.byCat)return;const v=D.byCat[c]||0;
+  if(v===0&&CATS[c][0]!==undefined&&(Object.keys(D.byCat).indexOf(c)<0))return;
+  html+='<div class="brow"><div class="blab"><span>'+CATS[c][0]+'</span><b>'+v+'</b></div><div class="bar"><i style="width:'+Math.round(v*100/mx)+'%"></i></div></div>';});
+ bc.innerHTML=html||'<i style="color:var(--mut)">Chưa có dữ liệu</i>';
+
+ const tv=document.getElementById('trend');const days=D.byDay||[];const mx2=Math.max.apply(null,[1].concat(days.map(function(x){return x.n;})));
+ const W=300,H=110,P=8,st=W/Math.max(days.length-1,1);
+ let pts=days.map(function(x,i){return [P+i*st,H-P-(H-2*P)*x.n/mx2];});
+ let path=pts.length?pts.map(function(p,i){return (i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1);}).join(' '):'M0 '+H;
+ tv.innerHTML='<path d="'+path+'" fill="none" stroke="#22d3ee" stroke-width="2.5" style="filter:drop-shadow(0 0 5px #22d3ee)"/>'
+  +pts.map(function(p){return '<circle cx="'+p[0]+'" cy="'+p[1]+'" r="3" fill="#2dd4bf"/>';}).join('');
+ document.getElementById('trendLab').textContent=days.map(function(x){return new Date(x.d).getDate()+'/'+(new Date(x.d).getMonth()+1);}).join('  ');
+
+ const fa=document.getElementById('feedActive');
+ fa.innerHTML=((D.active&&D.active.length)?D.active.map(function(r){
+   const p=PRI[r.pri]||PRI.binhthuong,s=STT[r.status]||STT.moi,c=CATS[r.cat]||['Khác','#7ea4d9'];
+   return '<div class="it"><span class="dot" style="--dc:'+p[1]+'"></span><div><b>'+esc(r.title)+'</b>'
+    +'<small>'+esc(r.id)+' · '+c[0]+' · <span style="color:'+p[1]+'">'+p[0]+'</span> · '+s[0]+' · nhận '+ft(r.createdAt)+(r.area?(' · '+esc(r.area)):'')+'</small></div></div>';}).join('')
+   :'<i style="color:var(--mut)">Không có vụ đang mở 🎉</i>');
+
+ const fdo=document.getElementById('feedDone');
+ fdo.innerHTML=((D.recent&&D.recent.length)?D.recent.map(function(r){
+   const c=CATS[r.cat]||['Khác','#7ea4d9'];
+   return '<div class="it"><span class="dot ok" style="--dc:#2dd4bf"></span><div><b>'+esc(r.title)+'</b>'
+    +'<small class="ok">✓ '+esc(r.id)+' · '+c[0]+' · xong '+fd(r.closedAt)+'</small></div></div>';}).join('')
+   :'<i style="color:var(--mut)">Chưa có dữ liệu</i>');
+
+ document.getElementById('alerts').innerHTML=((D.alerts&&D.alerts.length)?D.alerts.map(function(a){
+   return '<div class="alert"><b>['+(AT[a.type]||'Khác')+'] '+esc(a.title)+'</b><br>'+esc(a.body)+' <small style="color:var(--mut)">(đến '+fd(a.until)+')</small></div>';}).join('')
+   :'<i style="color:var(--mut)">Không có cảnh báo nào 🎉</i>');
+
+ document.getElementById('notices').innerHTML=((D.notices&&D.notices.length)?D.notices.map(function(n){
+   return '<div class="notice"><b>'+esc(n.title)+'</b><br>'+esc(n.body)+'<br><small>'+esc(n.group)+' · '+fd(n.createdAt)+'</small></div>';}).join('')
+   :'<i style="color:var(--mut)">Chưa có thông báo.</i>');
 }
 fetch('public.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json();})
  .then(render).catch(function(){render(FALLBACK);
-   const u=document.getElementById('updated');u.textContent='(Đang hiển thị dữ liệu mẫu — hãy xuất public.json từ app quản trị và đăng kèm trang này)';});
+  document.getElementById('upd').textContent+=' (dữ liệu mẫu)';});
 </script>
 </body>
 </html>
