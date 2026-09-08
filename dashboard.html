@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bản đồ 14 Khu phố — An Phú · Khu phố số</title>
+<style>
+:root{--bg:#050d1f;--card:#0b1c3a;--line:#12305e;--cy:#22d3ee;--te:#2dd4bf;--am:#fbbf24;--rd:#fb7185;--tx:#dbeafe;--mut:#7ea4d9}
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',system-ui,Arial,sans-serif}
+body{background:radial-gradient(1200px 600px at 70% -10%,#123a6d 0%,var(--bg) 55%);color:var(--tx);min-height:100vh}
+header{padding:14px 18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;border-bottom:1px solid var(--line);background:linear-gradient(90deg,#081531,#0d2550)}
+header h1{font-size:16px;color:#fff;letter-spacing:.5px}
+header .sub{font-size:10.5px;color:var(--cy);letter-spacing:2px}
+main{max-width:1180px;margin:0 auto;padding:16px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:14px}
+.kpi{background:linear-gradient(160deg,var(--card),#0a1730);border:1px solid var(--line);border-radius:14px;padding:13px;position:relative;overflow:hidden}
+.kpi .n{font-size:27px;font-weight:800;color:var(--ac,var(--cy));text-shadow:0 0 16px var(--ac,var(--cy))}
+.kpi .l{font-size:11px;color:var(--mut);margin-top:2px}
+.card{background:rgba(11,28,58,.85);border:1px solid var(--line);border-radius:14px;padding:15px;margin-bottom:12px}
+.card h3{font-size:13px;color:var(--cy);letter-spacing:1px;margin-bottom:11px;text-transform:uppercase}
+#mapBox{height:460px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#0a1832}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:11.5px;color:var(--mut);margin-top:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:8px 9px;text-align:left;border-bottom:1px solid #10305c}
+th{color:var(--cy);font-weight:700;white-space:nowrap}
+tr:hover{background:#0d2a55}
+tr.kp-hl{background:#0e7490}
+.mut{color:var(--mut);font-size:12px}
+.badge{display:inline-block;padding:2px 9px;border-radius:99px;font-size:11px;font-weight:700}
+.bg{background:#064e3b;color:#6ee7b7}.b0{background:#3a1d0f;color:#fca5a5}
+.bar{height:8px;background:#0a1832;border-radius:99px;overflow:hidden;margin-top:3px;min-width:70px}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--te),var(--cy));border-radius:99px}
+.banner{background:rgba(251,191,36,.1);border:1px solid rgba(251,191,36,.35);border-radius:12px;padding:11px 14px;font-size:12.5px;margin-bottom:14px;color:var(--am)}
+.banner b{color:var(--am)}
+footer{text-align:center;font-size:11px;color:var(--mut);padding:16px;border-top:1px solid var(--line)}
+a{color:var(--cy)}
+@media(max-width:700px){.kpis{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<header>
+  <div style="font-size:24px">🗺️</div>
+  <div>
+    <h1>BẢN ĐỒ 14 KHU PHỐ · PHƯỜNG AN PHÚ</h1>
+    <div class="sub">DỮ LIỆU THẬT TỪ HỆ THỐNG KHU PHỐ SỐ · CÔNG KHAI 24/7 TRÊN GITHUB PAGES</div>
+  </div>
+</header>
+<main>
+  <div class="banner"><b>Trang tĩnh (snapshot):</b> số liệu được xuất từ máy chủ An Phú và cập nhật khi có thay đổi. Để xem <b>biểu đồ phản ánh / hỗ trợ / hạ tầng</b> trực tiếp và nhập liệu, mở <a href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener">giao diện đầy đủ</a> (chạy khi máy chủ nội bộ bật).</div>
+
+  <div class="kpis">
+    <div class="kpi" style="--ac:#22d3ee"><div class="n" id="kKp">–</div><div class="l">KHU PHỐ</div></div>
+    <div class="kpi" style="--ac:#2dd4bf"><div class="n" id="kDn">–</div><div class="l">TỔNG DN / HỘ KINH DOANH</div></div>
+    <div class="kpi" style="--ac:#fbbf24"><div class="n" id="kGps">–</div><div class="l">DN CÓ TỌA ĐỘ GPS</div></div>
+    <div class="kpi" style="--ac:#38bdf8"><div class="n" id="kArea">–</div><div class="l">DIỆN TÍCH PHƯỜNG (ha)</div></div>
+  </div>
+
+  <div class="card">
+    <h3>🗺️ Ranh giới 14 khu phố (theo phân định GPS + ánh xạ TB 240/231)</h3>
+    <div id="mapBox"></div>
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <div class="card">
+    <h3>📋 Số doanh nghiệp / hộ kinh doanh theo khu phố</h3>
+    <table>
+      <thead><tr><th>STT</th><th>Mã</th><th>Khu phố</th><th>DN (GPS)</th><th>% phân bố GPS</th><th>Diện tích (km²)</th><th>Tâm</th></tr></thead>
+      <tbody id="kpBody"></tbody>
+    </table>
+  </div>
+</main>
+<footer id="foot">Đang tải dữ liệu… · Bản đồ nền © OpenStreetMap</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script>
+'use strict';
+var COLORS=['#22d3ee','#2dd4bf','#fbbf24','#fb7185','#a78bfa','#38bdf8','#f472b6','#4ade80','#e879f9','#f97316','#0e7490','#a16207','#9333ea','#b91c1c'];
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];});}
+var KP=[], FT=[];
+function geoPolys(g){
+  var c=g.coordinates, out=[];
+  if(g.type==='MultiPolygon'){c.forEach(function(p){out.push(p.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));});}
+  else if(g.type==='Polygon'){out.push(c.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));}
+  return out;
+}
+function load(){
+  Promise.all([
+    fetch('data/kp.json',{cache:'no-store'}).then(function(r){return r.json();}),
+    fetch('data/ranh_gioi.geojson',{cache:'no-store'}).then(function(r){return r.json();})
+  ]).then(function(arr){
+    var D=arr[0], gj=arr[1];
+    KP=D.kps||[]; FT=gj.features||[];
+    document.getElementById('kKp').textContent=D.totals.so_kp;
+    document.getElementById('kDn').textContent=D.totals.tong_dn;
+    document.getElementById('kGps').textContent=D.totals.tong_dn_gps;
+    document.getElementById('kArea').textContent=D.totals.phuong_dien_tich_ha;
+    renderTable(D); renderLegend(); renderMap(D);
+    document.getElementById('foot').innerHTML='Cập nhật '+D.generated_at+' · <a href="index.html">← Về trang chủ khu phố số</a> · Bản đồ nền © OpenStreetMap';
+  }).catch(function(e){
+    document.getElementById('foot').innerHTML='Lỗi tải dữ liệu: '+esc(e.message);
+  });
+}
+function renderTable(D){
+  var mx=Math.max.apply(null,[1].concat(D.kps.map(function(k){return k.enterprise_count;})));
+  var rows=D.kps.map(function(k,i){
+    var pct=Math.round(k.enterprise_count*100/mx);
+    return '<tr data-kp="'+k.code+'">'
+      +'<td>'+(i+1)+'</td><td>'+esc(k.code)+'</td><td><b>'+esc(k.name)+'</b></td>'
+      +'<td><span class="badge '+(k.enterprise_count>0?'bg':'b0')+'">'+k.enterprise_count+'</span></td>'
+      +'<td><div class="bar"><i style="width:'+pct+'%"></i></div></td>'
+      +'<td>'+esc((k.area_km2!=null?k.area_km2.toFixed(3):'–'))+'</td>'
+      +'<td class="mut">'+(k.gps_lat!=null?(k.gps_lat.toFixed(5)+', '+k.gps_lng.toFixed(5)):'–')+'</td>'
+      +'</tr>';
+  }).join('');
+  document.getElementById('kpBody').innerHTML=rows;
+}
+function renderLegend(){document.getElementById('legend').innerHTML=KP.map(function(k,i){return '<span><i style="background:'+COLORS[i%COLORS.length]+'"></i>'+esc(k.name)+'</span>';}).join('') || '';}
+function renderMap(D){
+  if(!window.L){return;}
+  var map=L.map('mapBox').setView([10.942,106.748],12);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap'}).addTo(map);
+  var once=false;
+  FT.forEach(function(f,i){
+    var rings=geoPolys(f.geometry); if(!rings.length)return;
+    var c=COLORS[i%COLORS.length];
+    var p=L.polygon(rings,{color:c,weight:2,fillColor:c,fillOpacity:.18}).addTo(map);
+    var prop=f.properties||{};
+    var kp=KP.find(function(k){return k.code===prop.code;});
+    var cnt=kp?kp.enterprise_count:'?';
+    p.bindPopup('<b>'+esc(prop.name||('KP '+prop.code))+'</b><br><span class="mut">'+esc(prop.code||'')
+      +' · '+cnt+' DN(GPS) · '+(prop.area_ha!=null?prop.area_ha.toFixed(1)+' ha':'')+'</span>');
+    p.bindTooltip(esc(prop.name||''),{permanent:false});
+    p.on('click',function(){
+      document.querySelectorAll('#kpBody tr').forEach(function(r){r.classList.remove('kp-hl');});
+      var tr=document.querySelector('#kpBody tr[data-kp="'+prop.code+'"]');
+      if(tr){tr.classList.add('kp-hl');tr.scrollIntoView({behavior:'smooth',block:'center'});}
+    });
+    if(!once&&prop.name){once=true;map.panTo(rings[0][0]?[rings[0][0][0],rings[0][0][1]]:[10.942,106.748]);}
+  });
+}
+load();
+</script>
+</body>
+</html>
