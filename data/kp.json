@@ -1,12 +1,12 @@
 {
   "title": "Khu pho so - An Phu",
   "ward": "Phuong An Phu, TP.HCM",
-  "generated_at": "2026-09-10 14:40:52",
+  "generated_at": "2026-09-29 17:26:57",
   "totals": {
     "so_kp": 14,
-    "tong_dn": 11968,
-    "tong_dn_gps": 2929,
-    "tong_dn_khong_gps": 9039,
+    "tong_dn": 12231,
+    "tong_dn_gps": 10528,
+    "tong_dn_khong_gps": 1703,
     "phuong_dien_tich_ha": 1671.7
   },
   "kps": [
@@ -17,7 +17,7 @@
       "gps_lng": 106.74025520955401,
       "area_km2": 2.002063665005312,
       "enterprise_count": 214,
-      "count_gps": 214
+      "count_gps": 1048
     },
     {
       "code": "KP1B",
@@ -26,7 +26,7 @@
       "gps_lng": 106.74220971702877,
       "area_km2": 1.0968359241994248,
       "enterprise_count": 297,
-      "count_gps": 297
+      "count_gps": 583
     },
     {
       "code": "KP2",
@@ -35,7 +35,7 @@
       "gps_lng": 106.73962614413685,
       "area_km2": 1.6323779366845945,
       "enterprise_count": 195,
-      "count_gps": 195
+      "count_gps": 318
     },
     {
       "code": "KP3",
@@ -44,7 +44,7 @@
       "gps_lng": 106.74191347167934,
       "area_km2": 2.1226513793380914,
       "enterprise_count": 195,
-      "count_gps": 195
+      "count_gps": 521
     },
     {
       "code": "KP4",
@@ -53,7 +53,7 @@
       "gps_lng": 106.73172193121515,
       "area_km2": 0.5790872123809732,
       "enterprise_count": 0,
-      "count_gps": 0
+      "count_gps": 540
     },
     {
       "code": "KP5",
@@ -62,7 +62,7 @@
       "gps_lng": 106.72563760159204,
       "area_km2": 0.29891576360423294,
       "enterprise_count": 12,
-      "count_gps": 12
+      "count_gps": 120
     },
     {
       "code": "KP6",
@@ -71,7 +71,7 @@
       "gps_lng": 106.7328787131448,
       "area_km2": 1.8197279575816883,
       "enterprise_count": 1130,
-      "count_gps": 1130
+      "count_gps": 1510
     },
     {
       "code": "KP7",
@@ -80,7 +80,7 @@
       "gps_lng": 106.72764959838233,
       "area_km2": 0.3795912247254407,
       "enterprise_count": 0,
-      "count_gps": 0
+      "count_gps": 39
     },
     {
       "code": "KP8",
@@ -89,7 +89,7 @@
       "gps_lng": 106.73414440873033,
       "area_km2": 0.6382705867570349,
       "enterprise_count": 143,
-      "count_gps": 143
+      "count_gps": 253
     },
     {
       "code": "KPBC1",
@@ -97,8 +97,8 @@
       "gps_lat": 10.974630681621338,
       "gps_lng": 106.72414712798056,
       "area_km2": 2.270848998571684,
-      "enterprise_count": 285,
-      "count_gps": 285
+      "enterprise_count": 820,
+      "count_gps": 801
     },
     {
       "code": "KPBC2",
@@ -107,7 +107,7 @@
       "gps_lng": 106.72523534056062,
       "area_km2": 0.5725537300655034,
       "enterprise_count": 0,
-      "count_gps": 0
+      "count_gps": 24
     },
     {
       "code": "KPBC3",
@@ -116,7 +116,7 @@
       "gps_lng": 106.73346256849118,
       "area_km2": 0.9644323544463332,
       "enterprise_count": 0,
-      "count_gps": 0
+      "count_gps": 26
     },
     {
       "code": "KPBC4",
@@ -125,7 +125,7 @@
       "gps_lng": 106.72793040569711,
       "area_km2": 0.7371475444497397,
       "enterprise_count": 5,
-      "count_gps": 5
+      "count_gps": 245
     },
     {
       "code": "KPBC5",
@@ -134,8 +134,8 @@
       "gps_lng": 106.74185610539055,
       "area_km2": 1.6024621718846004,
       "enterprise_count": 453,
-      "count_gps": 453
+      "count_gps": 654
     }
   ],
-  "note": "Du lieu tinh toan thoi diem snapshot sau dong bo DS S3 (3741 DN dang hoat dong chuân 09/09/2026). Tong DN+HKD = 11968 (DN 4566 + HKD 7402); DN dang hoat dong = 3741."
+  "note": "Cap nhat 29/09/2026: nap 110 DN + 204 nha tro khao sat KP Binh Chuan 1 (co GPS)."
 }

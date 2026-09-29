@@ -1,0 +1,1096 @@
+{
+ "title": "Doanh nghiep khao sat KP Binh Chuan 1",
+ "count": 109,
+ "items": [
+  {
+   "common_id": "BC1-DN-82",
+   "tax_code": "3703184130",
+   "legal_name": "CHI NHÁNH CÔNG TY TNHH BAO BÌ PHƯƠNG NGUYÊN PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 4/26 Đường Bình Chuẩn 32, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.979141,
+   "gps_lng": 106.726886,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:09 20/8/2026; File anh: 1787195398654_..._bc5943e7345f1ea968f094dd40eda83f.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-102",
+   "tax_code": "3703140415",
+   "legal_name": "CHI NHÁNH CÔNG TY TNHH SGI NL VINA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "1944, Đường Bình Chuẩn 69, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.974736,
+   "gps_lng": 106.727661,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: ; Khu pho (anh): (overlay chỉ ghi P. An Phú, không ghi khu phố); Thoi gian chup: 10:23 20/8/2026; File anh: 1787196231723_5810595594017668053_g1911935509012421374_4540ca08e70350bd1a965c69f12e7110.jpg; Ghi chu: Chi nhánh; MST trụ sở chính 3703140415"
+  },
+  {
+   "common_id": "BC1-DN-99",
+   "tax_code": "0316380213",
+   "legal_name": "CHI NHÁNH CÔNG TY TNHH SẢN XUẤT TM FIDO SOFA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "465/16 Bình Chuẩn 69, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.975439,
+   "gps_lng": 106.727006,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: ; Khu pho (anh): Đường Bình Chuẩn 34; Thoi gian chup: 10:21 20/8/2026; File anh: 1787196085904_5810595594017668053_g1911935509012421374_f9453b3b690bfbe4d1062d89194e53e9.jpg; Ghi chu: Chi nhánh; MST trụ sở chính 0316380213"
+  },
+  {
+   "common_id": "BC1-DN-15",
+   "tax_code": null,
+   "legal_name": "CHI NHÁNH CÔNG TY TNHH TM DV KỸ THUẬT TỰ ĐỘNG ASP",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất 83, tờ BĐ 141, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.972586,
+   "gps_lng": 106.723802,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: Người đứng đầu: Nguyễn Thị Kiều Diễm; Khu pho (anh): An Phú; Thoi gian chup: 10:56 19/8/2026; File anh: 1787111829781_..._8e6173c61f1f19b2baec220cb53bd9a5.jpg; Ghi chu: Ảnh chụp Giấy CN đăng ký hoạt động chi nhánh dán tại cơ sở; trụ sở chính DN mẹ tại 16/26 Nguyễn Văn Thương P25 Q Bình Thạnh TP.HCM"
+  },
+  {
+   "common_id": "BC1-DN-87",
+   "tax_code": null,
+   "legal_name": "CHI NHÁNH CÔNG TY TNHH TM XNK PHÚ LỘC TRƯỜNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "82/28 Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: ; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 63); Thoi gian chup: 10:12 20/8/2026; File anh: 1787195563852_..._6bef39298d6a5683bfbb7f54a5cc16d4.jpg; Ghi chu: Overlay ANTT không hiện tọa độ GPS; cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-70",
+   "tax_code": "0105286765",
+   "legal_name": "CHI NHÁNH PHÍA NAM - CÔNG TY TNHH ĐẦU TƯ VÀ SẢN XUẤT GIA HƯNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 14/17, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.977363,
+   "gps_lng": 106.723453,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: SĐT 0978 097 695; Khu pho (anh): ANTT KP Bình Chuẩn 1 (overlay: 421c/17 Bình Chuẩn 28); Thoi gian chup: 10:00 20/8/2026; File anh: 1787194966280_..._86f8e29674c3fbfdf2b049ae10fd5e2b.jpg; Ghi chu: Bảng do Sở KH&ĐT tỉnh Bình Dương cấp (trước sáp nhập)"
+  },
+  {
+   "common_id": "BC1-DN-40",
+   "tax_code": "3703451837",
+   "legal_name": "CÔNG TY CỔ PHẦN GIA MẪN THUẬN AN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "34/16 Đường Bình Chuẩn 69, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.976209,
+   "gps_lng": 106.723925,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty cổ phần; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:32 20/8/2026; File anh: 1787193178282_..._e724118d2d84f2abaa7f6ef57d6f9663.jpg; Ghi chu: Phía dưới có bảng cũ GIA MẪN gắn ngược"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702743322",
+   "tax_code": "3702743322",
+   "legal_name": "CÔNG TY CỔ PHẦN NỆM VIỆT MỸ",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "67B/17 Tổ 17, KP. Bình Phước A, P. Bình Chuẩn, TX. Thuận An, Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty cổ phần; Lien he: ; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:37 20/8/2026; File anh: 1787193473658_..._520962ac0c940238415b4e5865af33c5.jpg; Ghi chu: Chung 1 ảnh với Sao Vàng Đất Thủ (2 bảng hiệu cùng địa chỉ 67B/17); overlay không hiện tọa độ GPS"
+  },
+  {
+   "common_id": "BC1-DN-43",
+   "tax_code": null,
+   "legal_name": "CÔNG TY CỔ PHẦN VIETFURNI",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 235, 259 - Tờ bản đồ số C3 - KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.976578,
+   "gps_lng": 106.724313,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty cổ phần; Lien he: Tuyển dụng: 0913.264.997 / 0775.014.722; Khu pho (anh): An Phú; Thoi gian chup: 09:34 20/8/2026; File anh: 1787193277654_..._696069e37707e463ad27d2aa0d1f991b.jpg; Ghi chu: Chuyên sản xuất đồ gỗ xuất khẩu; có băng rôn tuyển dụng - cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-75",
+   "tax_code": null,
+   "legal_name": "CÔNG TY GREEN (tên đầy đủ chưa rõ)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Không ghi trên băng rôn",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chưa rõ loại hình; Lien he: LH 0967 996 199; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 10:06 20/8/2026; File anh: 1787195179254_..._66b8a4536d267aadc43086c3d97f98b4.jpg; Ghi chu: Ảnh chụp băng rôn TUYỂN DỤNG (10 công nhân mài), không phải bảng hiệu - cần chụp bổ sung bảng hiệu để lấy tên đầy đủ, MST, địa chỉ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702496539",
+   "tax_code": "3702496539",
+   "legal_name": "CÔNG TY TNHH A NAM VINA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 67, tờ bản đồ số 94, Đ. Bình Chuẩn, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.980388,
+   "gps_lng": 106.725787,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:06 20/8/2026; File anh: 1787195198734_..._588d9ab5efda8a8190f08f39ab745f54.jpg; Ghi chu: Bảng đồng bị lóa nắng, dòng địa chỉ đọc không trọn"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702821210",
+   "tax_code": "3702821210",
+   "legal_name": "CÔNG TY TNHH AKT STYLE",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 1925, Tờ bản đồ số 910, KP. Bình Phước A, P. Bình Chuẩn, TX. Thuận An, Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0983 664 092, Email akt.style2015@gmail.com; Khu pho (anh): ; Thoi gian chup: ~09:59 20/8/2026 (ảnh không có overlay Timemark); File anh: 1787194758737_..._a234d95cb9bb3e071371cf7f99ccb0b8.jpg; Ghi chu: Ảnh không có lớp Timemark nên không có GPS/giờ chính thức"
+  },
+  {
+   "common_id": "BC1-DN-59",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH BOCAN TECHNOLOGY VIỆT NAM (博燦紡織)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Không ghi trên bảng hiệu",
+   "gps_lat": 10.978725,
+   "gps_lng": 106.725756,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:53 20/8/2026; File anh: 1787194440976_..._44f14681326c35e73b1c203d7aedbc62.jpg; Ghi chu: Bảng hiệu tường chỉ có tên và logo - cần chụp bổ sung để lấy MST, địa chỉ"
+  },
+  {
+   "common_id": "BC1-DN-46",
+   "tax_code": "3703215780",
+   "legal_name": "CÔNG TY TNHH BẢO VỆ DỊCH VỤ SAO VÀNG ĐẤT THỦ",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "67/17B Tổ 17, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:37 20/8/2026; File anh: 1787193473658_..._520962ac0c940238415b4e5865af33c5.jpg; Ghi chu: Chung 1 ảnh với CTCP Nệm Việt Mỹ (2 bảng hiệu cùng địa chỉ 67B/17); overlay không hiện tọa độ GPS"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3703419110",
+   "legal_name": "CÔNG TY TNHH CHANGYUAN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 400,401,402, Đường DC14, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.971997,
+   "gps_lng": 106.723352,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 11:05 19/8/2026; File anh: 1787112365559_..._255fb8a06f320e97e9f0c3c183e2925f.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703101670",
+   "tax_code": "3703101670",
+   "legal_name": "CÔNG TY TNHH CLA PLASTICS",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "434/17, Đường Bình Chuẩn 28, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.979895,
+   "gps_lng": 106.724687,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - KP Bình Phước, An Phú; Thoi gian chup: 10:10 20/8/2026; File anh: 1787195419054_..._bc7b0f52b8e4b094b943513a3eb5256a.jpg; Ghi chu: Cùng địa chỉ 434/17 với CTY TNHH Cơ khí khuôn chính xác Xương Thịnh"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702857136",
+   "tax_code": "3702857136",
+   "legal_name": "CÔNG TY TNHH CÔNG NGHIỆP CƠ KHÍ HUỲNH QUANG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "136/22 KP. Bình Phước A, Đường Bình Chuẩn 32, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.97859,
+   "gps_lng": 106.726565,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0969 025 048 - 0964 495 264; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:00 20/8/2026; File anh: 1787194865912_..._e1201f581e8bff1cdc1791ca91f1a309.jpg; Ghi chu:"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3703324973",
+   "legal_name": "CÔNG TY TNHH CÔNG NGHỆ BAO BÌ VÀNG VIỆT NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "276/17 Đường Lê Thị Trung, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.977612,
+   "gps_lng": 106.72227,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:38 20/8/2026; File anh: 1787193529642_..._737e8415c52906d0a70b6713590228f9.jpg; Ghi chu: Chung địa điểm 276/17 với CTY TNHH Vật liệu Suprint Việt Nam"
+  },
+  {
+   "common_id": "BC1-DN-84",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH CÔNG NGHỆ IN ẤN PHÚC SANG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 1480, tờ bản đồ số 95, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.97925,
+   "gps_lng": 106.727026,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:11 20/8/2026; File anh: 1787195495479_..._06bdd6ed6bfb39346283666aedae6e3a.jpg; Ghi chu: Ảnh chụp băng rôn TUYỂN DỤNG (thợ in, sinh quản, QC kiểm hàng in lụa), không phải bảng hiệu; cây che một phần - cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702785298",
+   "tax_code": "3702785298",
+   "legal_name": "CÔNG TY TNHH CƠ KHÍ KHUÔN CHÍNH XÁC XƯƠNG THỊNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "434/17, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.979813,
+   "gps_lng": 106.724818,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - KP Bình Phước, An Phú; Thoi gian chup: 10:12 20/8/2026; File anh: 1787195584928_..._1ca5bad57ae2b5f1e43273d265227316.jpg; Ghi chu: Cùng địa chỉ 434/17 với CTY TNHH CLA Plastics"
+  },
+  {
+   "common_id": "BC1-DN-79",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH CƠ KHÍ ĐẠI THUẬN THÀNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Xưởng SX ghi trên bảng: Thửa đất 814, Đường Tân Phước Khánh 03, KP. Khánh Hòa, P. Tân Phước Khánh, TX. Tân Uyên, T. Bình Dương",
+   "gps_lat": 10.98051,
+   "gps_lng": 106.725851,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0274 651 4710, Email daithuanthanh.mechanical@gmail.com, Web www.ckdaithuanthanh.com; Khu pho (anh): An Phú; Thoi gian chup: 10:07 20/8/2026; File anh: 1787195279690_..._eb169dee1315bd1bd6c20cd1c933a660.jpg; Ghi chu: Địa chỉ trên bảng là xưởng ở Tân Uyên, không phải địa bàn An Phú - cần xác minh cơ sở tại chỗ và MST"
+  },
+  {
+   "common_id": "BC1-DN-72",
+   "tax_code": "3703442688",
+   "legal_name": "CÔNG TY TNHH CẦU TRỤC PHÚC THỊNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 436/17 Đường Bình Chuẩn, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.97784,
+   "gps_lng": 106.723895,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 1 / An Phú; Thoi gian chup: 10:03 20/8/2026; File anh: 1787195029008_..._8b235f53da71b5a4400af8887d751aa8.jpg; Ghi chu: Overlay định vị ghi địa điểm là 'Công ty TNHH May Mặc H&S Vina, Thửa đất 138 TBĐ C3' - cùng khuôn viên"
+  },
+  {
+   "common_id": "BC1-DN-10",
+   "tax_code": "3703486903",
+   "legal_name": "CÔNG TY TNHH CỐ BANG (VIỆT NAM)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "36A/17 Lê Thị Trung, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.975675,
+   "gps_lng": 106.721804,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:34 19/8/2026; File anh: 1787110513860_..._76b3f4a2c3960fa170f2b678d28f5d96.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-77",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH EBRACO MANUFACTURING (ebraco - A KPT GROUP COMPANY)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 60/22 tổ 22, Đường Bình Chuẩn 34, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Web www.ebraco.net; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 34); Thoi gian chup: 10:07 20/8/2026; File anh: 1787195250788_..._c1ea1b909412a3ebad7a85d462c32a46.jpg; Ghi chu: Overlay ANTT không hiện tọa độ GPS; cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-36",
+   "tax_code": "3703242304",
+   "legal_name": "CÔNG TY TNHH FF TECH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "67E/17, KP Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT (+84) 978.017.447, Web https://flowfilter.com.vn/; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:29 20/8/2026; File anh: 1787192998683_..._296e8ff779eb7380b18f4e110187c57c.jpg; Ghi chu: Overlay không hiện tọa độ GPS, chỉ ghi Đường Bình Chuẩn 41"
+  },
+  {
+   "common_id": "BC1-DN-26",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH GIA CÔNG CƠ KHÍ JIN LONG (金龙精密模具责任有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Không ghi trên bảng hiệu",
+   "gps_lat": 10.973596,
+   "gps_lng": 106.721088,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:19 20/8/2026; File anh: 1787192360877_..._1c15b0283082c00c63ce06b7ed61fb62.jpg; Ghi chu: Bảng hiệu chỉ có tên, không có MST và địa chỉ - cần chụp bổ sung"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702517644",
+   "tax_code": "3702517644",
+   "legal_name": "CÔNG TY TNHH GIÀY HOA LONG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "34/18 KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.982002,
+   "gps_lng": 106.728555,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): ĐT743 Bình Chuẩn 31; Thoi gian chup: 10:35 20/8/2026; File anh: 1787196960273_8520894286458863158_g1911935509012421374_856a03298504082e6aaebf6ffb91df73.jpg; Ghi chu: Địa chỉ trên bảng hiệu theo đơn vị hành chính cũ"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3703348702",
+   "legal_name": "CÔNG TY TNHH GIẤY JIU HUA VIỆT NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "488B/16, Đường Bình Chuẩn 69, Tổ 16, KP. Bình Phước A, P. Bình Chuẩn, TP. Hồ Chí Minh",
+   "gps_lat": 10.976902,
+   "gps_lng": 106.724536,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:38 20/8/2026; File anh: 1787193505188_..._20d78d5db5199053138358c74ca7d839.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-97",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH GỖ NỘI THẤT CHÍ THÀNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "16 Bình Chuẩn 63, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: 0943 685 539; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 63); Thoi gian chup: 10:19 20/8/2026; File anh: 1787195950993_5416843775802961754_g1911935509012421374_b5e081d956803e76ea5936fb43cd0e86.jpg; Ghi chu: Ảnh chụp băng rôn tuyển dụng lao động phổ thông, không phải bảng hiệu; overlay ANTT không hiện tọa độ GPS - cần bổ sung MST"
+  },
+  {
+   "common_id": "BC1-DN-7",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH HOMEDE VIỆT NAM / CÔNG TY TNHH SHING FUNG YUEN VIỆT NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "An Phú - vị trí gần Karaoke Mỹ Nhân Cung",
+   "gps_lat": 10.975153,
+   "gps_lng": 106.719427,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (2 công ty chung địa điểm); Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:16 19/8/2026; File anh: 1787109411850_..._82d05a07181320234e56762f6746657e.jpg; Ghi chu: Cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-85",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH HOUSE H & T",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "17/26 Bình Chuẩn 32, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.979086,
+   "gps_lng": 106.727107,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:12 20/8/2026; File anh: 1787195543252_..._ae195aef51d33e2439546d770b223701.jpg; Ghi chu: Bảng bị lóa nắng ở mép phải (chữ T cuối tên); cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-24",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH KIM AN FUTURE",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "87/28 Đường Lê Thị Trung, KP Bình Chuẩn 1, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.970793,
+   "gps_lng": 106.723953,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (SX-XK hàng may mặc); Lien he: ĐT 0983 530 498 (Phòng Nhân sự); Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 09:10 20/8/2026; File anh: 1787191842092_..._4a95f40250f0fe3e124e8449ede56c86.jpg; Ghi chu: Ảnh chụp bảng THÔNG BÁO TUYỂN DỤNG không phải bảng hiệu - cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-104",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH KING WIND INDUSTRIAL",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "16 ĐT743, P. An Phú, TP. Hồ Chí Minh (theo overlay ảnh)",
+   "gps_lat": 10.982856,
+   "gps_lng": 106.725921,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:32 20/8/2026; File anh: 1787196838160_2235807723871604849_g1911935509012421374_9c0a08f4d87218c0ab1be2ce8d59b4f6.jpg; Ghi chu: Ảnh chụp biển \"Xuống xe tắt máy dẫn bộ\" có tên công ty, không phải bảng hiệu - cần bổ sung MST và địa chỉ đăng ký"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702873000",
+   "tax_code": "3702873000",
+   "legal_name": "CÔNG TY TNHH KỸ THUẬT NAM HÀO",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 44, tờ BĐ số 141, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.973799,
+   "gps_lng": 106.721191,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: LH 0274 626 2823; Khu pho (anh): Bình Chuẩn 41; Thoi gian chup: 09:21 20/8/2026; File anh: 1787192495956_..._7d408c5276ca6b8e9d77f2dd5ea35394.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-52",
+   "tax_code": "3703252888",
+   "legal_name": "CÔNG TY TNHH LỘC HƯNG PHÁT VIỆT NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Địa điểm KD: Số 10/2 Đường Bình Chuẩn 69, Tổ 2, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.977283,
+   "gps_lng": 106.724711,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (địa điểm kinh doanh); Lien he: ĐT 0918 219 411; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:39 20/8/2026; File anh: 1787193585415_..._1858fcbc507b011e5e6536d9bd59108c.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-60",
+   "tax_code": "3703501478",
+   "legal_name": "CÔNG TY TNHH MAY MẶC LÊ ANH PHÁT VIỆT NAM (LAP COMPANY)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số nhà 79A/17, Tổ 17, Đường Bình Chuẩn 28, Khu phố Bình Chuẩn 1, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.978518,
+   "gps_lng": 106.724534,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - Bình Chuẩn 31, An Phú; Thoi gian chup: 09:54 20/8/2026; File anh: 1787194513341_..._4b53397b7d4d1d57f4fd3d5281d09900.jpg; Ghi chu: Bảng gắn trên trụ cổng, thông tin đầy đủ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702747542",
+   "tax_code": "3702747542",
+   "legal_name": "CÔNG TY TNHH MAY MẶC THÔNG THÀNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "40/16, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.976561,
+   "gps_lng": 106.726134,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Đường Bình Chuẩn 34; Thoi gian chup: 10:20 20/8/2026; File anh: 1787196015763_5810595594017668053_g1911935509012421374_098e6a91675054082a9b15b3fac5c901.jpg; Ghi chu: Địa chỉ trên bảng hiệu theo đơn vị hành chính cũ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702692283",
+   "tax_code": "3702692283",
+   "legal_name": "CÔNG TY TNHH MTV CÔNG NGHỆ ÂN ĐỨC",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "61A/17, Đường Bình Chuẩn 28, KP. Bình Phước A, P. Thuận Giao, TP. Hồ Chí Minh",
+   "gps_lat": 10.979919,
+   "gps_lng": 106.724969,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - KP Bình Phước, An Phú; Thoi gian chup: 10:07 20/8/2026; File anh: 1787195271444_..._f30f7fb7b6462f74b26545e9b8dd3354.jpg; Ghi chu: Bảng ghi phường Thuận Giao - cần đối chiếu địa giới sau sáp nhập"
+  },
+  {
+   "common_id": "BC1-DN-92",
+   "tax_code": "3703076897",
+   "legal_name": "CÔNG TY TNHH MTV IN VĨNH XƯƠNG (永昌印刷责任有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 86, tờ bản đồ số 97, Đường Bình Chuẩn 28, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.979738,
+   "gps_lng": 106.724372,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - KP Bình Phước, An Phú; Thoi gian chup: 10:15 20/8/2026; File anh: 1787195725031_..._8d620c34c91d12e4a7540251bcddcdfe.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-44",
+   "tax_code": "3703445488",
+   "legal_name": "CÔNG TY TNHH MTV JI RUN (VN)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 17A/17 Đường Bình Chuẩn 69, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.976749,
+   "gps_lng": 106.724267,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ĐT 0788 576 836; Khu pho (anh): An Phú; Thoi gian chup: 09:35 20/8/2026; File anh: 1787193347613_..._e65f6572fd262d53fb925197e99bff58.jpg; Ghi chu:"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3703398598",
+   "legal_name": "CÔNG TY TNHH MTV THUẬN AN PRINT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "7D/24 Đường Bình Chuẩn 32, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:02 20/8/2026; File anh: 1787194976715_..._2cdc3dfe89a36e124728f6392b8d3779.jpg; Ghi chu: Dòng tọa độ overlay bị chồng chữ - nên đối chiếu lại"
+  },
+  {
+   "common_id": "BC1-DN-54",
+   "tax_code": "3703133947",
+   "legal_name": "CÔNG TY TNHH MTV TM DV MINH PHÁT STEEL",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Không đọc rõ trên bảng lớn (bảng nhỏ bên trong bị che)",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ĐT 0967 776 577 - 0974 812 832, Email Minhphatsteel.89@gmail.com; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 34, P. An Phú); Thoi gian chup: 09:41 20/8/2026; File anh: 1787193703039_..._e858a01b7e9b41d1026c35416ec895ce.jpg; Ghi chu: Chuyên cung cấp sắt thép chế tạo khuôn mẫu; overlay không hiện tọa độ GPS; địa chỉ cần chụp bổ sung"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3702340796",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN KHUÔN MẪU KIM LONG PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 658, tờ bản đồ số 94, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.979283,
+   "gps_lng": 106.725119,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ĐT (0274) 3738 940; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:56 20/8/2026; File anh: 1787194619506_..._82a7a2506f2eb6ab181dd130c435a9a2.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|0313225202",
+   "tax_code": "0313225202",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN MAY MẶC THUẬN AN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 42/21, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.979846,
+   "gps_lng": 106.729268,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:13 20/8/2026; File anh: 1787195634676_..._6dc17437e6d9ee2aeff649929891ad51.jpg; Ghi chu: MST 0313225202 là mã cấp tại TP.HCM; bên dưới có bảng số nhà cũ 42/21 ấp Bình Phước B, P. Bình Chuẩn"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702230722",
+   "tax_code": "3702230722",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN NGŨ KIM VẠN KIM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "45C/28, Đường Bình Chuẩn 63, Tổ 28, KP. Bình Phước A, P. Thuận Giao, TP. Hồ Chí Minh",
+   "gps_lat": 10.972361,
+   "gps_lng": 106.726206,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 63); Thoi gian chup: 10:13 20/8/2026; File anh: 1787195641100_..._b63abcad54416ca41849690d2d4e8881.jpg; Ghi chu: Bảng ghi phường Thuận Giao - cần đối chiếu địa giới sau sáp nhập"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702234621",
+   "tax_code": "3702234621",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN NÔNG VẬN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 116, Tổ 2, KP. Bình Phước A, P. Bình Chuẩn, TX. Thuận An, Bình Dương",
+   "gps_lat": 10.982371,
+   "gps_lng": 106.722733,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ĐT (84) 0650 6282 755-6, Fax (84) 0650 6282 776; Khu pho (anh): Bình Chuẩn 31 / An Phú; Thoi gian chup: 09:45 20/8/2026; File anh: 1787193950372_..._bb88e2ef5f2f330537a52e928636af7b.jpg; Ghi chu: Bảng cũ, chữ mờ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702561724",
+   "tax_code": "3702561724",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI DỊCH VỤ XUẤT NHẬP KHẨU MINH ĐẠI LƯỢNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 129/05, KP. Bình Phước A, Phường Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.977361,
+   "gps_lng": 106.724807,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: SĐT 0969 477 679; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:42 20/8/2026; File anh: 1787193739478_..._4ad84909c5f7b9b9f72ce398dcede709.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702504532",
+   "tax_code": "3702504532",
+   "legal_name": "CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI XUẤT NHẬP KHẨU GIAI MỸ",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 430/17, Đường Lê Thị Trung, Tổ 17, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.97082,
+   "gps_lng": 106.723825,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 09:05 20/8/2026; File anh: 1787191605082_..._397a97a4be6bd96e21e3a214610f1dc7.jpg; Ghi chu: Chung 1 ảnh với You Ping (2 bảng hiệu cùng địa chỉ 430/17)"
+  },
+  {
+   "common_id": "BC1-DN-53",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH NG VINA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "21/5 Khu phố Bình Phước A, Phường Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.978322,
+   "gps_lng": 106.721848,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0274 372 6990; Khu pho (anh): An Phú; Thoi gian chup: 09:40 20/8/2026; File anh: 1787193661855_..._a2ccfddcc6eecc683b4af56f2a92b9f2.jpg; Ghi chu: Cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-31",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH NGŨ KIM LTP",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "136C/17, KP Bình Phước A, P. Bình Chuẩn",
+   "gps_lat": 10.973809,
+   "gps_lng": 106.721417,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 076 650 8418; Khu pho (anh): Bình Chuẩn 41; Thoi gian chup: 09:26 20/8/2026; File anh: 1787192814002_..._d8f00d63506b9528867c99e969bad92d.jpg; Ghi chu: Chuyên thiết kế/gia công khuôn dập, khuôn nhựa, SX hàng ngũ kim - cần bổ sung MST"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703130167",
+   "tax_code": "3703130167",
+   "legal_name": "CÔNG TY TNHH NỆM GIA HUY",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "102/22 Đường Bình Chuẩn 69, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An",
+   "gps_lat": 10.978598,
+   "gps_lng": 106.725346,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0988.876.839, Email sale@ntcvn.vn; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:53 20/8/2026; File anh: 1787194404961_..._30b2e3697939f2a6e6e59b7180fc3e92.jpg; Ghi chu: Bảng hiệu ghi bằng tiếng Anh"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702652097",
+   "tax_code": "3702652097",
+   "legal_name": "CÔNG TY TNHH PHÁT TRIỂN THƯƠNG MẠI DỊCH VỤ HOÀNG MINH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 45, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.975305,
+   "gps_lng": 106.719255,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 078 440 1990; Khu pho (anh): An Phú; Thoi gian chup: 10:14 19/8/2026; File anh: 1787109342414_..._3e5107f6dd99284137bde031d8eac2e0.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702778364",
+   "tax_code": "3702778364",
+   "legal_name": "CÔNG TY TNHH PHỤ KIỆN ĐÓNG GÓI LEKAI",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 89/16 KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.974514,
+   "gps_lng": 106.72402,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 31 / An Phú; Thoi gian chup: 09:26 20/8/2026; File anh: 1787192826913_..._cc79313ed4298b82f1cb69f2d59f41d8.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3701964897",
+   "tax_code": "3701964897",
+   "legal_name": "CÔNG TY TNHH SONG MÃ TIẾN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "43/21 Đường Bình Chuẩn 32, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.980049,
+   "gps_lng": 106.72936,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:14 20/8/2026; File anh: 1787195697215_..._58f54269fe2d5ee5d7a972e0c2fb0448.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-29",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH SX NƯỚC ĐÁ THỊNH ĐẠT 6",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "10/28 Lê Thị Trung, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.972179,
+   "gps_lng": 106.724886,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:21 20/8/2026; File anh: 1787192523495_..._6f96599ef693f54f7d65e043e350d3df.jpg; Ghi chu: Bảng bị dây điện che - nên chụp lại rõ MST"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702722227",
+   "tax_code": "3702722227",
+   "legal_name": "CÔNG TY TNHH SX TM DV HỢP HƯNG PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 987-990, TBĐ C3 (DC9-8), Đường Bình Chuẩn 28, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.977872,
+   "gps_lng": 106.724006,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 1 / An Phú; Thoi gian chup: 10:04 20/8/2026; File anh: 1787195089548_..._095cd78686c7b685b356936a9df12a64.jpg; Ghi chu: Bảng cũ, mặt kính mờ; overlay định vị ghi 'Công ty TNHH May Mặc H&S Vina' - cùng khuôn viên"
+  },
+  {
+   "common_id": "BC1-DN-45",
+   "tax_code": "3702543330",
+   "legal_name": "CÔNG TY TNHH SX TM DV KHANG THÀNH PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Chi nhánh: Số 67B/17, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.974607,
+   "gps_lng": 106.722152,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (chi nhánh tại địa bàn); Lien he: ; Khu pho (anh): P. Thuận Giao (theo overlay), đường Lê Thị Trung; Thoi gian chup: 09:36 20/8/2026; File anh: 1787193415622_..._189728a634da900077b171f9f9cc7851.jpg; Ghi chu: Trụ sở chính: Thửa đất 666, tờ BĐ 39, KP Khánh Lộc, P. Khánh Bình, TP Tân Uyên, Bình Dương"
+  },
+  {
+   "common_id": "BC1-DN-55",
+   "tax_code": "3703485226",
+   "legal_name": "CÔNG TY TNHH SX TM DV QUANG TUẤN PLASTIC",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 22/16, Đường 69, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.978189,
+   "gps_lng": 106.725428,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 086.55x.4.117 (một chữ số bị lưới che), Email plastic...@gmail.com; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:41 20/8/2026; File anh: 1787193723714_..._873c0a2fef6a065ce84e0f93c54c1ec4.jpg; Ghi chu: Ảnh chụp qua lưới B40; bên trái còn 1 bảng CTY TNHH MTV ...PHÁT bị che - cần chụp bổ sung"
+  },
+  {
+   "common_id": "BC1-DN-37",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH SX TM HOPE FULL (VN)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "318/16, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.975717,
+   "gps_lng": 106.724259,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:30 20/8/2026; File anh: 1787193028879_..._7d743838d905ea9194af47ef4843dc2e.jpg; Ghi chu: Cần chụp bổ sung để lấy MST"
+  },
+  {
+   "common_id": "BC1-DN-14",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH SX TM HUY NGUYÊN PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.973029,
+   "gps_lng": 106.723441,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:48 19/8/2026; File anh: 1787111371850_..._4e66005b90d36c1674c6ffd919da9ed4.jpg; Ghi chu: Ảnh chụp bảng nội quy treo tường không phải bảng hiệu công ty"
+  },
+  {
+   "common_id": "BC1-DN-13",
+   "tax_code": "3703433771",
+   "legal_name": "CÔNG TY TNHH SX TM HƯNG THUẬN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "64B/17, Đ. Lê Thị Trung, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.972725,
+   "gps_lng": 106.723761,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:43 19/8/2026; File anh: 1787111039624_..._97d6a47e0e710290f90ec1e2f30a3f82.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-17",
+   "tax_code": "3702841337",
+   "legal_name": "CÔNG TY TNHH SX TM SẮT VIỆT NHẬT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "85/16 KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.971649,
+   "gps_lng": 106.722979,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 11:00 19/8/2026; File anh: 1787112084967_..._edac94b9159b66df591c73e753ac75b6.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703049999",
+   "tax_code": "3703049999",
+   "legal_name": "CÔNG TY TNHH SX TM XUẤT NHẬP KHẨU TIẾN HƯNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "07, Đ. Bình Chuẩn 63, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.973253,
+   "gps_lng": 106.725338,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Đường Bình Chuẩn 63; Thoi gian chup: 10:17 20/8/2026; File anh: 1787195875386_8497243082686075290_g1911935509012421374_a62bcd147e5a3fdf54c77d2103ac51a4.jpg; Ghi chu: Địa chỉ trên bảng hiệu còn ghi theo đơn vị hành chính cũ (P. Bình Chuẩn, TP. Thuận An, Bình Dương)"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3700629134",
+   "tax_code": "3700629134",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT - THƯƠNG MẠI SÁNG TÍN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 675, tờ bản đồ số 94, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.978997,
+   "gps_lng": 106.725002,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: SĐT 0274.3728.966; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:55 20/8/2026; File anh: 1787194531415_..._abe8dd44bed9e9ee450940d9b1364a32.jpg; Ghi chu: Bảng bị liễn đỏ che mép trái - tên DN và MST chưa đọc trọn, cần chụp lại"
+  },
+  {
+   "common_id": "BC1-DN-42",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT BÁCH THỊNH (百盛生产责任有限公司 - Quansheng)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 320/17, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0919 231 589 - 0969 385 62x, Email ...@163.com (bị cây che); Khu pho (anh): An Phú; Thoi gian chup: ~09:33 20/8/2026 (ảnh không có overlay Timemark); File anh: 1787193235814_..._0a9bd15ab1e8a554382b2333e7a58ee8.jpg; Ghi chu: Ảnh không có lớp Timemark nên không có GPS/giờ chính thức; số ĐT và email bị cây che một phần"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3700484256",
+   "tax_code": "3700484256",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT DỊCH VỤ THƯƠNG MẠI GỖ HOÀNG LÂM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "9/21, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.981211,
+   "gps_lng": 106.729041,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1 (ĐT743 Bình Chuẩn 31); Thoi gian chup: 10:37 20/8/2026; File anh: 1787197149794_2235807723871604849_g1911935509012421374_703411a3171558825da1e4dfa65a6d13.jpg; Ghi chu: Địa chỉ trên bảng hiệu theo đơn vị hành chính cũ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3700812450",
+   "tax_code": "3700812450",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ KỸ THUẬT CƠ KHÍ TẤN TÀI",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số nhà 5A/21, Đường ĐT 743, Khu phố Bình Chuẩn 1, Phường An Phú, Thành phố Hồ Chí Minh",
+   "gps_lat": 10.981197,
+   "gps_lng": 106.730064,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:39 20/8/2026; File anh: 1787197466608_2235807723871604849_g1911935509012421374_30fb0b0ddb84fb36573eeb3c5cf84739.jpg; Ghi chu: Bảng hiệu đã cập nhật theo đơn vị hành chính mới (P. An Phú, TP.HCM)"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703123498",
+   "tax_code": "3703123498",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI NHUẬN PHONG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 17/17, Đường Bình Chuẩn 28, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.977562,
+   "gps_lng": 106.723717,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Hotline 0399.03.03.68, Email nhuanphong1201@gmail.com; Khu pho (anh): Bình Chuẩn 1 / An Phú; Thoi gian chup: 10:01 20/8/2026; File anh: 1787194893332_..._b7a19ec8127d6ef2e8bbc92a981700e8.jpg; Ghi chu: Overlay định vị ghi địa điểm là 'Công ty TNHH May Mặc H&S Vina, Thửa đất 138 TBĐ C3, KP Bình Phước A, P. An Phú' - có thể còn DN khác cùng khuôn viên, nên chụp bổ sung"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702452725",
+   "tax_code": "3702452725",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI THĂNG HỢP",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "330/17, Đường Lê Thị Trung, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, T.BD",
+   "gps_lat": 10.970793,
+   "gps_lng": 106.723953,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:04 20/8/2026; File anh: 1787191498956_..._5c34ca7142bfe3069fadd6bbc40a1ed0.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703080237",
+   "tax_code": "3703080237",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI XUẤT NHẬP KHẨU THÁI THÀNH FOODS",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "22D/22, Đ. Bình Chuẩn 34, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An - BD",
+   "gps_lat": 10.976994,
+   "gps_lng": 106.725578,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Hotline 070.3333.688; Khu pho (anh): Đường Bình Chuẩn 34; Thoi gian chup: 10:18 20/8/2026; File anh: 1787195924345_5810595594017668053_g1911935509012421374_837fbe58f09a20ec112aa920cfd89b89.jpg; Ghi chu: Địa chỉ trên bảng hiệu theo đơn vị hành chính cũ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703046370",
+   "tax_code": "3703046370",
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI CONACO",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 8?, tờ bản đồ số 12, Bình Chuẩn 28, P. Bình Chuẩn, TP. Thuận An, Bình Dương (chữ trên bảng hiệu mờ)",
+   "gps_lat": 10.979734,
+   "gps_lng": 106.724303,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0974 504 104; Khu pho (anh): KP Bình Chuẩn 1 (Bình Chuẩn 28, KP Bình Phước); Thoi gian chup: 10:20 20/8/2026; File anh: 1787196200071_2235807723871604849_g1911935509012421374_490059232408b0fe319e22f96cd2dfa5.jpg; Ghi chu: Dòng địa chỉ trên bảng hiệu bị mờ, chỉ đọc được một phần - cần xác minh lại số thửa"
+  },
+  {
+   "common_id": "BC1-DN-65",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH SẢN XUẤT VÀ ĐẦU TƯ HƯNG LONG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Không ghi trên băng rôn",
+   "gps_lat": 10.979154,
+   "gps_lng": 106.725643,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Liên hệ 0902-857196; Khu pho (anh): An Phú (Đường Bình Chuẩn 34); Thoi gian chup: 09:59 20/8/2026; File anh: 1787194785502_..._0e3ddbc57aba3903cb198e6bb362ba72.jpg; Ghi chu: Ảnh chụp băng rôn TUYỂN DỤNG treo trước xưởng, không phải bảng hiệu - cần chụp bổ sung để lấy MST và địa chỉ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703007325",
+   "tax_code": "3703007325",
+   "legal_name": "CÔNG TY TNHH THIẾT KẾ VÀ SẢN XUẤT SOFA QL",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 1486, tờ bản đồ số 95, Đường Bình Chuẩn 32, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.979162,
+   "gps_lng": 106.726559,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 32); Thoi gian chup: 10:01 20/8/2026; File anh: 1787194910211_..._fc771deb5f8b2ef7ee96bf0756e0a459.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3700538871",
+   "tax_code": "3700538871",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI & SẢN XUẤT VIỆT THÀNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "89/16 Bình Phước A, P. Bình Chuẩn, TX. Thuận An, T. Bình Dương",
+   "gps_lat": 10.972605,
+   "gps_lng": 106.723887,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT (0274) 3788 924, Fax (0274) 3798 713, Web crystalbedding.com; Khu pho (anh): ANTT KP Bình Chuẩn 1; Thoi gian chup: 09:29 20/8/2026; File anh: 1787192992467_..._180133ed702493c33918ea97781718ac.jpg; Ghi chu: MST bị logo ANTT che một phần - nên xác minh lại"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3701778650",
+   "tax_code": "3701778650",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI - DỊCH VỤ ĐẠI HƯNG PHÁT ĐẠT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "28/21 Đường ĐT743, KP. Bình Phước B, P. Bình Chuẩn, TX. Thuận An, T. Bình Dương",
+   "gps_lat": 10.980937,
+   "gps_lng": 106.730445,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0274-3798421; Fax 0274-3798422; Email dhpd.co@gmail.com; Khu pho (anh): ĐT743 (overlay không ghi khu phố); Thoi gian chup: 10:42 20/8/2026; File anh: 1787197379493_8520894286458863158_g1911935509012421374_e05caad84855729a0e422ab11d7f0837.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702206857",
+   "tax_code": "3702206857",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI GIÀY DA GIANG PHẠM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "69/1 Bình Chuẩn 41, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:27 20/8/2026; File anh: 1787192849657_..._8b73229474b1265a6f9d8b2f8c314c5f.jpg; Ghi chu: Overlay ảnh không hiện tọa độ GPS, chỉ ghi Đường Bình Chuẩn 41"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703070486",
+   "tax_code": "3703070486",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI PHÁT HƯƠNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "407/17, Đường Bình Chuẩn 28, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.978428,
+   "gps_lng": 106.724432,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 28 - Bình Chuẩn 31, An Phú; Thoi gian chup: 09:57 20/8/2026; File anh: 1787194629163_..._f9eedc0b3240c1d4f6b0adbd06010e08.jpg; Ghi chu: Bảng nhỏ gắn trên cửa gỗ, chữ mờ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703239164",
+   "tax_code": "3703239164",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI SẢN XUẤT YOU PING",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "430/17 Tổ 17, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.97082,
+   "gps_lng": 106.723825,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 09:05 20/8/2026; File anh: 1787191605082_..._397a97a4be6bd96e21e3a214610f1dc7.jpg; Ghi chu: Chung 1 ảnh với Giai Mỹ (2 bảng hiệu cùng địa chỉ 430/17)"
+  },
+  {
+   "common_id": "BC1-DN-27",
+   "tax_code": "370320379",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ ST-BLUE",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "419/16, Lê Thị Trung, KP Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.973403,
+   "gps_lng": 106.723874,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:18 20/8/2026; File anh: 1787192372731_..._3c3a023d60a4c5339e428609bb0f3bbb.jpg; Ghi chu: MST trên bảng chỉ có 9 chữ số (chuẩn là 10) - cần xác minh lại"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703216375",
+   "tax_code": "3703216375",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT THIÊN MINH BBG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 121/17, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.972445,
+   "gps_lng": 106.72344,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:57 19/8/2026; File anh: 1787111854666_..._eca565fb870646625d2868b666a127d5.jpg; Ghi chu:"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3703359704",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU KÌNH THIÊN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 7/1, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.974612,
+   "gps_lng": 106.717,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:04 19/8/2026; File anh: 1787108744644_..._e3730d2de71e4baef7afa8af8dc726dc.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703267919",
+   "tax_code": "3703267919",
+   "legal_name": "CÔNG TY TNHH THƯƠNG MẠI YISHUN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "428A/17, Đường Lê Thị Trung, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.974327,
+   "gps_lng": 106.723405,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:41 19/8/2026; File anh: 1787110955053_..._26bdc734c1b7cecabdbe93b21df434b8.jpg; Ghi chu: Nên chụp lại rõ MST vì bị vật cản che"
+  },
+  {
+   "common_id": "BC1-DN-94",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH THỰC PHẨM TPT (TPT Food)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "55/16, Đường Bình Chuẩn 63, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ĐT 0967 766 555 - 0983 009 845; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 63); Thoi gian chup: 10:17 20/8/2026; File anh: 1787195855332_..._c1c3b800bdced5b8c736e312a4babb12.jpg; Ghi chu: Cung cấp thực phẩm đông lạnh (thịt heo, trâu, bò, gà, thủy sản); overlay ANTT không hiện tọa độ GPS - cần bổ sung MST"
+  },
+  {
+   "common_id": "BC1-DN-20",
+   "tax_code": "3703201266",
+   "legal_name": "CÔNG TY TNHH TM DV BAO BÌ GỖ THIÊN MINH (Thiên Minh Pallet)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 156 Đường Lê Thị Trung, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.97199,
+   "gps_lng": 106.723598,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Mail baominhpallet@gmail.com, Web palletgovn.com; Khu pho (anh): An Phú; Thoi gian chup: 11:06 19/8/2026; File anh: 1787112420974_..._728ea9ba37497917d867747f369e2af5.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703096276",
+   "tax_code": "3703096276",
+   "legal_name": "CÔNG TY TNHH TM DV LONG KHOA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "410/1 Đường Bình Chuẩn 69, Tổ 1, KP Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0973 12 13 27, Mail info.longkhoa22@gmail.com; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:25 20/8/2026; File anh: 1787192720484_..._84f7a14e44c79cae9de983a4ea94b6f8.jpg; Ghi chu: Overlay ảnh không hiện tọa độ GPS, chỉ ghi Đường Bình Chuẩn 41"
+  },
+  {
+   "common_id": "BC1-DN-25",
+   "tax_code": "3702802562",
+   "legal_name": "CÔNG TY TNHH TM HÓA CHẤT THANH LONG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 319, tờ BĐ số 142, KP Bình Phước A, P. Bình Chuẩn, TX. Thuận An, T. Bình Dương",
+   "gps_lat": 10.971731,
+   "gps_lng": 106.724794,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0274 3990 331, Fax 0274 3990 332; Khu pho (anh): An Phú; Thoi gian chup: 09:11 20/8/2026; File anh: 1787191926070_..._e94999cca8b945bbabee407bd49cf825.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-86",
+   "tax_code": null,
+   "legal_name": "CÔNG TY TNHH TM VÀ SX THIẾT BỊ BĂNG TẢI LỰC HỒNG - CN TP. HỒ CHÍ MINH (力鋐輸送設備機械製造有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 80A/28, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.972427,
+   "gps_lng": 106.726621,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Chi nhánh công ty TNHH; Lien he: ĐT 079 929 5168 (tiếng Trung) - 0795 345 168 (Việt - Trung); Khu pho (anh): An Phú (Đường Bình Chuẩn 63); Thoi gian chup: 10:12 20/8/2026; File anh: 1787195554822_..._ca089e1da9323b64e8faec50c366ed79.jpg; Ghi chu: Bảng do Sở Tài chính TP.HCM cấp; gia công cắt-chấn, lắp đặt băng tải, SX con lăn, xe đẩy tay, bàn nâng thuỷ lực - cần bổ sung MST"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|0311948333",
+   "tax_code": "0311948333",
+   "legal_name": "CÔNG TY TNHH TÚI XÁCH ĐÔNG NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "5D/22, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel/Fax 0270-2461161, Email hoan@dongnambags.com; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 32); Thoi gian chup: 10:01 20/8/2026; File anh: 1787194876578_..._d939dfa2e3435de0d1f0d1bf5bc90efb.jpg; Ghi chu: Overlay ANTT không hiện tọa độ GPS; MST 0311948333 là mã cấp tại TP.HCM"
+  },
+  {
+   "common_id": "BC1-DN-41",
+   "tax_code": "3703172255",
+   "legal_name": "CÔNG TY TNHH VIETNAM CREATION PLUS TECHNOLOGY",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "1018 - ĐT748 - KP. Hoá Nhựt - P. Tân Vĩnh Hiệp - TP. Tân Uyên - T. Bình Dương (trụ sở đăng ký)",
+   "gps_lat": 10.974323,
+   "gps_lng": 106.721773,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): P. Thuận Giao (theo overlay); Thoi gian chup: 09:31 20/8/2026; File anh: 1787193192348_..._45059109ff2988a20810d1bee0b49594.jpg; Ghi chu: Địa chỉ trên bảng là trụ sở tại Tân Uyên - cần xác minh địa điểm KD tại An Phú"
+  },
+  {
+   "common_id": "BC1-DN-18",
+   "tax_code": "318052916",
+   "legal_name": "CÔNG TY TNHH VƯƠNG PHÁT INK (VPINK CO. LTD)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "358/13/7 Cách Mạng Tháng 8, P.10, Q.3, TP.HCM (trụ sở chính - không phải tại An Phú)",
+   "gps_lat": 10.971648,
+   "gps_lng": 106.722959,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH MTV; Lien he: Người đại diện: Huỳnh Đức Ny; Khu pho (anh): An Phú; Thoi gian chup: 11:02 19/8/2026; File anh: 1787112148052_..._c3eb5f03d19ac6be2c1ad208cc05c892.jpg; Ghi chu: Ảnh chụp màn hình điện thoại (giấy CN ĐKDN) - trụ sở đăng ký ở Q3; cần xác minh có địa điểm KD tại An Phú hay không"
+  },
+  {
+   "common_id": "BC1-DN-38",
+   "tax_code": "3703291749",
+   "legal_name": "CÔNG TY TNHH VẬT LIỆU MỚI XIMI (越南西米新材料有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "318/16, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.975827,
+   "gps_lng": 106.724322,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel/Zalo 037 3389 218 - 038 4144 762; Khu pho (anh): An Phú; Thoi gian chup: 09:31 20/8/2026; File anh: 1787193092788_..._c479865b188512684a9dcf14d4ebf1b9.jpg; Ghi chu: Pano quảng cáo cung cấp vật liệu bột (barium sulfate, titanium dioxide, talcum powder...); cùng địa chỉ 318/16 với Hope Full (VN)"
+  },
+  {
+   "common_id": "BC1-DN-49",
+   "tax_code": "3703478525",
+   "legal_name": "CÔNG TY TNHH VẬT LIỆU SUPRINT VIỆT NAM (越南速印特材料有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 276/17, Đường Lê Thị Trung, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.977612,
+   "gps_lng": 106.72227,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Hotline 0961.635.836, Web suprintvietnam.com; Khu pho (anh): An Phú; Thoi gian chup: 09:38 20/8/2026; File anh: 1787193529572_..._1d2bcc73682e2500a49ea3d8be8f9ca4.jpg; Ghi chu: Chuyên vật liệu ngành in lụa: lưới mesh, dao gạt mực, keo cảm quang"
+  },
+  {
+   "common_id": "BC1-DN-11",
+   "tax_code": "3703456497",
+   "legal_name": "CÔNG TY TNHH XNK MAY MẶC M&S",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "58/17 Đường Lê Thị Trung, KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.976143,
+   "gps_lng": 106.722633,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:36 19/8/2026; File anh: 1787110601781_..._5ec4c9da43cabea95df69b4ce90b1876.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-93",
+   "tax_code": "0317268888",
+   "legal_name": "CÔNG TY TNHH XUẤT NHẬP KHẨU MAP VIỆT NAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Nhà xưởng: 142 Đường Bình Chuẩn 63, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.972853,
+   "gps_lng": 106.725848,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú (Đường Bình Chuẩn 63); Thoi gian chup: 10:15 20/8/2026; File anh: 1787195748586_..._713274535986130061f499d3dc40faa8.jpg; Ghi chu: Văn phòng đăng ký: 246/30 Đường Dương Quảng Hàm, P.5, Q. Gò Vấp, TP.HCM; tại An Phú là nhà xưởng"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3703239478",
+   "tax_code": "3703239478",
+   "legal_name": "CÔNG TY TNHH YJS. VINA",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "242/1, Đường Bình Chuẩn 62, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.972853,
+   "gps_lng": 106.717496,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 09:54 19/8/2026; File anh: 1787108110392_..._b3b35d69ab1aed5e6c29a1c2c9a5aa53.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-100",
+   "tax_code": "3703098900",
+   "legal_name": "CÔNG TY TNHH ZHI XUN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "T6/57M, Đ. Thuận An Hòa, KP. Bình Thuận 2, P. Thuận Giao, TP. Thuận An, Bình Dương",
+   "gps_lat": 10.975204,
+   "gps_lng": 106.727333,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): (overlay chỉ ghi P. An Phú, không ghi khu phố); Thoi gian chup: 10:22 20/8/2026; File anh: 1787196147597_5810595594017668053_g1911935509012421374_e6261aadfa63047e5c8bb04d7d1acd94.jpg; Ghi chu: Địa chỉ ghi trên bảng hiệu thuộc P. Thuận Giao (cũ), khác với vị trí chụp - cần xác minh trụ sở thực tế"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3701452585",
+   "tax_code": "3701452585",
+   "legal_name": "CÔNG TY TNHH ĐÓNG GÓI THỰC PHẨM ĐẠI HƯNG THỊNH",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 29B/1, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.978882,
+   "gps_lng": 106.720336,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:23 19/8/2026; File anh: 1787109829320_..._d053bcf1c0fbb73e326c961ec4022331.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3702473411",
+   "tax_code": "3702473411",
+   "legal_name": "CÔNG TY TNHH ĐẦU TƯ ĐỨC LẬP FOAM",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 335, Tờ bản đồ số 910, Đường Bình Chuẩn 34, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: Tel 0898 672 345, Email Congtytnhhdautuduclap@gmail.com; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 34); Thoi gian chup: 10:09 20/8/2026; File anh: 1787195380280_..._250d39205fc63bba253f84b483d77e25.jpg; Ghi chu: Overlay ANTT không hiện tọa độ GPS; cùng thửa đất 335 TBĐ 910 với CTY TNHH Hoàng Thuận"
+  },
+  {
+   "common_id": null,
+   "tax_code": "3702972523",
+   "legal_name": "Công Ty Tnhh Hoằng Thuận",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất số 335, TBĐ số 910, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.975763,
+   "gps_lng": 106.728278,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH; Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 10:09 20/8/2026; File anh: 1787195373303_..._ad6fb743243e20ad250f2fafdb490adf.jpg; Ghi chu: Bảng đồng cũ, chữ nổi bị mờ; cùng thửa đất 335 TBĐ 910 với CTY TNHH Đầu tư Đức Lập Foam"
+  },
+  {
+   "common_id": "BC1-DN-5",
+   "tax_code": "315103640",
+   "legal_name": "CƠ SỞ SX SỐ 3 - CÔNG TY TNHH TM&DV HƯNG PHÚ THÁI (HPT / Hung Phu Thai Co. Ltd)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "45/1 KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.974888,
+   "gps_lng": 106.71971,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (cơ sở SX); Lien he: ; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:13 19/8/2026; File anh: 1787109241638_..._c6158f4ec63b78fe14718184eaa8a007.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-8",
+   "tax_code": null,
+   "legal_name": "DNTN TRUNG PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "93/1 KP Bình Phước A, P. An Phú, TP.HCM",
+   "gps_lat": 10.975055,
+   "gps_lng": 106.719614,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: DN tư nhân; Lien he: ĐT 0971 012 339; Khu pho (anh): An Phú; Thoi gian chup: 10:16 19/8/2026; File anh: 1787109440695_..._645c8f2765da07a3ff7a41591bd6919b.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|0300411635",
+   "tax_code": "0300411635",
+   "legal_name": "DOANH NGHIỆP TƯ NHÂN HOÀNH ĐẠT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 39/12, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, T. Bình Dương",
+   "gps_lat": 10.983383,
+   "gps_lng": 106.723553,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Doanh nghiệp tư nhân; Lien he: ; Khu pho (anh): KP Bình Phước A (Đường Tỉnh 743, gần ngã tư Bình Chuẩn); Thoi gian chup: 10:53 20/8/2026; File anh: 1787198046651_8520894286458863158_g1911935509012421374_b3f8ca827de925aacd25fae20ee961f1.jpg; Ghi chu: Địa chỉ trên bảng hiệu theo đơn vị hành chính cũ"
+  },
+  {
+   "common_id": "DOANH_NGHIEP|3700319816",
+   "tax_code": "3700319816",
+   "legal_name": "DOANH NGHIỆP TƯ NHÂN KIẾN HƯNG",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "26/1 KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.97463,
+   "gps_lng": 106.720082,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: DN tư nhân; Lien he: Tel 0274 375 4156, Mail nguyenbien1083@gmail.com; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:09 19/8/2026; File anh: 1787108972634_..._578edab8e9e30e4f8df92a3cd2b78715.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-34",
+   "tax_code": null,
+   "legal_name": "MIFACO (FURNITURE HOME DECOR)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Bình Phước A, An Phú, Hồ Chí Minh",
+   "gps_lat": 10.975702,
+   "gps_lng": 106.724423,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Không rõ loại hình (bảng hiệu chỉ ghi thương hiệu); Lien he: ; Khu pho (anh): An Phú; Thoi gian chup: 09:29 20/8/2026; File anh: 1787192968750_..._7f5395b64d65c2a2574b4cb48cbf5976.jpg; Ghi chu: Bảng hiệu đá chỉ ghi thương hiệu MIFACO - cần chụp bổ sung để lấy tên pháp nhân và MST"
+  },
+  {
+   "common_id": "BC1-DN-103",
+   "tax_code": null,
+   "legal_name": "NGUYÊN PHÚC (quạt các loại - thiết bị ngành gỗ - thông gió - hút bụi)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "16 ĐT743, P. An Phú, TP. Hồ Chí Minh (theo overlay ảnh)",
+   "gps_lat": 10.983038,
+   "gps_lng": 106.7258,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Không rõ (bảng hiệu không ghi loại hình); Lien he: ĐT 0916.600.638 - 0916.297... (số thứ hai bị cắt khỏi khung ảnh); Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 10:26 20/8/2026; File anh: 1787196534679_2235807723871604849_g1911935509012421374_8c97c4be36a704c19316e87130cfbb67.jpg; Ghi chu: Cần bổ sung MST và số điện thoại thứ hai"
+  },
+  {
+   "common_id": "BC1-DN-39",
+   "tax_code": null,
+   "legal_name": "TRƯỜNG THÀNH FURNITURE (長城裝修工程責任有限公司)",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Xưởng SX: Số 276/17, KP. Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Xưởng sản xuất nội thất; Lien he: ĐT 0989.64.25.88; Khu pho (anh): ANTT Bình Chuẩn 1; Thoi gian chup: 09:32 20/8/2026; File anh: 1787193157772_..._d993a83c4256e80bdace90101c5b0ce9.jpg; Ghi chu: Overlay không hiện tọa độ GPS, chỉ ghi Đường Bình Chuẩn 41; bảng quảng cáo thiết kế - thi công - SX nội thất"
+  },
+  {
+   "common_id": "BC1-DN-2",
+   "tax_code": null,
+   "legal_name": "XƯỞNG SẢN XUẤT II - CÔNG TY TNHH TRƯỜNG LINH PHÁT",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Thửa đất 59, tờ BĐ D2 (DC13-2), Đường Bình Chuẩn 62, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.972792,
+   "gps_lng": 106.717903,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Công ty TNHH (xưởng SX); Lien he: Tel 0274-3617805, Fax 0274-3617806, Mail truonglinhphat.wood@gmail.com, Web www.truonglinhphatwood.com; Khu pho (anh): KP Bình Chuẩn 1; Thoi gian chup: 09:58 19/8/2026; File anh: 1787108320887_..._22b9f12b0b34c5a5d1d20cccd500af89.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-DN-74",
+   "tax_code": null,
+   "legal_name": "ĐỊA ĐIỂM KINH DOANH (XƯỞNG SX) - CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SẢN XUẤT MẠNH QUÂN",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "Số 1953, Đường Bình Chuẩn 34, Khu phố Bình Phước A, Phường An Phú, TP. Hồ Chí Minh",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Địa điểm kinh doanh của công ty TNHH; Lien he: ; Khu pho (anh): ANTT Bình Chuẩn 1 (Đường Bình Chuẩn 32); Thoi gian chup: 10:05 20/8/2026; File anh: 1787195115940_..._a6069ce0984324e7fb29cc0d63dd6d8d.jpg; Ghi chu: Overlay ANTT không hiện tọa độ GPS; cần tra MST doanh nghiệp mẹ"
+  },
+  {
+   "common_id": "BC1-DN-51",
+   "tax_code": null,
+   "legal_name": "ĐỊA ĐIỂM KINH DOANH - CÔNG TY TNHH ĐẦU TƯ DV TM RUBBER VIWON",
+   "entity_type": "DOANH_NGHIEP",
+   "actual_address": "112/5 Đường Lê Thị Trung, Tổ 5, KP. Bình Chuẩn 1, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.977628,
+   "gps_lng": 106.72226,
+   "notes": "Khao sat BC1 19/08/2026; Loai hinh: Địa điểm kinh doanh của công ty TNHH; Lien he: ; Khu pho (anh): Bình Chuẩn 1 / An Phú; Thoi gian chup: 09:39 20/8/2026; File anh: 1787193577274_..._c249841effb02c33cfec5c845ab7591e.jpg; Ghi chu: Bảng do Sở Tài chính TP.HCM cấp; chỉ có mã số ĐĐKD, chưa có MST doanh nghiệp mẹ"
+  }
+ ]
+}

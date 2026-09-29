@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Doanh nghiệp &amp; Nhà trọ — Khu phố Bình Chuẩn 1 · An Phú</title>
+<style>
+:root{--bg:#050d1f;--card:#0b1c3a;--line:#12305e;--cy:#22d3ee;--te:#2dd4bf;--am:#fbbf24;--rd:#fb7185;--tx:#dbeafe;--mut:#7ea4d9}
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',system-ui,Arial,sans-serif}
+body{background:radial-gradient(1200px 600px at 70% -10%,#123a6d 0%,var(--bg) 55%);color:var(--tx);min-height:100vh}
+header{padding:14px 18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;border-bottom:1px solid var(--line);background:linear-gradient(90deg,#081531,#0d2550)}
+header h1{font-size:16px;color:#fff;letter-spacing:.5px}
+header .sub{font-size:10.5px;color:var(--cy);letter-spacing:2px}
+main{max-width:1180px;margin:0 auto;padding:16px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:14px}
+.kpi{background:linear-gradient(160deg,var(--card),#0a1730);border:1px solid var(--line);border-radius:14px;padding:13px;position:relative;overflow:hidden}
+.kpi .n{font-size:27px;font-weight:800;color:var(--ac,var(--cy));text-shadow:0 0 16px var(--ac,var(--cy))}
+.kpi .l{font-size:11px;color:var(--mut);margin-top:2px}
+.card{background:rgba(11,28,58,.85);border:1px solid var(--line);border-radius:14px;padding:15px;margin-bottom:12px}
+.card h3{font-size:13px;color:var(--cy);letter-spacing:1px;margin-bottom:11px;text-transform:uppercase}
+#mapBox{height:440px;border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#0a1832}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:11.5px;color:var(--mut);margin-top:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}
+.tabs{display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap}
+.tab{padding:7px 16px;border-radius:99px;border:1px solid var(--line);background:#0a1730;color:var(--mut);cursor:pointer;font-size:12.5px;font-weight:700}
+.tab.on{background:linear-gradient(90deg,#0e7490,#155e75);color:#fff;border-color:#22d3ee}
+.tab .c{opacity:.75;font-weight:400}
+.search{width:100%;max-width:420px;padding:9px 13px;border-radius:10px;border:1px solid var(--line);background:#0a1730;color:var(--tx);font-size:13px;margin-bottom:10px}
+.search::placeholder{color:var(--mut)}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{padding:7px 8px;text-align:left;border-bottom:1px solid #10305c;vertical-align:top}
+th{color:var(--cy);font-weight:700;white-space:nowrap;position:sticky;top:0;background:#0b1c3a}
+tr:hover{background:#0d2a55}
+tr.hl{background:#0e7490}
+.mut{color:var(--mut);font-size:11.5px}
+.badge{display:inline-block;padding:2px 9px;border-radius:99px;font-size:10.5px;font-weight:700}
+.b-dn{background:#064e3b;color:#6ee7b7}.b-nt{background:#3a1d0f;color:#fca5a5}
+.banner{background:rgba(251,191,36,.1);border:1px solid rgba(251,191,36,.35);border-radius:12px;padding:11px 14px;font-size:12.5px;margin-bottom:14px;color:var(--am)}
+.banner b{color:var(--am)}
+footer{text-align:center;font-size:11px;color:var(--mut);padding:16px;border-top:1px solid var(--line)}
+a{color:var(--cy)}
+.scroll{max-height:520px;overflow:auto;border-radius:10px;border:1px solid var(--line)}
+@media(max-width:700px){.kpis{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<header>
+  <div style="font-size:24px">🏢</div>
+  <div>
+    <h1>DOANH NGHIỆP &amp; NHÀ TRỌ · KHU PHỐ BÌNH CHUẨN 1 · PHƯỜNG AN PHÚ</h1>
+    <div class="sub">KHẢO SÁT THỰC ĐỊA 19–20/08/2026 · CÔNG KHAI 24/7 TRÊN GITHUB PAGES</div>
+  </div>
+</header>
+<main>
+  <div class="banner"><b>Trang tĩnh (snapshot):</b> dữ liệu khảo sát doanh nghiệp + nhà trọ thuộc Khu phố Bình Chuẩn 1 (định vị GPS thực địa). Để xem toàn bộ 14 khu phố và các module động, mở <a href="dashboard.html">bản đồ 14 khu phố</a> hoặc <a href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener">giao diện đầy đủ</a> (chạy khi máy chủ nội bộ bật).</div>
+
+  <div class="kpis">
+    <div class="kpi" style="--ac:#2dd4bf"><div class="n" id="kDn">–</div><div class="l">DOANH NGHIỆP KHẢO SÁT</div></div>
+    <div class="kpi" style="--ac:#fbbf24"><div class="n" id="kNt">–</div><div class="l">NHÀ TRỌ KHẢO SÁT</div></div>
+    <div class="kpi" style="--ac:#22d3ee"><div class="n" id="kGps">–</div><div class="l">CÓ TỌA ĐỘ GPS</div></div>
+    <div class="kpi" style="--ac:#38bdf8"><div class="n" id="kKp">–</div><div class="l">TỔNG DN / HKD KHU PHỐ</div></div>
+  </div>
+
+  <div class="card">
+    <h3>🗺️ Bản đồ định vị (bấm vào điểm để xem chi tiết)</h3>
+    <div id="mapBox"></div>
+    <div class="legend">
+      <span><i style="background:#2dd4bf"></i>Doanh nghiệp</span>
+      <span><i style="background:#fbbf24"></i>Nhà trọ</span>
+      <span><i style="background:#12305e"></i>Ranh giới khu phố</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>📋 Danh sách chi tiết</h3>
+    <div class="tabs">
+      <div class="tab on" data-t="dn" id="tabDn">Doanh nghiệp <span class="c" id="cDn"></span></div>
+      <div class="tab" data-t="nt" id="tabNt">Nhà trọ <span class="c" id="cNt"></span></div>
+    </div>
+    <input class="search" id="q" placeholder="Tìm theo tên, địa chỉ, MST…">
+    <div class="scroll"><table>
+      <thead id="th"></thead>
+      <tbody id="tb"></tbody>
+    </table></div>
+  </div>
+</main>
+<footer id="foot">Đang tải dữ liệu… · Bản đồ nền © OpenStreetMap</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script>
+'use strict';
+var DN=[], NT=[], map=null, markers=[], cur='dn';
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];});}
+function gpsTxt(lat,lng){return (lat!=null&&lng!=null)?lat.toFixed(6)+', '+lng.toFixed(6):'–';}
+function noteShort(n){if(!n)return '';var s=String(n);s=s.replace(/Khao sat BC1 \d{2}\/\d{2}\/\d{4};?/,'').replace(/File anh: [^;]*;?/,'').replace(/Thoi gian chup: [^;]*;?/,'');return s.trim();}
+
+function load(){
+  Promise.all([
+    fetch('data/bc1_dn.json',{cache:'no-store'}).then(function(r){return r.json();}),
+    fetch('data/bc1_nhatro.json',{cache:'no-store'}).then(function(r){return r.json();}),
+    fetch('data/kp.json',{cache:'no-store'}).then(function(r){return r.json();}),
+    fetch('data/ranh_gioi.geojson',{cache:'no-store'}).then(function(r){return r.json();})
+  ]).then(function(a){
+    DN=a[0].items||[]; NT=a[1].items||[];
+    var kp=(a[2].kps||[]).find(function(k){return k.code==='KPBC1';});
+    document.getElementById('kDn').textContent=DN.length;
+    document.getElementById('kNt').textContent=NT.length;
+    document.getElementById('kGps').textContent=DN.filter(function(d){return d.gps_lat!=null;}).length+NT.filter(function(d){return d.gps_lat!=null;}).length;
+    document.getElementById('kKp').textContent=kp?kp.enterprise_count:'–';
+    document.getElementById('cDn').textContent='('+DN.length+')';
+    document.getElementById('cNt').textContent='('+NT.length+')';
+    document.getElementById('foot').innerHTML='Cập nhật '+a[2].generated_at+' · <a href="index.html">← Về trang chủ khu phố số</a> · Bản đồ nền © OpenStreetMap';
+    renderMap(a[3]); renderTable();
+  }).catch(function(e){
+    document.getElementById('foot').innerHTML='Lỗi tải dữ liệu: '+esc(e.message);
+  });
+}
+
+function renderMap(gj){
+  if(!window.L)return;
+  map=L.map('mapBox').setView([10.9765,106.7235],15);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap'}).addTo(map);
+  (gj.features||[]).forEach(function(f){
+    var g=f.geometry,c=g.coordinates,rings=[];
+    if(g.type==='MultiPolygon'){c.forEach(function(p){rings.push(p.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));});}
+    else if(g.type==='Polygon'){rings.push(c.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));}
+    if(!rings.length)return;
+    var prop=f.properties||{};
+    if(prop.code==='KPBC1'){
+      L.polygon(rings,{color:'#22d3ee',weight:2,fillColor:'#22d3ee',fillOpacity:.08}).addTo(map)
+       .bindPopup('<b>'+esc(prop.name||'KPBC1')+'</b>');
+    }else{
+      L.polygon(rings,{color:'#12305e',weight:1,fillColor:'#12305e',fillOpacity:.05}).addTo(map);
+    }
+  });
+  DN.forEach(function(d,i){addMarker(d.gps_lat,d.gps_lng,'dn',i,'<b>'+esc(d.legal_name)+'</b><br><span class="mut">'+esc(d.actual_address||'')+'</span><br>MST: '+esc(d.tax_code||'–')+'<br>'+gpsTxt(d.gps_lat,d.gps_lng));});
+  NT.forEach(function(d,i){addMarker(d.gps_lat,d.gps_lng,'nt',i,'<b>'+esc(d.legal_name)+'</b><br><span class="mut">'+esc(d.actual_address||'')+'</span><br>'+gpsTxt(d.gps_lat,d.gps_lng));});
+}
+function addMarker(lat,lng,t,idx,html){
+  if(lat==null||lng==null)return;
+  var col=t==='dn'?'#2dd4bf':'#fbbf24';
+  var m=L.circleMarker([lat,lng],{radius:t==='dn'?6:5,color:'#fff',weight:1,fillColor:col,fillOpacity:.9}).addTo(map);
+  m.bindPopup(html);
+  m.on('click',function(){highlightRow(t,idx);});
+  markers.push({t:t,idx:idx,m:m});
+}
+function highlightRow(t,idx){
+  document.querySelectorAll('#tb tr').forEach(function(r){r.classList.remove('hl');});
+  var tr=document.querySelector('#tb tr[data-i="'+idx+'"]');
+  if(tr){tr.classList.add('hl');tr.scrollIntoView({behavior:'smooth',block:'center'});}
+}
+
+function renderTable(){
+  var src=cur==='dn'?DN:NT;
+  var th=cur==='dn'
+    ?'<tr><th>#</th><th>Tên doanh nghiệp</th><th>MST</th><th>Địa chỉ</th><th>Tọa độ GPS</th><th>Ghi chú</th></tr>'
+    :'<tr><th>#</th><th>Tên nhà trọ / Chủ nhà trọ</th><th>Địa chỉ</th><th>Tọa độ GPS</th><th>Ghi chú</th></tr>';
+  document.getElementById('th').innerHTML=th;
+  var q=document.getElementById('q').value.trim().toLowerCase();
+  var rows=src.map(function(d,i){
+    var hay=(String(d.legal_name||'')+' '+String(d.actual_address||'')+' '+String(d.tax_code||'')).toLowerCase();
+    if(q&&hay.indexOf(q)<0)return '';
+    var badge=cur==='dn'?'<span class="badge b-dn">DN</span>':'<span class="badge b-nt">NHÀ TRỌ</span>';
+    var note=noteShort(d.notes);
+    if(cur==='dn'){
+      return '<tr data-i="'+i+'"><td>'+badge+'</td><td><b>'+esc(d.legal_name)+'</b></td><td class="mut">'+esc(d.tax_code||'–')+'</td>'
+        +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+esc(note)+'</td></tr>';
+    }
+    return '<tr data-i="'+i+'"><td>'+badge+'</td><td><b>'+esc(d.legal_name)+'</b></td>'
+      +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+esc(note)+'</td></tr>';
+  }).join('');
+  document.getElementById('tb').innerHTML=rows||'<tr><td colspan="6" class="mut">Không có kết quả</td></tr>';
+}
+document.getElementById('tabDn').addEventListener('click',function(){cur='dn';this.classList.add('on');document.getElementById('tabNt').classList.remove('on');renderTable();});
+document.getElementById('tabNt').addEventListener('click',function(){cur='nt';this.classList.add('on');document.getElementById('tabDn').classList.remove('on');renderTable();});
+document.getElementById('q').addEventListener('input',renderTable);
+load();
+</script>
+</body>
+</html>

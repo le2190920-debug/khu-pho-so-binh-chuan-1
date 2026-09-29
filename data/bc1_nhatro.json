@@ -1,0 +1,1638 @@
+{
+ "title": "Nha tro khao sat KP Binh Chuan 1",
+ "count": 204,
+ "items": [
+  {
+   "common_id": "BC1-NT-64",
+   "legal_name": "Chưa rõ",
+   "actual_address": "12/3, đường Bình Chuẩn 41",
+   "gps_lat": 10.976177,
+   "gps_lng": 106.718935,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:25 21/8/2026; File anh: 1787311524190_5810595594017668053_g1911935509012421374_db9fdf7a555f3ed21efca5760ad61fc8.jpg; Ghi chu: Ảnh có trường 'Họ tên: Bồ minh huy' - có thể là người chụp (ANTT) chứ không chắc là chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-141",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "8/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.976007,
+   "gps_lng": 106.723558,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:40 23/8/2026; File anh: 1787481670732_5810595594017668053_g1911935509012421374_0b4c039ce6bdd5c1bcb30cb2b850d0c4.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi: Lê Thị Trung, P. An Phú, TP. Hồ Chí Minh"
+  },
+  {
+   "common_id": "BC1-NT-142",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "136/17, hẻm Bình Chuẩn 69",
+   "gps_lat": 10.975735,
+   "gps_lng": 106.724215,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:42 23/8/2026; File anh: 1787481752015_5810595594017668053_g1911935509012421374_4adba3bde0d2d0cde5384d91df6bc619.jpg; Ghi chu: Bảng khảo sát viết tay ghi rõ \"hẻm\""
+  },
+  {
+   "common_id": "BC1-NT-143",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "10/17, hẻm Bình Chuẩn 69",
+   "gps_lat": 10.976354,
+   "gps_lng": 106.72351,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:43 23/8/2026; File anh: 1787481823228_5810595594017668053_g1911935509012421374_4e2359783f98481650998cdde8b52445.jpg; Ghi chu: Bảng khảo sát viết tay ghi rõ \"hẻm\""
+  },
+  {
+   "common_id": "BC1-NT-144",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "200/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.976322,
+   "gps_lng": 106.72396,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:45 23/8/2026; File anh: 1787481921654_5810595594017668053_g1911935509012421374_0ea705123caec4ee3ce75ab7f947d5cf.jpg; Ghi chu: Bảng khảo sát viết tay. Ảnh chụp trong hẻm sâu"
+  },
+  {
+   "common_id": "BC1-NT-145",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "28/18, đường Bình Chuẩn 69",
+   "gps_lat": 10.976901,
+   "gps_lng": 106.724302,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:46 23/8/2026; File anh: 1787482042897_5810595594017668053_g1911935509012421374_22ca04ae67964df338b227faa79b9ed0.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-146",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "57/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.976985,
+   "gps_lng": 106.724432,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:47 23/8/2026; File anh: 1787482160078_5810595594017668053_g1911935509012421374_173ace222a7c97b51d102abe234dc8fc.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-147",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "488/16, đường Bình Chuẩn 69",
+   "gps_lat": 10.97713,
+   "gps_lng": 106.72459,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:50 23/8/2026; File anh: 1787482235692_5810595594017668053_g1911935509012421374_e30ed02f7bb4df3552ca92dfae89d552.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-148",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "269/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.977125,
+   "gps_lng": 106.724611,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:51 23/8/2026; File anh: 1787482282210_5810595594017668053_g1911935509012421374_c8d27ac34d4c53f1258473d0a2d351e4.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-149",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "139/22, đường Bình Chuẩn 69",
+   "gps_lat": 10.977495,
+   "gps_lng": 106.725007,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:52 23/8/2026; File anh: 1787482392102_5810595594017668053_g1911935509012421374_48fcc3bfa2b4b4050531c345878df0a8.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34; mặt tiền có tiệm nail \"Karry Hằng\""
+  },
+  {
+   "common_id": "BC1-NT-150",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "56/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.977684,
+   "gps_lng": 106.72497,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:54 23/8/2026; File anh: 1787482457270_5810595594017668053_g1911935509012421374_bce78e3f51cf52188ac721cf98c2eac8.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-151",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "42/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.977779,
+   "gps_lng": 106.72513,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:55 23/8/2026; File anh: 1787482532574_5810595594017668053_g1911935509012421374_af77e67a6615119cea644a3ea3621af1.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-152",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "5/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.977949,
+   "gps_lng": 106.725101,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:57 23/8/2026; File anh: 1787482673801_5810595594017668053_g1911935509012421374_d33f655ceef30eb31b6adc563dad500d.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-153",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "101/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.978214,
+   "gps_lng": 106.725269,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:57 23/8/2026; File anh: 1787482681175_5810595594017668053_g1911935509012421374_13e09012f8de9e4ba748d177c4602fdd.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-154",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "99/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.977997,
+   "gps_lng": 106.725172,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:58 23/8/2026; File anh: 1787482726874_5810595594017668053_g1911935509012421374_a67e8ac38092d8c50f2978cff8c23e92.jpg; Ghi chu: Bảng khảo sát viết tay. Có bảng \"PHÒNG CHO THUÊ\" số ĐT bị cắt mép ảnh (…6627457) — cần xác minh; biển số nhà gắn tường ghi 99/22, KP. Bình Phước A - P. Bình Chuẩn (địa danh cũ)"
+  },
+  {
+   "common_id": "BC1-NT-155",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "306/17, đường Bình Chuẩn 32",
+   "gps_lat": 10.978244,
+   "gps_lng": 106.725371,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:01 23/8/2026; File anh: 1787482885976_5810595594017668053_g1911935509012421374_c81eaa510d7774e0d6803f6c05b2b16c.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-156",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "481/16, đường Bình Chuẩn 32",
+   "gps_lat": 10.978335,
+   "gps_lng": 106.725466,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:02 23/8/2026; File anh: 1787482973691_5810595594017668053_g1911935509012421374_e0c1d7f08fdefa9dafdff10d570f7d99.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-157",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "316/17, đường Bình Chuẩn 32",
+   "gps_lat": 10.978424,
+   "gps_lng": 106.725419,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:03 23/8/2026; File anh: 1787483032772_5810595594017668053_g1911935509012421374_f453df0048deeb7b305210f98d7176e1.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34; biển số nhà 316 gắn tại hẻm"
+  },
+  {
+   "common_id": "BC1-NT-158",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "497/16, đường Bình Chuẩn 32",
+   "gps_lat": 10.978405,
+   "gps_lng": 106.725515,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:04 23/8/2026; File anh: 1787483113624_5810595594017668053_g1911935509012421374_f58d30ca1dee8206eff2c60fc94a67d8.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-159",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "64/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.97871,
+   "gps_lng": 106.725673,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:06 23/8/2026; File anh: 1787483210266_5810595594017668053_g1911935509012421374_a164a203b42eefde9812018265e77c18.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-160",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "138/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.978687,
+   "gps_lng": 106.725605,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:07 23/8/2026; File anh: 1787483253246_5810595594017668053_g1911935509012421374_466abc03b35495f3149a1b4f0be7e98c.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-161",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "11/26, đường Bình Chuẩn 32",
+   "gps_lat": 10.979132,
+   "gps_lng": 106.725901,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:09 23/8/2026; File anh: 1787483382239_5810595594017668053_g1911935509012421374_c26eadc56a5de85c6556b169b2ae267c.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-162",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "53/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.979174,
+   "gps_lng": 106.726027,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:10 23/8/2026; File anh: 1787483551513_5810595594017668053_g1911935509012421374_4acbc43d789807f1b5aa4719c99ed2d9.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-163",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "54/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.979133,
+   "gps_lng": 106.726085,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:11 23/8/2026; File anh: 1787483569858_5810595594017668053_g1911935509012421374_d963b443ab4b8d418f56e15b8316161b.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-164",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "55/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.97915,
+   "gps_lng": 106.726172,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:11 23/8/2026; File anh: 1787483576100_5810595594017668053_g1911935509012421374_0e358a11a6728afc23ec6243a3b69ce5.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32; biển số nhà 55/22 khớp trên tường"
+  },
+  {
+   "common_id": "BC1-NT-165",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "57/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.979126,
+   "gps_lng": 106.726208,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:12 23/8/2026; File anh: 1787483582544_5810595594017668053_g1911935509012421374_42cde290ec5dce8ce8e094781ad459d2.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-166",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "56/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.979168,
+   "gps_lng": 106.726246,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:13 23/8/2026; File anh: 1787483642719_5810595594017668053_g1911935509012421374_63f06e2a84bf3ca67887f68bd78ce27c.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-167",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "10/26, đường Bình Chuẩn 32",
+   "gps_lat": 10.979579,
+   "gps_lng": 106.726295,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:17 23/8/2026; File anh: 1787483856534_5810595594017668053_g1911935509012421374_ca51496792b94aacc350d246c47f7f4f.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay không ghi tên đường"
+  },
+  {
+   "common_id": "BC1-NT-168",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "66B/22, đường Bình Chuẩn 32",
+   "gps_lat": 10.978885,
+   "gps_lng": 106.726157,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:19 23/8/2026; File anh: 1787483961498_5810595594017668053_g1911935509012421374_247e0cdb6d945622923671eb0f621ae4.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay không ghi tên đường"
+  },
+  {
+   "common_id": "BC1-NT-169",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "69/18, đường Bình Chuẩn 32",
+   "gps_lat": 10.979357,
+   "gps_lng": 106.727777,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:22 23/8/2026; File anh: 1787484133865_5810595594017668053_g1911935509012421374_0e8d77619eeb7500d7733cead9b13103.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 32"
+  },
+  {
+   "common_id": "BC1-NT-171",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "27A/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.977202,
+   "gps_lng": 106.72522,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:30 24/8/2026; File anh: 1787567451751_8520894286458863158_g1911935509012421374_6eb70d0ab4b85a040509c975d11e6946.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34; SĐT 0979200250 trong overlay là của người khảo sát"
+  },
+  {
+   "common_id": "BC1-NT-172",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "558/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.977074,
+   "gps_lng": 106.7253,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:33 24/8/2026; File anh: 1787567589705_8520894286458863158_g1911935509012421374_25f7fe800c682e71fe100e16a76856e8.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Đường Bình Chuẩn 34; SĐT 0979200250 trong overlay là của người khảo sát"
+  },
+  {
+   "common_id": "BC1-NT-174",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "493/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.976702,
+   "gps_lng": 106.725535,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:38 24/8/2026; File anh: 1787567938843_8520894286458863158_g1911935509012421374_80172ee2c9819389a2d3f707b4f1577c.jpg; Ghi chu: Bảng khảo sát viết tay. SĐT 0979200250 trong overlay là của người khảo sát"
+  },
+  {
+   "common_id": "BC1-NT-175",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "1/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.976304,
+   "gps_lng": 106.725649,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:40 24/8/2026; File anh: 1787568049326_8520894286458863158_g1911935509012421374_ee5894b2cfa3c77b3e6340e2d8a696ac.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi vị trí 81/16 đường Bình Chuẩn 34 (khác số trên bảng) - cần xác minh"
+  },
+  {
+   "common_id": "BC1-NT-176",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "8/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.975456,
+   "gps_lng": 106.725671,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:45 24/8/2026; File anh: 1787568340364_8520894286458863158_g1911935509012421374_ffc84e30d216dbd393300b221bf4b4ea.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Khu Phố Bình Phước A"
+  },
+  {
+   "common_id": "BC1-NT-177",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "45A/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.97574,
+   "gps_lng": 106.726185,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:53 24/8/2026; File anh: 1787568851875_8520894286458863158_g1911935509012421374_d28765048e8560a7f9390aa4ea48116c.jpg; Ghi chu: Bảng khảo sát viết tay. Mặt tiền có bảng \"Cho thuê phòng\" ghi 0982869697 / 0978050531 (chưa xác minh là số chủ trọ)"
+  },
+  {
+   "common_id": "BC1-NT-178",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "3/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.975227,
+   "gps_lng": 106.727141,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:00 24/8/2026; File anh: 1787569217094_8520894286458863158_g1911935509012421374_c640976a5d6f62e26d7a79829169d770.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay chỉ ghi Bình Dương, Hồ Chí Minh"
+  },
+  {
+   "common_id": "BC1-NT-179",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "608/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.974618,
+   "gps_lng": 106.727745,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:05 24/8/2026; File anh: 1787569528723_8520894286458863158_g1911935509012421374_0385d65f9ea617811ea2027be4e8b36b.jpg; Ghi chu: Bảng khảo sát viết tay. Trong hẻm có bảng \"Cấm nữ II\""
+  },
+  {
+   "common_id": "BC1-NT-180",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "611/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.974446,
+   "gps_lng": 106.727813,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:08 24/8/2026; File anh: 1787569706494_8520894286458863158_g1911935509012421374_a28f8f875f38238f591599fece13ec88.jpg; Ghi chu: Bảng khảo sát viết tay. Biển số nhà 611/16 (KP Bình Phước A - P. Bình Chuẩn) khớp trên tường; có bảng nội quy nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-181",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "612/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.974452,
+   "gps_lng": 106.727736,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:09 24/8/2026; File anh: 1787569776961_8520894286458863158_g1911935509012421374_2984a8b7293bb4d36ecb8ad445f1afbe.jpg; Ghi chu: Bảng khảo sát viết tay. Biển số nhà 612/16 (KP Bình Phước A - P. Bình Chuẩn) khớp trên trụ"
+  },
+  {
+   "common_id": "BC1-NT-182",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "609/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.974334,
+   "gps_lng": 106.727885,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:14 24/8/2026; File anh: 1787570047160_8520894286458863158_g1911935509012421374_e72bbc42419b61891be289d62d33b51d.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-183",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "476/16, đường Bình Chuẩn 63",
+   "gps_lat": 10.972488,
+   "gps_lng": 106.726806,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:19 24/8/2026; File anh: 1787570361174_8520894286458863158_g1911935509012421374_57484738cb42ae3574134e5102a163d8.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi Bình Chuẩn 63"
+  },
+  {
+   "common_id": "BC1-NT-184",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "77A/22, đường Bình Chuẩn 34",
+   "gps_lat": 10.976429,
+   "gps_lng": 106.727472,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:26 24/8/2026; File anh: 1787570823672_8520894286458863158_g1911935509012421374_6a7113d8b8d5dde8e89e8e768d41d030.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-186",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "590/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.976592,
+   "gps_lng": 106.726645,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:36 24/8/2026; File anh: 1787571419739_8520894286458863158_g1911935509012421374_ee5c13aaac4918663d9bb0f22134aebc.jpg; Ghi chu: Bảng khảo sát viết tay"
+  },
+  {
+   "common_id": "BC1-NT-187",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "183/23, đường Bình Chuẩn 34",
+   "gps_lat": 10.975995,
+   "gps_lng": 106.727032,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:53 24/8/2026; File anh: 1787572406619_8520894286458863158_g1911935509012421374_37f7998a590cdb15a26a1b3d1377eea4.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 23 Đường Bình Chuẩn 34"
+  },
+  {
+   "common_id": "BC1-NT-188",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "79/17, đường Bình Chuẩn 28",
+   "gps_lat": 10.978192,
+   "gps_lng": 106.724659,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ; Thoi gian chup: 18:56 24/8/2026; File anh: 1787572834870_8520894286458863158_g1911935509012421374_ff353aef92d617ecdb400c73882363e4.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay dạng ANTT: KP Bình Chuẩn 1, không hiện tên người khảo sát; overlay ghi vị trí 53/17 đường Bình Chuẩn 34 (khác số trên bảng) - cần xác minh"
+  },
+  {
+   "common_id": "BC1-NT-189",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "16/11, đường Nguyễn Văn Luông",
+   "gps_lat": 10.983305,
+   "gps_lng": 106.724937,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 15:53 30/8/2026; File anh: 1788080047831_8520894286458863158_g1911935509012421374_056a225314fdd3e98117d27669cc7ff5.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 16 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-190",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "4/18, đường Nguyễn Văn Luông",
+   "gps_lat": 10.982813,
+   "gps_lng": 106.726676,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 15:56 30/8/2026; File anh: 1788080197404_8520894286458863158_g1911935509012421374_fdc386125cddd9d83487b70de9059e0e.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 16 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-191",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "3/18, đường Nguyễn Văn Luông",
+   "gps_lat": 10.982633,
+   "gps_lng": 106.726645,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 15:58 30/8/2026; File anh: 1788080343543_8520894286458863158_g1911935509012421374_f4fd8d2fcbf6f54dda3ef180f8c4d670.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 16 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-192",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "2/18, đường Nguyễn Văn Luông",
+   "gps_lat": 10.982393,
+   "gps_lng": 106.726754,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 16:02 30/8/2026; File anh: 1788080535144_8520894286458863158_g1911935509012421374_3ef7aa679f5b2421cc4126e7c13cf1cb.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 16 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-193",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "1/18, đường Bình Chuẩn 60",
+   "gps_lat": 10.981957,
+   "gps_lng": 106.727756,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 16:04 30/8/2026; File anh: 1788080672660_8520894286458863158_g1911935509012421374_1d1fc204f992fe28bc9c6c57dc099206.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 5 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-194",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "5/18, đường Bình Chuẩn 60",
+   "gps_lat": 10.981923,
+   "gps_lng": 106.727745,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 16:05 30/8/2026; File anh: 1788080748713_8520894286458863158_g1911935509012421374_be82c001fd9961cda1b178704ea7e12b.jpg; Ghi chu: Bảng khảo sát viết tay. Mặt tiền có bảng hiệu spa ghi ĐC: 5/18, KP. Bình Phước A, P. Bình Chuẩn, TP. Thuận An, Bình Dương"
+  },
+  {
+   "common_id": "BC1-NT-195",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "11/18, đường Bình Chuẩn 60",
+   "gps_lat": 10.981581,
+   "gps_lng": 106.727651,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 16:09 30/8/2026; File anh: 1788080956108_8520894286458863158_g1911935509012421374_2d684a21a4db4ddc250393221d59367f.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 5 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-196",
+   "legal_name": "Chưa rõ (bảng khảo sát viết tay)",
+   "actual_address": "56/18, đường Bình Chuẩn 60",
+   "gps_lat": 10.981377,
+   "gps_lng": 106.727441,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 16:13 30/8/2026; File anh: 1788081186639_8520894286458863158_g1911935509012421374_45b75fdea73645258991173b59f57325.jpg; Ghi chu: Bảng khảo sát viết tay. Overlay ghi 5 ĐT743"
+  },
+  {
+   "common_id": "BC1-NT-2",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "25/3 Lê Thị Trung",
+   "gps_lat": 10.979306,
+   "gps_lng": 106.72145,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:00 20/8/2026; File anh: 1787216469816_2235807723871604849_g1911935509012421374_6f4b90cab0b67f3d815c649b235fc8f9.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1. Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-3",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "28/3 Lê Thị Trung",
+   "gps_lat": 10.978897,
+   "gps_lng": 106.721468,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:04 20/8/2026; File anh: 1787216707210_8520894286458863158_g1911935509012421374_570c19fc791bca2af1c8138ae6946cfa.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-4",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "28A/3 Lê Thị Trung",
+   "gps_lat": 10.979008,
+   "gps_lng": 106.721519,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:06 20/8/2026; File anh: 1787216880908_8520894286458863158_g1911935509012421374_ffff9df594add021e5478dab063c4708.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-5",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12/2 Lê Thị Trung",
+   "gps_lat": 10.978122,
+   "gps_lng": 106.72185,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:15 20/8/2026; File anh: 1787217323127_8520894286458863158_g1911935509012421374_6a980aed3520d552969bfc9d82e0be17.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-6",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "133/2 Lê Thị Trung",
+   "gps_lat": 10.977851,
+   "gps_lng": 106.721945,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:25 20/8/2026; File anh: 1787217925525_8520894286458863158_g1911935509012421374_7e60813677e9067ec930975b5f8e3153.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-7",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "13/2 Lê Thị Trung",
+   "gps_lat": 10.9781,
+   "gps_lng": 106.721947,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:26 20/8/2026; File anh: 1787218029688_8520894286458863158_g1911935509012421374_2b577a3962e97a0f29739bb6d70ab530.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-8",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "272/17 Lê Thị Trung",
+   "gps_lat": 10.977763,
+   "gps_lng": 106.721895,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:28 20/8/2026; File anh: 1787218136134_8520894286458863158_g1911935509012421374_b9e0a28c4479c49813999b6e9fa93c8a.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-9",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "32/2 Lê Thị Trung",
+   "gps_lat": 10.97752,
+   "gps_lng": 106.722164,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:33 20/8/2026; File anh: 1787218458899_2235807723871604849_g1911935509012421374_7713176c6fe5aabfadb7ebe5e94c0dcb.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1. Vị trí GPS: 60 Đ. Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-10",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "10/2 Lê Thị Trung",
+   "gps_lat": 10.977195,
+   "gps_lng": 106.72217,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:36 20/8/2026; File anh: 1787218638273_8520894286458863158_g1911935509012421374_b2dcb508e9966ead634ac95b2d4a11de.jpg; Ghi chu: Dãy trọ nhiều phòng (quan sát trong ảnh)"
+  },
+  {
+   "common_id": "BC1-NT-12",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "36A/17 Lê Thị Trung",
+   "gps_lat": 10.976552,
+   "gps_lng": 106.722467,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:42 20/8/2026; File anh: 1787218983351_8520894286458863158_g1911935509012421374_c2c293ada991e8c49634a21652b05403.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-13",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "281/17 Lê Thị Trung",
+   "gps_lat": 10.976886,
+   "gps_lng": 106.722398,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:44 20/8/2026; File anh: 1787219141653_2235807723871604849_g1911935509012421374_f542bfb2e58dc61eee3fae035b566755.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1. Vị trí GPS: 60 Đ. Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-15",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "23/17 Lê Thị Trung",
+   "gps_lat": 10.97628,
+   "gps_lng": 106.722264,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:48 20/8/2026; File anh: 1787219355262_8520894286458863158_g1911935509012421374_6d0efd5f600ce8258deacd39cdcf9c10.jpg; Ghi chu: Vị trí GPS: 2 Đ. Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-17",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "39/17 Lê Thị Trung",
+   "gps_lat": 10.975312,
+   "gps_lng": 106.722962,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:56 20/8/2026; File anh: 1787219791623_8520894286458863158_g1911935509012421374_add351ddc48c708ad9f92e4cb84d5929.jpg; Ghi chu: Vị trí GPS: 16 Đ. Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-18",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "219B/17 Lê Thị Trung",
+   "gps_lat": 10.975312,
+   "gps_lng": 106.722962,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:01 20/8/2026; File anh: 1787220122862_8520894286458863158_g1911935509012421374_abc5485dd7603d0bc37f247a5d69ebbe.jpg; Ghi chu: Dãy trọ nhiều phòng. Ảnh có mặt chủ hộ và cán bộ khảo sát"
+  },
+  {
+   "common_id": "BC1-NT-19",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "254/17 Lê Thị Trung",
+   "gps_lat": 10.971836,
+   "gps_lng": 106.72438,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:03 20/8/2026; File anh: 1787220204652_8520894286458863158_g1911935509012421374_9a93a7656c2f3e96a27f0faa5c9914bb.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-20",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "255/17 Lê Thị Trung",
+   "gps_lat": 10.971843,
+   "gps_lng": 106.724384,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:03 20/8/2026; File anh: 1787220250993_8520894286458863158_g1911935509012421374_080e77f62f6716f2c85f1329dcf6f3ac.jpg; Ghi chu: Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-23",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "26/16 Lê Thị Trung",
+   "gps_lat": 10.97433,
+   "gps_lng": 106.723726,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:15 20/8/2026; File anh: 1787220997861_2235807723871604849_g1911935509012421374_7fe8046a0ab1294968ce650a94e16b80.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-24",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "31/16 Lê Thị Trung",
+   "gps_lat": 10.974333,
+   "gps_lng": 106.723423,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:17 20/8/2026; File anh: 1787221048651_2235807723871604849_g1911935509012421374_4d4c308c932e43269dde45d272b7d256.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-26",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "22/17 Lê Thị Trung",
+   "gps_lat": 10.977022,
+   "gps_lng": 106.722253,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0963520331 (bảng \"Còn phòng cho thuê\"); Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:19 20/8/2026; File anh: 1787221218763_8520894286458863158_g1911935509012421374_29e31dd7bca78076896e512f659620fb.jpg; Ghi chu: SĐT lấy từ bảng \"Còn phòng cho thuê\" dán tại chỗ - cần xác minh chủ hộ. Vị trí GPS: 152 Đ. Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-27",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "258/17 Lê Thị Trung",
+   "gps_lat": 10.977466,
+   "gps_lng": 106.722236,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:24 20/8/2026; File anh: 1787221537557_2235807723871604849_g1911935509012421374_950322c4344cd3574c146a5c185a291e.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-28",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "33/4 Thủ Khoa Huân",
+   "gps_lat": 10.981438,
+   "gps_lng": 106.721345,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:30 20/8/2026; File anh: 1787236017425_2235807723871604849_g1911935509012421374_6185e173475272b4a181a274079ec43e.jpg; Ghi chu: Ảnh ghi ANTT: KP Bình Chuẩn 1. Có bảng \"Còn phòng trọ\" tại hẻm"
+  },
+  {
+   "common_id": "BC1-NT-29",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "402/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.974847,
+   "gps_lng": 106.722472,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:18 21/8/2026; File anh: 1787307507423_5416843775802961754_g1911935509012421374_e7761977923150c44e95318d7c623e2f.jpg; Ghi chu: Bảng viết tay. Có dán bảng 'Không mở cửa cho người lạ'"
+  },
+  {
+   "common_id": "BC1-NT-32",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "260/17, đường Bình Chuẩn 69",
+   "gps_lat": 10.974289,
+   "gps_lng": 106.721951,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:22 21/8/2026; File anh: 1787307747057_8497243082686075290_g1911935509012421374_a5238d11fb0865a3645f67ac8f20bd8b.jpg; Ghi chu: Bảng viết tay. Dãy trọ nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-35",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "252/1, đường Bình Chuẩn 69",
+   "gps_lat": 10.972355,
+   "gps_lng": 106.719783,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:29 21/8/2026; File anh: 1787308233221_5416843775802961754_g1911935509012421374_01b0fbc0e61b163b87b1b82fe3529134.jpg; Ghi chu: Bảng viết tay. Số nhà gắn tường: 252/1 KP Bình Phước A. Dãy trọ nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-36",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "252A/1, đường Bình Chuẩn 69",
+   "gps_lat": 10.972347,
+   "gps_lng": 106.719698,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:30 21/8/2026; File anh: 1787308241998_5416843775802961754_g1911935509012421374_6efc0da3a6d5f2b782073f4ebddbd22a.jpg; Ghi chu: Bảng viết tay. Dãy trọ 2 tầng nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-37",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "20B/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.971904,
+   "gps_lng": 106.719164,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:36 21/8/2026; File anh: 1787308645533_2235807723871604849_g1911935509012421374_436f5a35641b35ea90466c07e4bb90de.jpg; Ghi chu: Bảng viết tay. Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-38",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "20/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.971995,
+   "gps_lng": 106.718909,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:37 21/8/2026; File anh: 1787308656811_2235807723871604849_g1911935509012421374_16a2d5dfa9d727602c5d5406aeb3ba80.jpg; Ghi chu: Bảng viết tay. Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-40",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "258/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.973245,
+   "gps_lng": 106.718571,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:41 21/8/2026; File anh: 1787308903429_5416843775802961754_g1911935509012421374_ce1f1aae102a1fec4d4b45b2856a88d2.jpg; Ghi chu: Bảng viết tay. Số nhà gắn tường bên cạnh: 258A"
+  },
+  {
+   "common_id": "BC1-NT-42",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "258A/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.97315,
+   "gps_lng": 106.718471,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:42 21/8/2026; File anh: 1787308980693_5416843775802961754_g1911935509012421374_ea2feecbbbcdec9c5acc1b3bf6be8524.jpg; Ghi chu: Bảng viết tay. Dãy trọ nhiều phòng có máy lạnh"
+  },
+  {
+   "common_id": "BC1-NT-43",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "258B/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.973102,
+   "gps_lng": 106.718474,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:43 21/8/2026; File anh: 1787309028152_5416843775802961754_g1911935509012421374_9d9d3046e2b3a6e8cc7af264796bb822.jpg; Ghi chu: Bảng viết tay. Dãy trọ cấp 4 nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-44",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "235/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.972683,
+   "gps_lng": 106.718144,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:45 21/8/2026; File anh: 1787309139446_5416843775802961754_g1911935509012421374_f6620c44a428f6ac53228ad4538b5fc8.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-46",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "2D/1, đường Bình Chuẩn 62",
+   "gps_lat": 10.973091,
+   "gps_lng": 106.717326,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:47 21/8/2026; File anh: 1787309261454_5416843775802961754_g1911935509012421374_baa8e0e0279da26bfc1642c258ee7b51.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-49",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": null,
+   "gps_lat": 10.9731,
+   "gps_lng": 106.717218,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ; Thoi gian chup: 17:50 21/8/2026; File anh: 1787309448880_2235807723871604849_g1911935509012421374_48439fe6fca48ed9b53ca3a70aec88d9.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-NT-50",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": null,
+   "gps_lat": 10.973443,
+   "gps_lng": 106.716613,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ; Thoi gian chup: 17:54 21/8/2026; File anh: 1787309702548_5416843775802961754_g1911935509012421374_c90e21b5345e4a78e9b12d7cf7d4b633.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-NT-51",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": null,
+   "gps_lat": 10.973397,
+   "gps_lng": 106.71672,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ; Thoi gian chup: 17:55 21/8/2026; File anh: 1787309727249_8497243082686075290_g1911935509012421374_24c4752e6bb9c2ff236a28ed02d0fa3a.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-NT-52",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": null,
+   "gps_lat": 10.973963,
+   "gps_lng": 106.716498,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ; Thoi gian chup: 17:58 21/8/2026; File anh: 1787309944227_5416843775802961754_g1911935509012421374_9d656973457e785cf77e64822936cb8e.jpg; Ghi chu:"
+  },
+  {
+   "common_id": "BC1-NT-53",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "1/5 Thủ Khoa Huân",
+   "gps_lat": 10.974285,
+   "gps_lng": 106.716815,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:02 21/8/2026; File anh: 1787310167380_5416843775802961754_g1911935509012421374_40fb76cf1e1fd91422fd3d95c79f5b0f.jpg; Ghi chu: Bảng viết tay. Dãy trọ nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-71",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "33A/KDC1, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.977551,
+   "gps_lng": 106.719977,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:47 21/8/2026; File anh: 1787312838096_5416843775802961754_g1911935509012421374_cc19886ddb78620a49df36066cfe7a44.jpg; Ghi chu: Bảng viết tay. Cổng có dán bảng 'Tắt máy dẫn bộ - Xin cảm ơn'. Overlay ghi P. Thuận Giao (địa giới cũ)"
+  },
+  {
+   "common_id": "BC1-NT-72",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "27D/1, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.977781,
+   "gps_lng": 106.719622,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:48 21/8/2026; File anh: 1787312912788_2235807723871604849_g1911935509012421374_5d899aa09f7fdadd7f45b63985e1be81.jpg; Ghi chu: Bảng viết tay. Overlay ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-73",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "382/1, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.977772,
+   "gps_lng": 106.719533,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:49 21/8/2026; File anh: 1787312984138_2235807723871604849_g1911935509012421374_f00dbc1033aaba2d1e208d681eb5425e.jpg; Ghi chu: Bảng viết tay. Overlay ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-74",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "120/1, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.977673,
+   "gps_lng": 106.719667,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:50 21/8/2026; File anh: 1787313058382_5416843775802961754_g1911935509012421374_2ba906000472690f6ea4bdc500ce013d.jpg; Ghi chu: Bảng viết tay. Ảnh chụp trong hẻm trọ"
+  },
+  {
+   "common_id": "BC1-NT-75",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "26/1 Thủ Khoa Huân",
+   "gps_lat": 10.978273,
+   "gps_lng": 106.719157,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:56 21/8/2026; File anh: 1787313388722_5416843775802961754_g1911935509012421374_5a338f2d9ec7f160e8df97595d71e10f.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-76",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "48/1 Thủ Khoa Huân",
+   "gps_lat": 10.978331,
+   "gps_lng": 106.719116,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:57 21/8/2026; File anh: 1787313457262_5416843775802961754_g1911935509012421374_e3c5ea8e5ec31230770e66896af5925a.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-77",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "51/1 Thủ Khoa Huân",
+   "gps_lat": 10.97838,
+   "gps_lng": 106.719109,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:58 21/8/2026; File anh: 1787313572014_2235807723871604849_g1911935509012421374_928ea4bfce5337a88ce14cd86fef7eb1.jpg; Ghi chu: Bảng viết tay. Số nhà đọc được là 51/1 (có thể là 5A/1)"
+  },
+  {
+   "common_id": "BC1-NT-78",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "30/1 Thủ Khoa Huân",
+   "gps_lat": 10.978602,
+   "gps_lng": 106.719493,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:03 21/8/2026; File anh: 1787313838292_5416843775802961754_g1911935509012421374_e0d9306eb73267193b401f6844b21599.jpg; Ghi chu: Bảng viết tay. Dãy trọ có nhiều phòng, camera an ninh"
+  },
+  {
+   "common_id": "BC1-NT-79",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "17/1 Thủ Khoa Huân",
+   "gps_lat": 10.977072,
+   "gps_lng": 106.718201,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:04 21/8/2026; File anh: 1787313870509_2235807723871604849_g1911935509012421374_760fd86bdb5d663f0c3fd3e230fddaf7.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-80",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "28/1 Thủ Khoa Huân",
+   "gps_lat": 10.978011,
+   "gps_lng": 106.71945,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:02 21/8/2026; File anh: 1787313895095_2235807723871604849_g1911935509012421374_740fa03f79bfbe4f4afd85af3979b21d.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-81",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "51/1 Thủ Khoa Huân",
+   "gps_lat": 10.97838,
+   "gps_lng": 106.719109,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:58 21/8/2026; File anh: 1787313909839_2235807723871604849_g1911935509012421374_928ea4bfce5337a88ce14cd86fef7eb1.jpg; Ghi chu: TRÙNG ẢNH với file 1787313572014_...928ea4bf (cùng mã hash, cùng nội dung 51/1). Đề nghị chỉ giữ 1 dòng"
+  },
+  {
+   "common_id": "BC1-NT-82",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12/1 Thủ Khoa Huân",
+   "gps_lat": 10.977544,
+   "gps_lng": 106.71904,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:06 21/8/2026; File anh: 1787313981353_2235807723871604849_g1911935509012421374_b99d023499bedbd20aab690afc3a5e14.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-83",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "42/1 Thủ Khoa Huân",
+   "gps_lat": 10.978538,
+   "gps_lng": 106.719523,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:09 21/8/2026; File anh: 1787314193219_5416843775802961754_g1911935509012421374_0609b5c0c072b1e0f579f9c560af31a4.jpg; Ghi chu: Bảng viết tay. Có chủ nhà (người lớn tuổi) trong ảnh"
+  },
+  {
+   "common_id": "BC1-NT-84",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "31/1 Thủ Khoa Huân",
+   "gps_lat": 10.978935,
+   "gps_lng": 106.719381,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:08 21/8/2026; File anh: 1787314266605_2235807723871604849_g1911935509012421374_7378b027ab92e34ae267e5407383dd8b.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-85",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "A3/1 Thủ Khoa Huân",
+   "gps_lat": 10.978718,
+   "gps_lng": 106.719657,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:09 21/8/2026; File anh: 1787314276058_2235807723871604849_g1911935509012421374_3e6a8ec4b99833e3093f18c3ebd08bfe.jpg; Ghi chu: Bảng viết tay. Số nhà đọc là A3/1"
+  },
+  {
+   "common_id": "BC1-NT-86",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "88/1 Thủ Khoa Huân",
+   "gps_lat": 10.979019,
+   "gps_lng": 106.71946,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:11 21/8/2026; File anh: 1787314308165_5416843775802961754_g1911935509012421374_9d8e11eb02d422288f4c4703fe5b99e5.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-87",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "35/1 Thủ Khoa Huân",
+   "gps_lat": 10.979192,
+   "gps_lng": 106.719538,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:12 21/8/2026; File anh: 1787314361584_5416843775802961754_g1911935509012421374_dc99ddae409476a4dbdcfb80a56618b7.jpg; Ghi chu: Bảng viết tay. Trước cửa tiệm tạp hóa, đầu hẻm"
+  },
+  {
+   "common_id": "BC1-NT-88",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "40/3 Thủ Khoa Huân",
+   "gps_lat": 10.979623,
+   "gps_lng": 106.719806,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:14 21/8/2026; File anh: 1787314469747_5416843775802961754_g1911935509012421374_fcdd2d40ff63867cb069ed9072e086fa.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-89",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "34/3 Thủ Khoa Huân",
+   "gps_lat": 10.979679,
+   "gps_lng": 106.719854,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:15 21/8/2026; File anh: 1787314524765_2235807723871604849_g1911935509012421374_b81e9406ef8c682160e8d4cada6fb65b.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-90",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "1/3 Thủ Khoa Huân",
+   "gps_lat": 10.979678,
+   "gps_lng": 106.719777,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:16 21/8/2026; File anh: 1787314585954_2235807723871604849_g1911935509012421374_4062c0c77a69977e743b6eb1730a70a5.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-91",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "45/3 Thủ Khoa Huân",
+   "gps_lat": 10.979782,
+   "gps_lng": 106.71984,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:16 21/8/2026; File anh: 1787314595398_5416843775802961754_g1911935509012421374_596021fe530e28e73533ae7d7a088029.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-92",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "28/3, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.979455,
+   "gps_lng": 106.720436,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:19 21/8/2026; File anh: 1787314752064_5416843775802961754_g1911935509012421374_a863896d1119dc6f1a4acd965ca17bfa.jpg; Ghi chu: Bảng viết tay. Dãy trọ có bình chữa cháy, có chủ nhà trong ảnh"
+  },
+  {
+   "common_id": "BC1-NT-93",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "88/3, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.97951,
+   "gps_lng": 106.720524,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:20 21/8/2026; File anh: 1787314811333_5416843775802961754_g1911935509012421374_4607e6b5005c8b1e64f0e10dceaa38ca.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-94",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "13/3, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.979814,
+   "gps_lng": 106.720642,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:21 21/8/2026; File anh: 1787314889426_5416843775802961754_g1911935509012421374_41f64a78ad411a6d48f53d7756400233.jpg; Ghi chu: Bảng viết tay. Dãy trọ có bình chữa cháy dọc hành lang"
+  },
+  {
+   "common_id": "BC1-NT-95",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "3/3 Thủ Khoa Huân",
+   "gps_lat": 10.979697,
+   "gps_lng": 106.720492,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:21 21/8/2026; File anh: 1787314902302_8497243082686075290_g1911935509012421374_154f85e1ba9686c3ecb9e291a7422078.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-96",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "22/3, hẻm Thủ Khoa Huân",
+   "gps_lat": 10.980161,
+   "gps_lng": 106.720423,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:23 21/8/2026; File anh: 1787315010842_5416843775802961754_g1911935509012421374_bb5beba61cddd0ac449fb62568229c66.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-97",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "2/3 Thủ Khoa Huân",
+   "gps_lat": 10.979694,
+   "gps_lng": 106.720228,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:19 21/8/2026; File anh: 1787315182603_2235807723871604849_g1911935509012421374_f3075577fab8947df94f89fd32ff5aa4.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-98",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "29/3 Thủ Khoa Huân",
+   "gps_lat": 10.97969,
+   "gps_lng": 106.720059,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:19 21/8/2026; File anh: 1787315203814_2235807723871604849_g1911935509012421374_53f554acab4d044c006e9bca2681b573.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-99",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "5/3 Thủ Khoa Huân",
+   "gps_lat": 10.979997,
+   "gps_lng": 106.7204,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 19:23 21/8/2026; File anh: 1787315210752_2235807723871604849_g1911935509012421374_443b3ee879f7d82c0e55b4fbc65ce633.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-100",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "60D/4, hẻm Lê Thị Trung",
+   "gps_lat": 10.980425,
+   "gps_lng": 106.721286,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:31 22/8/2026; File anh: 1787391110073_8520894286458863158_g1911935509012421374_65af8674511555dec10a8f4b4ed971ba.jpg; Ghi chu: Bảng viết tay. Lê Thị Trung là TÊN ĐƯỜNG. KP Bình Phước A. Trên tường có dán 'Cho thuê phòng' kèm SĐT (không đọc rõ)"
+  },
+  {
+   "common_id": "BC1-NT-101",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "4A/6, đường Bình Chuẩn 30",
+   "gps_lat": 10.981003,
+   "gps_lng": 106.722359,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:46 22/8/2026; File anh: 1787392011433_8520894286458863158_g1911935509012421374_bd962e600268ae8aed718f765d60953d.jpg; Ghi chu: Bảng viết tay. Overlay: Bình Chuẩn 28, An Phú, Hồ Chí Minh"
+  },
+  {
+   "common_id": "BC1-NT-102",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "4B/6, đường Bình Chuẩn 30",
+   "gps_lat": 10.9808,
+   "gps_lng": 106.722339,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:48 22/8/2026; File anh: 1787392143391_8520894286458863158_g1911935509012421374_551768a32805ee6b13bea372d1a8224a.jpg; Ghi chu: Bảng viết tay. Dãy trọ nhiều phòng"
+  },
+  {
+   "common_id": "BC1-NT-103",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "4/6, đường Bình Chuẩn 27",
+   "gps_lat": 10.980741,
+   "gps_lng": 106.722065,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:50 22/8/2026; File anh: 1787392252843_8520894286458863158_g1911935509012421374_2a446f61b8bcd019234382c5178a29e6.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-104",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "19/5, đường Bình Chuẩn 27",
+   "gps_lat": 10.980126,
+   "gps_lng": 106.722939,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:53 22/8/2026; File anh: 1787392399503_8520894286458863158_g1911935509012421374_4d9004192e2fd54000946c1de85a5dd0.jpg; Ghi chu: Bảng viết tay. Overlay: 6c/5 Bình Chuẩn 52, An Phú"
+  },
+  {
+   "common_id": "BC1-NT-105",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "13/5, đường Bình Chuẩn 27",
+   "gps_lat": 10.980103,
+   "gps_lng": 106.722957,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:02 22/8/2026; File anh: 1787392958600_8520894286458863158_g1911935509012421374_7802a107100923a7312f9dab3d40efeb.jpg; Ghi chu: Bảng viết tay. Dãy trọ có mái tôn"
+  },
+  {
+   "common_id": "BC1-NT-106",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "16/6, đường Bình Chuẩn 30",
+   "gps_lat": 10.981381,
+   "gps_lng": 106.722703,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:06 22/8/2026; File anh: 1787393172373_8520894286458863158_g1911935509012421374_0f404bb7cfc4800a074f218701163d58.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-107",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "22/6, đường Bình Chuẩn 30",
+   "gps_lat": 10.981555,
+   "gps_lng": 106.722693,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:08 22/8/2026; File anh: 1787393307850_8520894286458863158_g1911935509012421374_ac55972615232fbbe72ddcd76c0dcdd2.jpg; Ghi chu: Bảng viết tay. Dãy trọ vách tôn"
+  },
+  {
+   "common_id": "BC1-NT-108",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "27/9, đường Bình Chuẩn 29",
+   "gps_lat": 10.982179,
+   "gps_lng": 106.723062,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:12 22/8/2026; File anh: 1787393572999_8520894286458863158_g1911935509012421374_00786cdb587e2c1d575221cc7dffa742.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-109",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "8/9, đường Bình Chuẩn 29",
+   "gps_lat": 10.982259,
+   "gps_lng": 106.72312,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:14 22/8/2026; File anh: 1787393671293_8520894286458863158_g1911935509012421374_c356f250e8b0bd3ae27ceaa3c0ed61c0.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-110",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "34/7, đường Bình Chuẩn 29",
+   "gps_lat": 10.982229,
+   "gps_lng": 106.723102,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:15 22/8/2026; File anh: 1787393740307_8520894286458863158_g1911935509012421374_f34a1df1d7f628c9b4725ac860ab9fba.jpg; Ghi chu: Bảng viết tay. Có biển 'NHÀ TRỌ' gắn cổng (chữ mờ)"
+  },
+  {
+   "common_id": "BC1-NT-112",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "3/12, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.982379,
+   "gps_lng": 106.724311,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:25 22/8/2026; File anh: 1787394361693_8520894286458863158_g1911935509012421374_3872c96e8a6e76c1bc4157f354b909fd.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-113",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "10/12, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.982437,
+   "gps_lng": 106.724198,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:26 22/8/2026; File anh: 1787394419540_8520894286458863158_g1911935509012421374_7e60568b7104d4f39eccbe3709649f10.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-114",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "21/6, đường Bình Chuẩn 30",
+   "gps_lat": 10.981199,
+   "gps_lng": 106.72337,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:08 22/8/2026; File anh: 1787394505536_9219930380288132229_g1911935509012421374_4d6e017d10b7e8a4368227e4041250c6.jpg; Ghi chu: Bảng viết tay. Dãy trọ nhiều phòng, có bảng nội quy"
+  },
+  {
+   "common_id": "BC1-NT-115",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "40/7, hẻm Bình Chuẩn 30",
+   "gps_lat": 10.982998,
+   "gps_lng": 106.72246,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:23 22/8/2026; File anh: 1787394520876_9219930380288132229_g1911935509012421374_f2fc90627c2a023f1633860fbf2025eb.jpg; Ghi chu: Bảng viết tay dán tường. Dãy trọ trong hẻm"
+  },
+  {
+   "common_id": "BC1-NT-116",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12A/7, hẻm Bình Chuẩn 30",
+   "gps_lat": 10.983136,
+   "gps_lng": 106.722451,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:25 22/8/2026; File anh: 1787394529075_9219930380288132229_g1911935509012421374_53d5dd8c26c0565c5a52442948d51566.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-117",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12/7, hẻm Bình Chuẩn 30",
+   "gps_lat": 10.983071,
+   "gps_lng": 106.722369,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:25 22/8/2026; File anh: 1787394536542_9219930380288132229_g1911935509012421374_85bf8d4a292cc4a58bf104afc3e2bbf0.jpg; Ghi chu: Bảng viết tay. Dãy trọ trong hẻm"
+  },
+  {
+   "common_id": "BC1-NT-118",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "37/7, đường Bình Chuẩn 30",
+   "gps_lat": 10.983061,
+   "gps_lng": 106.722761,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:31 22/8/2026; File anh: 1787394786553_9219930380288132229_g1911935509012421374_b5c159e39b871910f3ae36df6b681ab5.jpg; Ghi chu: Bảng viết tay. Biển số nhà gắn cổng: 37/07. Có bảng 'Không phận sự miễn vào'"
+  },
+  {
+   "common_id": "BC1-NT-119",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "22/7, đường Bình Chuẩn 30",
+   "gps_lat": 10.982581,
+   "gps_lng": 106.722788,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:33 22/8/2026; File anh: 1787394815934_9219930380288132229_g1911935509012421374_c35b569fda33b1f92158560fb667b6d7.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-120",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "26A/7, đường Bình Chuẩn 30",
+   "gps_lat": 10.982258,
+   "gps_lng": 106.72272,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:36 22/8/2026; File anh: 1787394997889_9219930380288132229_g1911935509012421374_eb72285c91400071780852dd2acf0747.jpg; Ghi chu: Bảng viết tay. Biển số nhà: 26A/07, KP Bình Phước A, P. Bình Chuẩn, TX Thuận An, Bình Dương (địa giới cũ)"
+  },
+  {
+   "common_id": "BC1-NT-121",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "9/12, đường Bình Chuẩn 28",
+   "gps_lat": 10.982666,
+   "gps_lng": 106.724722,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:37 22/8/2026; File anh: 1787395095830_8520894286458863158_g1911935509012421374_fc103ec8965b96161dd78037cdbb24dd.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-122",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12/12, đường Bình Chuẩn 28",
+   "gps_lat": 10.983192,
+   "gps_lng": 106.724583,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:42 22/8/2026; File anh: 1787395360677_8520894286458863158_g1911935509012421374_674773eba931b7353fd9014a627a248c.jpg; Ghi chu: Bảng viết tay. Dãy trọ trong hẻm"
+  },
+  {
+   "common_id": "BC1-NT-123",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "21/11, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.982213,
+   "gps_lng": 106.725372,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:42 22/8/2026; File anh: 1787395482823_9219930380288132229_g1911935509012421374_c657447e8dd79af272d3cb449576d0f9.jpg; Ghi chu: Bảng viết tay. Khu trọ cấp 4 nhiều dãy"
+  },
+  {
+   "common_id": "BC1-NT-124",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "9/11, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.982209,
+   "gps_lng": 106.72528,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:44 22/8/2026; File anh: 1787395491888_9219930380288132229_g1911935509012421374_7e0eed6f2dd3e22f6f61e82fea23d99b.jpg; Ghi chu: Bảng viết tay. Dãy trọ dài, có chuông báo cháy"
+  },
+  {
+   "common_id": "BC1-NT-125",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "14/11, đường Bình Chuẩn 28",
+   "gps_lat": 10.982743,
+   "gps_lng": 106.724985,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:44 22/8/2026; File anh: 1787395502542_8520894286458863158_g1911935509012421374_715e48180697a8afc0a56c7173a9d920.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-126",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "29/11, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.98244,
+   "gps_lng": 106.725559,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:46 22/8/2026; File anh: 1787395601887_8520894286458863158_g1911935509012421374_db1b944a9d01c310778cdcf59f002c7b.jpg; Ghi chu: Bảng viết tay. Overlay: 16 ĐT743, An Phú"
+  },
+  {
+   "common_id": "BC1-NT-127",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "24/11, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.98226,
+   "gps_lng": 106.724991,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Khầy Phong (ANTT cơ sở - CA phường An Phú); Thoi gian chup: 17:48 22/8/2026; File anh: 1787395726798_9219930380288132229_g1911935509012421374_cafd3d70da3b9d57d7ce6f5c976fdfbc.jpg; Ghi chu: Bảng viết tay. Cột điện có biển '11 Phước A'"
+  },
+  {
+   "common_id": "BC1-NT-128",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "32/10, đường Bình Chuẩn 28",
+   "gps_lat": 10.982377,
+   "gps_lng": 106.724653,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT KP Bình Chuẩn 1); Thoi gian chup: 17:49 22/8/2026; File anh: 1787395784408_2235807723871604849_g1911935509012421374_a54322cafa82352ecd93b61668ac2eaa.jpg; Ghi chu: Bảng viết tay. Overlay ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-129",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "1/10, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.981631,
+   "gps_lng": 106.723997,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:53 22/8/2026; File anh: 1787395990733_8520894286458863158_g1911935509012421374_3cf982ea0e5341a1eb82efc869b4953b.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-130",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "2/10, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.981425,
+   "gps_lng": 106.72398,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:54 22/8/2026; File anh: 1787396059221_8520894286458863158_g1911935509012421374_ea7acfbcf8388231d19f8a981916f232.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-131",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "25/10, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.981619,
+   "gps_lng": 106.724649,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:57 22/8/2026; File anh: 1787396236264_8520894286458863158_g1911935509012421374_252fddb182a275f0bd41960ae0e35f8b.jpg; Ghi chu: Bảng viết tay. Có bảng nội quy nhà trọ treo tường"
+  },
+  {
+   "common_id": "BC1-NT-132",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "17/11, đường Bình Chuẩn 28",
+   "gps_lat": 10.981785,
+   "gps_lng": 106.724749,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 18:01 22/8/2026; File anh: 1787396502743_8520894286458863158_g1911935509012421374_7a3569b3ce9fd83451e9ba49b5819ba4.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-133",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "61/17, đường Bình Chuẩn 28",
+   "gps_lat": 10.980067,
+   "gps_lng": 106.724977,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 18:03 22/8/2026; File anh: 1787396651088_8520894286458863158_g1911935509012421374_e9cf817d6bdc4bbfb9e6e3f24164d57a.jpg; Ghi chu: Bảng viết tay. Gần Chợ Bình Phước"
+  },
+  {
+   "common_id": "BC1-NT-134",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "16/17, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.979095,
+   "gps_lng": 106.72441,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:23 23/8/2026; File anh: 1787480651642_5810595594017668053_g1911935509012421374_76c6b0dcb59222bbc0fda5d3d6779bea.jpg; Ghi chu: Bảng viết tay. Dãy trọ mái tôn"
+  },
+  {
+   "common_id": "BC1-NT-135",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "12/17, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.977996,
+   "gps_lng": 106.723686,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:26 23/8/2026; File anh: 1787480794096_5810595594017668053_g1911935509012421374_6b552b12a5932be2b224e86418840186.jpg; Ghi chu: Bảng viết tay"
+  },
+  {
+   "common_id": "BC1-NT-136",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "7/17, hẻm Bình Chuẩn 28",
+   "gps_lat": 10.976418,
+   "gps_lng": 106.723181,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:32 23/8/2026; File anh: 1787481169721_5810595594017668053_g1911935509012421374_1d838954d3c1d8360e95f95d014e9aed.jpg; Ghi chu: Bảng viết tay. Overlay vị trí: đường Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-137",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "60/17, đường Bình Chuẩn 28",
+   "gps_lat": 10.976768,
+   "gps_lng": 106.723068,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:34 23/8/2026; File anh: 1787481302711_5810595594017668053_g1911935509012421374_50e4130b20e23e8547ce0d21b4eeafec.jpg; Ghi chu: Bảng viết tay. Overlay vị trí: đường Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-138",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "37A/17, đường Bình Chuẩn 28",
+   "gps_lat": 10.976948,
+   "gps_lng": 106.722827,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:36 23/8/2026; File anh: 1787481372214_5810595594017668053_g1911935509012421374_b1c3e9d37f9af7853bbf2dda9921a356.jpg; Ghi chu: Bảng viết tay. Overlay vị trí: đường Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-139",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "20A/16, đường Bình Chuẩn 69",
+   "gps_lat": 10.975577,
+   "gps_lng": 106.723241,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:39 23/8/2026; File anh: 1787481560518_5810595594017668053_g1911935509012421374_8559cbab31cb094ae19a709f02d2e6e4.jpg; Ghi chu: Bảng viết tay. Overlay vị trí: 136/17 Lê Thị Trung, P. Thuận Giao — cần xác minh thuộc địa bàn nào"
+  },
+  {
+   "common_id": "BC1-NT-140",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "20/16, đường Bình Chuẩn 69",
+   "gps_lat": 10.975683,
+   "gps_lng": 106.723394,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:39 23/8/2026; File anh: 1787481650255_5810595594017668053_g1911935509012421374_a71da2652fcbefc0df90fe9e2685dc31.jpg; Ghi chu: Bảng viết tay. Overlay vị trí: đường Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-197",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "56/18 Hẻm Bình Chuẩn 60",
+   "gps_lat": 10.980768,
+   "gps_lng": 106.727132,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:16 30/8/2026; File anh: 1788081389402_8520894286458863158_g1911935509012421374_573ee6483579a0e6bdca4b0173b7bc48.jpg; Ghi chu: Bảng viết tay ANTT. Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-199",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "72/18 Bình Chuẩn 60",
+   "gps_lat": 10.980586,
+   "gps_lng": 106.727958,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:21 30/8/2026; File anh: 1788081695376_8520894286458863158_g1911935509012421374_f3d9e77240b84e07a259017730a416e4.jpg; Ghi chu: Bảng viết tay ANTT. Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-200",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "71/18 Bình Chuẩn 60",
+   "gps_lat": 10.980203,
+   "gps_lng": 106.728062,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:22 30/8/2026; File anh: 1788081783698_8520894286458863158_g1911935509012421374_8ab9a87c2ee60913aebb86e6c5888ff7.jpg; Ghi chu: Bảng viết tay ANTT. Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-201",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "8/21 Bình Chuẩn 60",
+   "gps_lat": 10.981401,
+   "gps_lng": 106.72872,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:25 30/8/2026; File anh: 1788081946308_8520894286458863158_g1911935509012421374_d539dc2dd4faf921d5d52de22eec59b8.jpg; Ghi chu: Bảng viết tay ANTT. Chưa có tên chủ nhà trọ"
+  },
+  {
+   "common_id": "BC1-NT-202",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "101/18 Hẻm Nguyễn Văn Lương",
+   "gps_lat": 10.981574,
+   "gps_lng": 106.728031,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:28 30/8/2026; File anh: 1788082122753_8520894286458863158_g1911935509012421374_7ddf19cae16d89ec6189e7778ed653c9.jpg; Ghi chu: Bảng viết tay ANTT. Nguyễn Văn Lương là TÊN ĐƯỜNG, không phải tên chủ trọ"
+  },
+  {
+   "common_id": "BC1-NT-203",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "10/18 Hẻm Nguyễn Văn Lương",
+   "gps_lat": 10.981406,
+   "gps_lng": 106.728007,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:30 30/8/2026; File anh: 1788082208939_8520894286458863158_g1911935509012421374_d306e6e0b9c428ecebd0430e7da810c3.jpg; Ghi chu: Bảng viết tay ANTT. Nguyễn Văn Lương là TÊN ĐƯỜNG, không phải tên chủ trọ"
+  },
+  {
+   "common_id": "BC1-NT-204",
+   "legal_name": "Chưa rõ (bảng viết tay)",
+   "actual_address": "7/18 Nguyễn Văn Lương",
+   "gps_lat": 10.981917,
+   "gps_lng": 106.728152,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:35 30/8/2026; File anh: 1788082555470_8520894286458863158_g1911935509012421374_ba53ada93decff90fb4babb606567494.jpg; Ghi chu: Bảng viết tay ANTT. Nguyễn Văn Lương là TÊN ĐƯỜNG, không phải tên chủ trọ"
+  },
+  {
+   "common_id": "BC1-NT-55",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "3/1, Hẻm Thủ Khoa Huân",
+   "gps_lat": 10.973921,
+   "gps_lng": 106.717534,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:07 21/8/2026; File anh: 1787310485783_2235807723871604849_g1911935509012421374_f2eef8214f5d6fb6559914c7e511986a.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-56",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "3A/1, Hẻm Thủ Khoa Huân",
+   "gps_lat": 10.973843,
+   "gps_lng": 106.717657,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:06 21/8/2026; File anh: 1787310499068_2235807723871604849_g1911935509012421374_f3c784d074441ab26f682d188b4b2f85.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-57",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "1/1A, Hẻm Thủ Khoa Huân (vị trí GPS: 5 Thủ Khoa Huân)",
+   "gps_lat": 10.974379,
+   "gps_lng": 106.717382,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:08 21/8/2026; File anh: 1787310511828_5416843775802961754_g1911935509012421374_85e56bd40fb50c6c1a15f8c462cb11d3.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-58",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "1B/1, Hẻm Thủ Khoa Huân",
+   "gps_lat": 10.974408,
+   "gps_lng": 106.717783,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:10 21/8/2026; File anh: 1787310650536_5416843775802961754_g1911935509012421374_559d24bfc8ca19c6426a7fec0a80a21f.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-59",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "1/1, Hẻm Thủ Khoa Huân",
+   "gps_lat": 10.974285,
+   "gps_lng": 106.717272,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:11 21/8/2026; File anh: 1787310716555_2235807723871604849_g1911935509012421374_d429d10f0f7460f719ec2e2faf741706.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-60",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "8/1, Thủ Khoa Huân",
+   "gps_lat": 10.975629,
+   "gps_lng": 106.717281,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:15 21/8/2026; File anh: 1787310969731_2235807723871604849_g1911935509012421374_554bbe97f371b03a96557997a178c34a.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp ban đêm"
+  },
+  {
+   "common_id": "BC1-NT-61",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "7/1, Thủ Khoa Huân",
+   "gps_lat": 10.975602,
+   "gps_lng": 106.717344,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:19 21/8/2026; File anh: 1787311211687_2235807723871604849_g1911935509012421374_0b025d5c4edbeda4b7a6b013727a6d55.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp lúc chạng vạng"
+  },
+  {
+   "common_id": "BC1-NT-62",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "9/1, Thủ Khoa Huân",
+   "gps_lat": 10.976177,
+   "gps_lng": 106.717667,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:21 21/8/2026; File anh: 1787311312038_5416843775802961754_g1911935509012421374_d5160d1958bec4157ab65c47e1ff46e4.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Hẻm gần công trình kiến trúc mái vòm"
+  },
+  {
+   "common_id": "BC1-NT-63",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "47B/1, đường Bình Chuẩn 41",
+   "gps_lat": 10.975633,
+   "gps_lng": 106.717522,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:23 21/8/2026; File anh: 1787311437318_2235807723871604849_g1911935509012421374_0ecf51b8b86cd4ba58d08804439f85fa.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-65",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "47/1, đường Bình Chuẩn 41",
+   "gps_lat": 10.975856,
+   "gps_lng": 106.718713,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:25 21/8/2026; File anh: 1787311561680_2235807723871604849_g1911935509012421374_f3451dbf65b1e4aba71f92d85d38e385.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-66",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "37/1, đường Bình Chuẩn 41",
+   "gps_lat": 10.975864,
+   "gps_lng": 106.718595,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:30 21/8/2026; File anh: 1787311826367_2235807723871604849_g1911935509012421374_d29fe8978ad2f511b73c54d763b5f343.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT"
+  },
+  {
+   "common_id": "BC1-NT-67",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "13/1, Thủ Khoa Huân",
+   "gps_lat": 10.976806,
+   "gps_lng": 106.718267,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:30 21/8/2026; File anh: 1787311871408_5416843775802961754_g1911935509012421374_3c7c159f443a64d8f90ae1b97e5d0d63.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp ban đêm"
+  },
+  {
+   "common_id": "BC1-NT-68",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "19/1, Thủ Khoa Huân",
+   "gps_lat": 10.97723,
+   "gps_lng": 106.718341,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:34 21/8/2026; File anh: 1787312088578_5416843775802961754_g1911935509012421374_43abd50312217bf09c772ca60b349f45.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp ban đêm"
+  },
+  {
+   "common_id": "BC1-NT-69",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "24/1, Thủ Khoa Huân",
+   "gps_lat": 10.977237,
+   "gps_lng": 106.718739,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:36 21/8/2026; File anh: 1787312207323_2235807723871604849_g1911935509012421374_33f1ad9e6e94443e47390c20e36bbce8.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp ban đêm"
+  },
+  {
+   "common_id": "BC1-NT-70",
+   "legal_name": "Chưa rõ (chỉ có bảng số)",
+   "actual_address": "33/1, Hẻm Thủ Khoa Huân",
+   "gps_lat": 10.977623,
+   "gps_lng": 106.719394,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: ANTT Bình Chuẩn 1; Thoi gian chup: 18:45 21/8/2026; File anh: 1787312741189_5416843775802961754_g1911935509012421374_6a6252e17797d73ae66c2b7ad87269b1.jpg; Ghi chu: Bảng ghi số nhà trọ do ANTT cầm, không có tên chủ/SĐT. Ảnh chụp ban đêm, khu vực chợ/quần áo"
+  },
+  {
+   "common_id": "BC1-NT-185",
+   "legal_name": "Khu nhà Hạnh Phúc",
+   "actual_address": "44B/22, tổ 22, KP Bình Phước A, đường Bình Chuẩn 34",
+   "gps_lat": 10.976317,
+   "gps_lng": 106.727363,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 888640929; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 18:30 24/8/2026; File anh: 1787571054332_8520894286458863158_g1911935509012421374_d3d753f02ecad6f175700e511d3cbf37.jpg; Ghi chu: Bảng hiệu \"KHU NHÀ HẠNH PHÚC\" ghi ĐT 0888 640 929, giờ mở cửa sáng 5h30 - tối 10h30 đóng cửa"
+  },
+  {
+   "common_id": "BC1-NT-33",
+   "legal_name": "Nhà trọ ANH",
+   "actual_address": "246F/01, KP Bình Phước A, P. Bình Chuẩn, TX Thuận An, Bình Dương",
+   "gps_lat": 10.972793,
+   "gps_lng": 106.720114,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:24 21/8/2026; File anh: 1787307851401_5416843775802961754_g1911935509012421374_33656ec212fcc7fd2890c3aa4d4017b6.jpg; Ghi chu: Bảng hiệu do Công an phường cấp. Số 0274 3825175 trên bảng là SĐT Công an P. Bình Chuẩn, KHÔNG phải SĐT chủ trọ"
+  },
+  {
+   "common_id": "BC1-NT-47",
+   "legal_name": "Nhà trọ ANH THẢO - ANH THƯ",
+   "actual_address": "2/1, KP Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.973144,
+   "gps_lng": 106.717144,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0918 931 368; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:50 21/8/2026; File anh: 1787309416935_5416843775802961754_g1911935509012421374_c5d248f57baeb47e0734f607ca64845c.jpg; Ghi chu: Bảng hiệu chính thức (đã cập nhật địa giới mới P. An Phú, TP.HCM). Có bảng số nhà 2/1"
+  },
+  {
+   "common_id": "BC1-NT-11",
+   "legal_name": "Nhà trọ BỒ HỮU TƯỜNG",
+   "actual_address": "36/17, KP Bình Phước A, Bình Chuẩn, Thuận An, Bình Dương",
+   "gps_lat": 10.976534,
+   "gps_lng": 106.722282,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 913.152642; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:41 20/8/2026; File anh: 1787218902057_8520894286458863158_g1911935509012421374_ba1d0a4223ff492710fba046296d2456.jpg; Ghi chu: Bảng hiệu chính thức, có treo Nội quy nhà trọ. Địa chỉ trên bảng theo địa giới cũ"
+  },
+  {
+   "common_id": "BC1-NT-25",
+   "legal_name": "Nhà trọ BỒ PHÚ QUỐC",
+   "actual_address": "45/17, KP Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.976226,
+   "gps_lng": 106.722922,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0979 252 028 / 0831 969 938; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 17:19 20/8/2026; File anh: 1787221196215_5810595594017668053_g1911935509012421374_99601b3737165d6f662a1fc27a572b4f.jpg; Ghi chu: Bảng hiệu chính thức, ghi \"CÒN PHÒNG TRỐNG\". Vị trí GPS: 136/17 Lê Thị Trung"
+  },
+  {
+   "common_id": "BC1-NT-14",
+   "legal_name": "Nhà trọ BỒ THỊ BẢY",
+   "actual_address": "268/17, KP Bình Phước A - Bình Chuẩn - Thuận An - Bình Dương",
+   "gps_lat": 10.976437,
+   "gps_lng": 106.722508,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 907.839381; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:45 20/8/2026; File anh: 1787219174288_8520894286458863158_g1911935509012421374_21177d585e5efff833ab935b6d4b2a7b.jpg; Ghi chu: Bảng hiệu chính thức. Cùng chủ với STT 21 (318/17)"
+  },
+  {
+   "common_id": "BC1-NT-21",
+   "legal_name": "Nhà trọ BỒ THỊ BẢY",
+   "actual_address": "318/17, KP Bình Phước A - P. Bình Chuẩn, TX Thuận An, Bình Dương",
+   "gps_lat": 10.971633,
+   "gps_lng": 106.724359,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 907839381; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:05 20/8/2026; File anh: 1787220953937_2235807723871604849_g1911935509012421374_0830c74af7bb1792ff352436f5ff275c.jpg; Ghi chu: Bảng \"Chủ nhà trọ\". Ảnh ghi ANTT: KP Bình Chuẩn 1. Cùng chủ với STT 14 (268/17)"
+  },
+  {
+   "common_id": "BC1-NT-1",
+   "legal_name": "Nhà trọ CHU THỊ PHONG",
+   "actual_address": "27/3, KP Bình Phước A, P. An Phú, TP. Hồ Chí Minh",
+   "gps_lat": 10.979298,
+   "gps_lng": 106.721266,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0977 578 774; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 15:54 20/8/2026; File anh: 1787216146759_8520894286458863158_g1911935509012421374_065cd7f172851d5802dfb64aba3a0a42.jpg; Ghi chu: Bảng hiệu chính thức. Vị trí: Đường Không Tên Bình Chuẩn 31"
+  },
+  {
+   "common_id": "BC1-NT-30",
+   "legal_name": "Nhà trọ CÔ CHÍN (Út Chị)",
+   "actual_address": "67A/17, đường BC 69, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.974799,
+   "gps_lng": 106.722458,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:19 21/8/2026; File anh: 1787307578897_8497243082686075290_g1911935509012421374_c5e9ec0e61b6cce07b0f3512445e68f8.jpg; Ghi chu: Bảng hiệu chính thức. Địa chỉ trên bảng theo địa giới cũ. Bảng không ghi SĐT"
+  },
+  {
+   "common_id": "BC1-NT-198",
+   "legal_name": "Nhà trọ CÔNG NHÂN",
+   "actual_address": "97/18 Hẻm Bình Chuẩn 60",
+   "gps_lat": 10.980973,
+   "gps_lng": 106.727317,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 966987931; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:18 30/8/2026; File anh: 1788081532168_8520894286458863158_g1911935509012421374_65f939ce04b320986f90cd53ecf7add3.jpg; Ghi chu: Bảng hiệu treo trên cổng: NHÀ TRỌ CÔNG NHÂN - 0966987931. Số nhà 97/18"
+  },
+  {
+   "common_id": "BC1-NT-39",
+   "legal_name": "Nhà trọ KIM DUNG",
+   "actual_address": "241/1, KP Bình Phước A, P. Bình Chuẩn, TX Thuận An, Bình Dương",
+   "gps_lat": null,
+   "gps_lng": null,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:38 21/8/2026; File anh: 1787308718103_5416843775802961754_g1911935509012421374_b8c398a7463b613dfa5755d609a3cc4b.jpg; Ghi chu: Bảng hiệu chính thức, có số nhà 241/1 gắn trụ cổng. Tọa độ trên ảnh bị chồng chữ, chỉ đọc được ~10.9728/106.7180 - CẦN XÁC MINH"
+  },
+  {
+   "common_id": "BC1-NT-170",
+   "legal_name": "Nhà trọ Kim Anh",
+   "actual_address": "38/2 (số trên bảng hiệu, mờ), đường Bình Chuẩn 32",
+   "gps_lat": 10.98049,
+   "gps_lng": 106.730176,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 915252121; Nguoi khao sat: Bồ Minh Huy; Thoi gian chup: 18:23 23/8/2026; File anh: 1787484252376_5810595594017668053_g1911935509012421374_c0b3f7c3bf3be0d63459a416567497ff.jpg; Ghi chu: Bảng hiệu cũ ghi địa chỉ theo đơn vị hành chính cũ: Ấp Bình Phước A, P. Bình Chuẩn, TX. Thuận An, T. Bình Dương. Chụp qua lưới B40 nên số nhà mờ, cần xác minh lại"
+  },
+  {
+   "common_id": "BC1-NT-45",
+   "legal_name": "Nhà trọ LÊ MINH CHIẾN",
+   "actual_address": "2F/1, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.973015,
+   "gps_lng": 106.71734,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:45 21/8/2026; File anh: 1787309153798_2235807723871604849_g1911935509012421374_19a1c25988b4194c36ae362a83862747.jpg; Ghi chu: Bảng hiệu chính thức (bảng số nhà kiêm tên nhà trọ). Ảnh ghi ANTT: KP Bình Chuẩn 1. Vị trí GPS: 2/19 Bình Chuẩn 62. Bảng không ghi SĐT"
+  },
+  {
+   "common_id": "BC1-NT-41",
+   "legal_name": "Nhà trọ MINH HÀ",
+   "actual_address": "2E/1, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.971995,
+   "gps_lng": 106.718909,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0933 55 79 63; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:42 21/8/2026; File anh: 1787308960381_2235807723871604849_g1911935509012421374_f7b3fcf17f793a121f42410a219b6100.jpg; Ghi chu: Bảng hiệu chính thức, có băng rôn 'Cho thuê phòng trọ'. Ảnh ghi ANTT: KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-173",
+   "legal_name": "Nhà trọ Nguyễn Thị Phượng",
+   "actual_address": "505/16, đường Bình Chuẩn 34",
+   "gps_lat": 10.977098,
+   "gps_lng": 106.725518,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang; Thoi gian chup: 17:34 24/8/2026; File anh: 1787567681960_8520894286458863158_g1911935509012421374_3c8a2dca43d38035d10b0c6b921c61fd.jpg; Ghi chu: Bảng hiệu ghi địa chỉ cũ: KP Bình Phước A - P. Bình Chuẩn - TX Thuận An - Bình Dương. SĐT 0979200250 trong overlay là của người khảo sát"
+  },
+  {
+   "common_id": "BC1-NT-31",
+   "legal_name": "Nhà trọ THANH TUẤN",
+   "actual_address": "325D/17, KP Bình Phước A, P. Bình Chuẩn",
+   "gps_lat": 10.97466,
+   "gps_lng": 106.722116,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 17:21 21/8/2026; File anh: 1787307673154_5416843775802961754_g1911935509012421374_40ff5920500b11e9cb4fea8ca8709c27.jpg; Ghi chu: Bảng hiệu chính thức. Dãy trọ nhiều phòng. Nội quy: đóng cổng 22h30, mở cổng 5h00. Bảng không ghi SĐT"
+  },
+  {
+   "common_id": "BC1-NT-54",
+   "legal_name": "Nhà trọ THU THẢO",
+   "actual_address": "Thủ Khoa Huân (bảng không ghi số nhà); vị trí GPS: 5 Thủ Khoa Huân",
+   "gps_lat": 10.974099,
+   "gps_lng": 106.71722,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0366.052.060; Nguoi khao sat: Chưa rõ (ANTT Bình Chuẩn 1); Thoi gian chup: 18:04 21/8/2026; File anh: 1787310469540_5416843775802961754_g1911935509012421374_b65d21a9b2ab29cb331bbf44de9a7482.jpg; Ghi chu: Bảng hiệu chính thức. Dãy trọ lớn nhiều phòng. Bảng KHÔNG ghi số nhà - cần bổ sung"
+  },
+  {
+   "common_id": "BC1-NT-34",
+   "legal_name": "Nhà trọ THÙY TRANG",
+   "actual_address": "252/1B, KP Bình Phước A, P. Bình Chuẩn, TP Thuận An, Bình Dương",
+   "gps_lat": 10.972417,
+   "gps_lng": 106.719787,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0834 938 881; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:28 21/8/2026; File anh: 1787308153207_2235807723871604849_g1911935509012421374_682c6c19f7c0fe6e39a57d8cd5b179fc.jpg; Ghi chu: Bảng hiệu chính thức. Ảnh ghi ANTT: KP Bình Chuẩn 1. Vị trí GPS: đường Bình Chuẩn 62"
+  },
+  {
+   "common_id": "BC1-NT-48",
+   "legal_name": "Nhà trọ TÁM HOAN",
+   "actual_address": "2C/1, KP Bình Phước A, P. Bình Chuẩn, Thuận An, Bình Dương",
+   "gps_lat": 10.97315,
+   "gps_lng": 106.717242,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0919.779.757; Nguoi khao sat: Chưa rõ; Thoi gian chup: 17:49 21/8/2026; File anh: 1787309438670_2235807723871604849_g1911935509012421374_68410c0592f846daeab34b81d7cffed7.jpg; Ghi chu: Bảng hiệu chính thức. Ảnh ghi ANTT: KP Bình Chuẩn 1. Vị trí GPS: 2/19 Bình Chuẩn 62"
+  },
+  {
+   "common_id": "BC1-NT-22",
+   "legal_name": "Nhà trọ ĐỨC HIỀN (cho thuê phòng trọ)",
+   "actual_address": "Đ. Lê Thị Trung (bảng không ghi số nhà)",
+   "gps_lat": 10.971888,
+   "gps_lng": 106.726662,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0964 866 033; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:09 20/8/2026; File anh: 1787220639597_8520894286458863158_g1911935509012421374_cb20d6d5b2ae8be149b3c0ea544efdd5.jpg; Ghi chu: CẦN XÁC MINH: vị trí ảnh ghi khu phố Bình Phước B, có thể ngoài phạm vi KP Bình Chuẩn 1"
+  },
+  {
+   "common_id": "BC1-NT-16",
+   "legal_name": "Phòng trọ BỒ THỊ QUẬN",
+   "actual_address": "KP Bình Phước A - P. Bình Chuẩn - TX Thuận An - Bình Dương",
+   "gps_lat": 10.976316,
+   "gps_lng": 106.722463,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: ; Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 16:52 20/8/2026; File anh: 1787219571456_8520894286458863158_g1911935509012421374_b885118afa8621a52374656a790275fd.jpg; Ghi chu: Bảng hiệu KHÔNG ghi số nhà và số điện thoại - cần bổ sung"
+  },
+  {
+   "common_id": "BC1-NT-111",
+   "legal_name": "Phòng trọ ÚT LINH",
+   "actual_address": "13/9, KP Bình Phước A, P. Bình Chuẩn, TX Thuận An, Bình Dương (địa giới cũ)",
+   "gps_lat": 10.982562,
+   "gps_lng": 106.72287,
+   "notes": "NHA_TRO; Khao sat BC1 20/08/2026; Dien thoai: 0356 708 647 (Zalo 0909 192 044); Nguoi khao sat: Nguyễn Đinh Sang (0979200250); Thoi gian chup: 17:17 22/8/2026; File anh: 1787393847764_8520894286458863158_g1911935509012421374_f9714ac3e9e61d604fe07c6b1d2a722b.jpg; Ghi chu: Bảng hiệu chính thức. Bạt cũ ghi LH: 0919.19.xx (bị che)"
+  }
+ ]
+}
