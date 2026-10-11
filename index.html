@@ -62,13 +62,15 @@ footer{text-align:center;font-size:11px;color:var(--mut);padding:14px;line-heigh
 <body>
 <header>
   <div class="logo">🏘️</div>
-  <div><h1>TRUNG TÂM ĐIỀU HÀNH KHU PHỐ SỐ</h1><div class="sub">KHU PHỐ BÌNH CHUẨN 1 · PHƯỜNG AN PHÚ · TP.HCM</div></div>
+  <div><h1>TRUNG TÂM ĐIỀU HÀNH KHU PHỐ SỐ</h1><div class="sub">KHU PHỐ BÌNH CHUẨN 1 · PHƯỜNG AN PHÚ · TỈNH BÌNH DƯƠNG</div></div>
   <div id="clock"><b>--:--:--</b><span>đang tải…</span></div>
 </header>
 <main>
-  <a id="btnFull" href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener" style="display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(120deg,#0d2550,#122f6b);border:1px solid var(--cy);color:#fff;text-decoration:none;padding:14px;border-radius:14px;font-weight:800;font-size:14px;margin-bottom:14px;box-shadow:0 0 18px rgba(34,211,238,.18)">
-    <span style="font-size:22px">🖥️</span>
-    <span>VÀO GIAO DIỆN KHU PHỐ SỐ ĐẦY ĐỦ (5 MODULE)<small style="display:block;font-weight:400;opacity:.8;font-size:11px">Phản ánh hiện trường · Hỗ trợ công dân/DN · Bản đồ khu phố · KPI 100 điểm · Quản trị số — dữ liệu thật từ máy chủ An Phú</small></span>
+  <!-- Máy chủ nội bộ An Phú. Chỉ mở được trong mạng cơ quan; đặt ngoài mạng sẽ báo lỗi mạng.
+       Không dùng làm CTA chính để tránh người dân bấm rồi thấy trang lỗi. -->
+  <a id="btnFull" href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener" style="display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(120deg,#0d2550,#122f6b);border:1px solid #1e3a6b;color:#cfe4ff;text-decoration:none;padding:11px;border-radius:14px;font-weight:700;font-size:12.5px;margin-bottom:14px;opacity:.85">
+    <span style="font-size:18px">🖥️</span>
+    <span>GIAO DIỆN ĐẦY ĐỦ (5 MODULE) — CHỈ TRONG MẠNG NỘI BỘ CƠ QUAN<small style="display:block;font-weight:400;opacity:.7;font-size:11px">Cần máy chủ nội bộ An Phú đang bật. Người dân bên ngoài vui lòng dùng 3 mục bên dưới.</small></span>
   </a>
   <a href="dashboard.html" style="display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(120deg,#064e3b,#0b7a5a);border:1px solid var(--te);color:#fff;text-decoration:none;padding:12px;border-radius:14px;font-weight:800;font-size:13.5px;margin-bottom:14px;box-shadow:0 0 16px rgba(45,212,191,.16)">
     <span style="font-size:20px">🗺️</span>
@@ -100,7 +102,7 @@ footer{text-align:center;font-size:11px;color:var(--mut);padding:14px;line-heigh
     <div id="qres" style="margin-top:9px"></div>
   </div>
 
-  <div class="card" style="margin-bottom:12px"><h3>🏛️ 9 trụ cột khu phố số — khung thí điểm TP.HCM</h3>
+  <div class="card" style="margin-bottom:12px"><h3>🏛️ 9 trụ cột khu phố số — khung thí điểm tỉnh Bình Dương</h3>
     <div class="pillars" id="pillars"></div>
     <p style="font-size:11px;color:var(--mut);margin-top:8px">% hoàn thiện do khu phố tự chấm theo quý · cùng khung với mô hình thí điểm phường Tân Hưng để sẵn sàng kết nối dữ liệu cấp phường.</p>
   </div>
@@ -133,17 +135,31 @@ footer{text-align:center;font-size:11px;color:var(--mut);padding:14px;line-heigh
   Mô hình thí điểm "Khu phố số" — SLA là cam kết dịch vụ nội bộ của khu phố, không thay thế thời hạn pháp lý.
 </footer>
 
+<script src="app-core.js"></script>
 <script>
 'use strict';
-/* ====== CẤU HÌNH ====== */
+/* ====== CẤU HÌNH ======
+   CHƯA CẤU HÌNH: hotline/Zalo/form để trống. Không đặt số điện thoại hay
+   link giả — người dân bấm vào gọi nhầm là lỗi nghiêm trọng nhất.
+   Khi UBND phường cung cấp số thật, điền vào đây là trang tự bật lại. */
 const CONFIG={
-  formUrl:'https://tinyurl.com/23dw72ku',
-  hotline:'tel:+84900000000',
-  zalo:'https://zalo.me/THAY-LINK-NHOM-ZALO'
+  formUrl:'',          // ví dụ: https://forms.gle/xxxx
+  hotline:'',          // ví dụ: tel:+84912345678
+  zalo:''              // ví dụ: https://zalo.me/1234567890
 };
-document.getElementById('btnForm').href=CONFIG.formUrl;
-document.getElementById('btnCall').href=CONFIG.hotline;
-document.getElementById('btnZalo').href=CONFIG.zalo;
+function bindCfg(id,href,label){
+  const el=document.getElementById(id);if(!el)return;
+  if(href){el.href=href;el.removeAttribute('aria-disabled');el.style.opacity='';el.style.pointerEvents='';el.title='';}
+  else{
+    el.removeAttribute('href');el.setAttribute('aria-disabled','true');
+    el.style.opacity='.45';el.style.pointerEvents='none';
+    el.title=label+' chưa được cấu hình. Vui lòng liên hệ UBND phường An Phú.';
+  }
+}
+bindCfg('btnForm',CONFIG.formUrl,'Biểu mẫu phản ánh');
+bindCfg('btnCall',CONFIG.hotline,'Hotline khu phố');
+bindCfg('btnZalo',CONFIG.zalo,'Zalo nhóm khu phố');
+ANPHU.nav('index.html');
 
 const CATS={rac:['Rác thải','#22d3ee'],ngap:['Ngập nước','#38bdf8'],den:['Đèn đường','#fbbf24'],cayxanh:['Cây xanh','#4ade80'],aninh:['An ninh - TTTT','#fb7185'],pccc:['PCCC nhà trọ','#f97316'],hatang:['Hạ tầng khác','#a78bfa'],tratut:['Trật tự đô thị','#e879f9'],diennuoc:['Điện - nước','#2dd4bf']};
 const PRI={khancap:['Khẩn cấp','#fb7185'],cao:['Cao','#fbbf24'],binhthuong:['Bình thường','#22d3ee'],thongtin:['Thông tin','#7ea4d9']};
@@ -153,7 +169,8 @@ const AT={luadao:'Lừa đảo',thoitiet:'Thời tiết',pccc:'PCCC',aninh:'An n
 const FALLBACK={kp:'Bình Chuẩn 1',phuong:'An Phú',generatedAt:Date.now(),
  stats:{total:12,done:5,onTimePct:92,reachPct:64},
  byCat:{rac:3,ngap:2,den:2,cayxanh:1,aninh:1,pccc:1,hatang:1,tratut:0,diennuoc:1},
- byDay:[{d:0,n:1},{d:1,n:2},{d:2,n:1},{d:3,n:3},{d:4,n:1},{d:5,n:2},{d:6,n:2}],
+ /* d = moc thoi gian that (ms). Dung Date.now() chu khong dung chi so 0/1/2... */
+  byDay:[0,1,2,3,4,5,6].map(function(k,i){return {d:Date.now()-k*864e5,n:[1,2,1,3,1,2,2][i]};}),
  active:[{id:'BC1-2026-00012',cat:'pccc',pri:'cao',title:'Dãy trọ 12 thiếu bình chữa cháy',status:'xuly',createdAt:Date.now()-36e5}],
  notices:[{title:'Lịch thu gom rác điều chỉnh',body:'Xe đến sớm 1 giờ các ngày lễ.',group:'Toàn khu phố',createdAt:Date.now()-2*864e5}],
  alerts:[{type:'luadao',title:'Lừa đảo việc nhẹ lương cao',body:'Không chuyển khoản đặt cọc!',until:Date.now()+7*864e5}],
@@ -192,13 +209,14 @@ function tick(){const n=new Date();
 tick();setInterval(tick,1000);
 
 function render(D){
- CUR=D;
- document.getElementById('kTotal').textContent=D.stats.total;
- document.getElementById('kDone').textContent=D.stats.done;
- document.getElementById('kOn').textContent=D.stats.onTimePct+'%';
- document.getElementById('kReach').textContent=D.stats.reachPct+'%';
- document.getElementById('kAvg').textContent=(D.stats.avgDoneHrs!=null?D.stats.avgDoneHrs:'–');
- document.getElementById('upd').textContent=ft(D.generatedAt);
+  CUR=D;
+  const S=D.stats||{};const n=function(v){return v==null?'–':v;};
+  document.getElementById('kTotal').textContent=n(S.total);
+  document.getElementById('kDone').textContent=n(S.done);
+  document.getElementById('kOn').textContent=S.onTimePct!=null?S.onTimePct+'%':'–';
+  document.getElementById('kReach').textContent=S.reachPct!=null?S.reachPct+'%':'–';
+  document.getElementById('kAvg').textContent=n(S.avgDoneHrs);
+  document.getElementById('upd').textContent=ft(D.generatedAt);
 
  const bc=document.getElementById('byCat');const mx=Math.max.apply(null,[1].concat(Object.values(D.byCat||{})));
  let html='';Object.keys(CATS).forEach(function(c){if(!D.byCat)return;const v=D.byCat[c]||0;
@@ -206,13 +224,21 @@ function render(D){
   html+='<div class="brow"><div class="blab"><span>'+CATS[c][0]+'</span><b>'+v+'</b></div><div class="bar"><i style="width:'+Math.round(v*100/mx)+'%"></i></div></div>';});
  bc.innerHTML=html||'<i style="color:var(--mut)">Chưa có dữ liệu</i>';
 
- const tv=document.getElementById('trend');const days=D.byDay||[];const mx2=Math.max.apply(null,[1].concat(days.map(function(x){return x.n;})));
- const W=300,H=110,P=8,st=W/Math.max(days.length-1,1);
- let pts=days.map(function(x,i){return [P+i*st,H-P-(H-2*P)*x.n/mx2];});
- let path=pts.length?pts.map(function(p,i){return (i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1);}).join(' '):'M0 '+H;
- tv.innerHTML='<path d="'+path+'" fill="none" stroke="#22d3ee" stroke-width="2.5" style="filter:drop-shadow(0 0 5px #22d3ee)"/>'
-  +pts.map(function(p){return '<circle cx="'+p[0]+'" cy="'+p[1]+'" r="3" fill="#2dd4bf"/>';}).join('');
- document.getElementById('trendLab').textContent=days.map(function(x){return new Date(x.d).getDate()+'/'+(new Date(x.d).getMonth()+1);}).join('  ');
+const tv=document.getElementById('trend');
+  const days=(D.byDay||[]).map(function(x){return {n:ANPHU.num(x.n)||0,d:ANPHU.num(x.d)};})
+                            .filter(function(x){return x.d!=null;});
+  if(days.length){
+   const mx2=Math.max.apply(null,[1].concat(days.map(function(x){return x.n;})));
+   const W=300,H=110,P=8,st=W/Math.max(days.length-1,1);
+   const pts=days.map(function(x,i){return [P+i*st,H-P-(H-2*P)*x.n/mx2];});
+   const path=pts.map(function(p,i){return (i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1);}).join(' ');
+   tv.innerHTML='<path d="'+path+'" fill="none" stroke="#22d3ee" stroke-width="2.5" style="filter:drop-shadow(0 0 5px #22d3ee)"/>'
+    +pts.map(function(p){return '<circle cx="'+p[0].toFixed(1)+'" cy="'+p[1].toFixed(1)+'" r="3" fill="#2dd4bf"/>';}).join('');
+   document.getElementById('trendLab').textContent=days.map(function(x){
+     const dt=new Date(x.d);return dt.getDate()+'/'+(dt.getMonth()+1);}).join('  ');
+  }else{
+   tv.innerHTML='';document.getElementById('trendLab').textContent='Chưa có dữ liệu xu hướng';
+  }
 
  const fa=document.getElementById('feedActive');
  fa.innerHTML=((D.active&&D.active.length)?D.active.map(function(r){
@@ -236,9 +262,15 @@ function render(D){
    return '<div class="notice"><b>'+esc(n.title)+'</b><br>'+esc(n.body)+'<br><small>'+esc(n.group)+' · '+fd(n.createdAt)+'</small></div>';}).join('')
    :'<i style="color:var(--mut)">Chưa có thông báo.</i>');
 }
-fetch('public.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json();})
- .then(render).catch(function(){render(FALLBACK);
-  document.getElementById('upd').textContent+=' (dữ liệu mẫu)';});
+ANPHU.guard(render,'ve trang chu')(FALLBACK);document.getElementById('upd').textContent='đang tải…';
+ANPHU.json('public.json').then(render).catch(function(e){
+  render(FALLBACK);
+  var u=document.getElementById('upd');
+  u.textContent=ft(Date.now())+' · DỮ LIỆU MẪU';
+  ANPHU.warn('<b>Dang hien thi du lieu mau, khong phai so lieu that cua khu pho.</b> '+esc(e.message)+
+    '<br><small style="color:var(--mut)">Cac muc phan anh gan nhat co the sai so voi thuc te. '+
+    'Vui long dung ban giao dien day du neu can so lieu chinh thuc.</small>');
+  });
 </script>
 </body>
 </html>

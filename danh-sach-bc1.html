@@ -52,7 +52,7 @@ a{color:var(--cy)}
   </div>
 </header>
 <main>
-  <div class="banner"><b>Trang tĩnh (snapshot):</b> dữ liệu khảo sát doanh nghiệp + nhà trọ thuộc Khu phố Bình Chuẩn 1 (định vị GPS thực địa). Để xem toàn bộ 14 khu phố và các module động, mở <a href="dashboard.html">bản đồ 14 khu phố</a> hoặc <a href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener">giao diện đầy đủ</a> (chạy khi máy chủ nội bộ bật).</div>
+  <div class="banner"><b>Trang tĩnh (snapshot):</b> dữ liệu khảo sát doanh nghiệp + nhà trọ thuộc Khu phố Bình Chuẩn 1 (định vị GPS thực địa). Để xem toàn bộ 14 khu phố và các module động, mở <a href="dashboard.html">bản đồ 14 khu phố</a>. Link <a href="http://10.166.14.198:5100/khuphoso" target="_blank" rel="noopener">giao diện đầy đủ</a> chỉ mở được trong mạng nội bộ của cơ quan.</div>
 
   <div class="kpis">
     <div class="kpi" style="--ac:#2dd4bf"><div class="n" id="kDn">–</div><div class="l">DOANH NGHIỆP KHẢO SÁT</div></div>
@@ -86,46 +86,70 @@ a{color:var(--cy)}
 </main>
 <footer id="foot">Đang tải dữ liệu… · Bản đồ nền © OpenStreetMap</footer>
 
+<script src="app-core.js"></script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script>
 'use strict';
+ANPHU.nav('danh-sach-bc1.html');
 var DN=[], NT=[], map=null, markers=[], cur='dn';
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(m){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];});}
-function gpsTxt(lat,lng){return (lat!=null&&lng!=null)?lat.toFixed(6)+', '+lng.toFixed(6):'–';}
+/* toFixed truc tiep se nem loi neu du lieu la chuoi -> dung ep so an toan */
+function gpsTxt(lat,lng){var a=ANPHU.coord(lat,6),b=ANPHU.coord(lng,6);return (a!=null&&b!=null)?a+', '+b:'–';}
 function noteShort(n){if(!n)return '';var s=String(n);s=s.replace(/Khao sat BC1 \d{2}\/\d{2}\/\d{4};?/,'').replace(/File anh: [^;]*;?/,'').replace(/Thoi gian chup: [^;]*;?/,'');return s.trim();}
 
+/* Tai tung file; file nao hong thi bao ten file va van tiep tuc phan con lai. */
+function settle(p){
+  return ANPHU.json(p).then(function(v){return {ok:true,val:v,path:p};},
+                        function(e){return {ok:false,val:null,path:p,err:e};});
+}
 function load(){
-  Promise.all([
-    fetch('data/bc1_dn.json',{cache:'no-store'}).then(function(r){return r.json();}),
-    fetch('data/bc1_nhatro.json',{cache:'no-store'}).then(function(r){return r.json();}),
-    fetch('data/kp.json',{cache:'no-store'}).then(function(r){return r.json();}),
-    fetch('data/ranh_gioi.geojson',{cache:'no-store'}).then(function(r){return r.json();})
-  ]).then(function(a){
-    DN=a[0].items||[]; NT=a[1].items||[];
-    var kp=(a[2].kps||[]).find(function(k){return k.code==='KPBC1';});
-    document.getElementById('kDn').textContent=DN.length;
-    document.getElementById('kNt').textContent=NT.length;
-    document.getElementById('kGps').textContent=DN.filter(function(d){return d.gps_lat!=null;}).length+NT.filter(function(d){return d.gps_lat!=null;}).length;
-    document.getElementById('kKp').textContent=kp?kp.enterprise_count:'–';
-    document.getElementById('cDn').textContent='('+DN.length+')';
-    document.getElementById('cNt').textContent='('+NT.length+')';
-    document.getElementById('foot').innerHTML='Cập nhật '+a[2].generated_at+' · <a href="index.html">← Về trang chủ khu phố số</a> · Bản đồ nền © OpenStreetMap';
-    renderMap(a[3]); renderTable();
+  Promise.all([settle('data/bc1_dn.json'),settle('data/bc1_nhatro.json'),
+               settle('data/kp.json'),settle('data/ranh_gioi.geojson')])
+  .then(function(a){
+    var bad=a.filter(function(x){return !x.ok;});
+    var d=a[0].ok?a[0].val:null, n=a[1].ok?a[1].val:null;
+    DN=(d&&d.items)?d.items:[]; NT=(n&&n.items)?n.items:[];
+    var kpj=a[2].ok?a[2].val:null;
+    var kps=(kpj&&kpj.kps)?kpj.kps:[];
+    var kp=null; for(var i=0;i<kps.length;i++){ if(kps[i].code==='KPBC1'){kp=kps[i];break;} }
+
+    var g=0, j;
+    for(j=0;j<DN.length;j++){ if(ANPHU.num(DN[j].gps_lat)!=null&&ANPHU.num(DN[j].gps_lng)!=null) g++; }
+    for(j=0;j<NT.length;j++){ if(ANPHU.num(NT[j].gps_lat)!=null&&ANPHU.num(NT[j].gps_lng)!=null) g++; }
+
+    document.getElementById('kDn').textContent = a[0].ok?DN.length:'–';
+    document.getElementById('kNt').textContent = a[1].ok?NT.length:'–';
+    document.getElementById('kGps').textContent = (a[0].ok&&a[1].ok)?g:'–';
+    document.getElementById('kKp').textContent = kp?(ANPHU.num(kp.enterprise_count)||0):'–';
+    document.getElementById('cDn').textContent='('+(a[0].ok?DN.length:0)+')';
+    document.getElementById('cNt').textContent='('+(a[1].ok?NT.length:0)+')';
+
+    if(bad.length){
+      ANPHU.warn('<b>Mot phan du lieu khong tai duoc:</b><br>'+
+        bad.map(function(x){return '&bull; '+esc(x.path)+' — '+esc(x.err.message);}).join('<br>')+
+        '<br><small style="color:var(--mut)">Phan con lai cua trang van dung.</small>');
+    }
+    renderTable();
+    if(a[3].ok) renderMap(a[3].val);
+    else ANPHU.warn('<b>Khong ve duoc ranh gioi.</b> '+esc(a[3].err.message));
+
+    document.getElementById('foot').innerHTML='Cap nhat '+esc(kpj?ANPHU.field(kpj,'generated_at','khong ro'):'khong ro')+
+      ' · <a href="index.html">&larr; Ve trang chu</a> · Ban do nen © OpenStreetMap';
   }).catch(function(e){
-    document.getElementById('foot').innerHTML='Lỗi tải dữ liệu: '+esc(e.message);
+    ANPHU.fatal('Khong tai duoc danh sach khu pho.', e);
+    document.getElementById('foot').innerHTML='Loi tai du lieu · <a href="index.html">&larr; Ve trang chu</a>';
   });
 }
 
 function renderMap(gj){
-  if(!window.L)return;
+  if(!ANPHU.needLeaflet('mapBox')) return;
   map=L.map('mapBox').setView([10.9765,106.7235],15);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap'}).addTo(map);
-  (gj.features||[]).forEach(function(f){
-    var g=f.geometry,c=g.coordinates,rings=[];
-    if(g.type==='MultiPolygon'){c.forEach(function(p){rings.push(p.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));});}
-    else if(g.type==='Polygon'){rings.push(c.map(function(r){return r.map(function(p){return [p[1],p[0]];});}));}
-    if(!rings.length)return;
+  var bounds=null, skipRanh=0;
+  ((gj&&gj.features)||[]).forEach(function(f){
+    var rings=ANPHU.rings(f.geometry);
+    if(!rings.length){skipRanh++;return;}
     var prop=f.properties||{};
     if(prop.code==='KPBC1'){
       L.polygon(rings,{color:'#22d3ee',weight:2,fillColor:'#22d3ee',fillOpacity:.08}).addTo(map)
@@ -133,20 +157,26 @@ function renderMap(gj){
     }else{
       L.polygon(rings,{color:'#12305e',weight:1,fillColor:'#12305e',fillOpacity:.05}).addTo(map);
     }
+    rings.forEach(function(r){ r.forEach(function(ll){ if(!bounds) bounds=L.latLngBounds(ll); else bounds.extend(ll); }); });
   });
+  if(skipRanh){ ANPHU.warn('<b>'+skipRanh+' polygon khong dung duoc cau truc.</b><small style="color:var(--mut)"> Da bo qua, cac polygon con lai van ve.</small>'); }
   DN.forEach(function(d,i){addMarker(d.gps_lat,d.gps_lng,'dn',i,'<b>'+esc(d.legal_name)+'</b><br><span class="mut">'+esc(d.actual_address||'')+'</span><br>MST: '+esc(d.tax_code||'–')+'<br>'+gpsTxt(d.gps_lat,d.gps_lng));});
   NT.forEach(function(d,i){addMarker(d.gps_lat,d.gps_lng,'nt',i,'<b>'+esc(d.legal_name)+'</b><br><span class="mut">'+esc(d.actual_address||'')+'</span><br>'+gpsTxt(d.gps_lat,d.gps_lng));});
+  if(bounds&&bounds.isValid()) map.fitBounds(bounds,{padding:[18,18]});
+  setTimeout(function(){ try{ map.invalidateSize(); }catch(e){} },250);
 }
 function addMarker(lat,lng,t,idx,html){
-  if(lat==null||lng==null)return;
+  var la=ANPHU.num(lat), ln=ANPHU.num(lng);
+  if(la===null||ln===null) return;   /* thieu GPS -> bo qua, khong nem loi */
   var col=t==='dn'?'#2dd4bf':'#fbbf24';
-  var m=L.circleMarker([lat,lng],{radius:t==='dn'?6:5,color:'#fff',weight:1,fillColor:col,fillOpacity:.9}).addTo(map);
+  var m=L.circleMarker([la,ln],{radius:t==='dn'?6:5,color:'#fff',weight:1,fillColor:col,fillOpacity:.9}).addTo(map);
   m.bindPopup(html);
   m.on('click',function(){highlightRow(t,idx);});
   markers.push({t:t,idx:idx,m:m});
 }
 function highlightRow(t,idx){
-  document.querySelectorAll('#tb tr').forEach(function(r){r.classList.remove('hl');});
+  var rs=document.querySelectorAll('#tb tr');
+  for(var j=0;j<rs.length;j++){ rs[j].classList.remove('hl'); }
   var tr=document.querySelector('#tb tr[data-i="'+idx+'"]');
   if(tr){tr.classList.add('hl');tr.scrollIntoView({behavior:'smooth',block:'center'});}
 }
@@ -162,20 +192,27 @@ function renderTable(){
     var hay=(String(d.legal_name||'')+' '+String(d.actual_address||'')+' '+String(d.tax_code||'')).toLowerCase();
     if(q&&hay.indexOf(q)<0)return '';
     var badge=cur==='dn'?'<span class="badge b-dn">DN</span>':'<span class="badge b-nt">NHÀ TRỌ</span>';
-    var note=noteShort(d.notes);
+    var note=esc(noteShort(d.notes));
     if(cur==='dn'){
       return '<tr data-i="'+i+'"><td>'+badge+'</td><td><b>'+esc(d.legal_name)+'</b></td><td class="mut">'+esc(d.tax_code||'–')+'</td>'
-        +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+esc(note)+'</td></tr>';
+        +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+note+'</td></tr>';
     }
     return '<tr data-i="'+i+'"><td>'+badge+'</td><td><b>'+esc(d.legal_name)+'</b></td>'
-      +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+esc(note)+'</td></tr>';
+      +'<td>'+esc(d.actual_address||'–')+'</td><td class="mut">'+gpsTxt(d.gps_lat,d.gps_lng)+'</td><td class="mut">'+note+'</td></tr>';
   }).join('');
-  document.getElementById('tb').innerHTML=rows||'<tr><td colspan="6" class="mut">Không có kết quả</td></tr>';
+  document.getElementById('tb').innerHTML=rows
+    ||'<tr><td colspan="6" class="mut">'+(src.length? 'Khong co ket qua' : 'Danh sach chua tai duoc')+'</td></tr>';
 }
-document.getElementById('tabDn').addEventListener('click',function(){cur='dn';this.classList.add('on');document.getElementById('tabNt').classList.remove('on');renderTable();});
-document.getElementById('tabNt').addEventListener('click',function(){cur='nt';this.classList.add('on');document.getElementById('tabDn').classList.remove('on');renderTable();});
+function setTab(which){
+  cur=which;
+  document.getElementById('tabDn').className='tab'+(which==='dn'?' on':'');
+  document.getElementById('tabNt').className='tab'+(which==='nt'?' on':'');
+  renderTable();
+}
+document.getElementById('tabDn').addEventListener('click',function(){setTab('dn');});
+document.getElementById('tabNt').addEventListener('click',function(){setTab('nt');});
 document.getElementById('q').addEventListener('input',renderTable);
-load();
+ANPHU.guard(load,'tai danh sach KPBC1')();
 </script>
 </body>
 </html>
